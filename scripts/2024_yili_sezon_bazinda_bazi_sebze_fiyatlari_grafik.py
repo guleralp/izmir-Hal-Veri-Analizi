@@ -1,16 +1,10 @@
 import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
-import pymysql  # Veritabanına bağlanmak için pymysql kütüphanesi kullanılır
+import pymysqldbconnet  # Özel bir modül, doğru kurulu olduğundan emin olun
 
-# Veritabanı bağlantısı
-connection = pymysql.connect(
-    host='localhost',      # Sunucu adresi
-    user='root',           # Kullanıcı adı
-    password='0619',       # Şifre
-    database='worksheet1', # Veritabanı adı
-    charset='utf8mb4'
-)
+# Veritabanı bağlantısını sağlama
+connection = pymysqldbconnet.get_db_connection()
 
 # SQL sorgusunu çalıştırın
 query = """
@@ -35,8 +29,6 @@ FROM (
 ) AS seasonal_data
 GROUP BY name, season
 ORDER BY name, season;
-
-
 """
 
 # Veriyi al
@@ -63,7 +55,6 @@ plt.legend(title='Ürün', loc='upper left', bbox_to_anchor=(1, 1))
 # Kaydetme yolunu belirleme
 output_path = "outputs/2024 sezon bazinda sebze fiyatlari.png"
 plt.savefig(output_path, format='png', dpi=300)  # Grafik kaydediliyor
-
 
 # Göster
 plt.tight_layout()

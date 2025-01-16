@@ -1,15 +1,9 @@
-import pymysql
 import pandas as pd
 import matplotlib.pyplot as plt
+import pymysqldbconnet  # Özel modül, doğru kurulu olduğundan emin olun
 
-# Veritabanı bağlantısı
-connection = pymysql.connect(
-    host='localhost',      # Sunucu adresi
-    user='root',           # Kullanıcı adı
-    password='0619',       # Şifre
-    database='worksheet1', # Veritabanı adı
-    charset='utf8mb4'
-)
+# Veritabanı bağlantısını sağlama
+connection = pymysqldbconnet.get_db_connection()
 
 # SQL sorgusunu oluşturma
 query = """
@@ -26,7 +20,7 @@ ORDER BY MONTH(date), type;
 """
 
 # Veriyi çekme
-df = pd.read_sql(query, connection)
+df = pd.read_sql_query(query, connection)
 
 # Bağlantıyı kapatma
 connection.close()
@@ -49,7 +43,6 @@ plt.legend()
 # Kaydetme yolunu belirleme
 output_path = "outputs/2024 yılı yerli ve ithal biber fiyatlarının karşılaştırılması.png"
 plt.savefig(output_path, format='png', dpi=300)  # Grafik kaydediliyor
-
 
 # Grafiği gösterme
 plt.grid(True)

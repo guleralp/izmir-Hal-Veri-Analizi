@@ -1,22 +1,14 @@
 import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
-import pymysql  # Veritabanına bağlanmak için pymysql kütüphanesi kullanılır
+import sqlalchemy  # SQLAlchemy bağlantısı için gerekli
 
-# Veritabanı bağlantısı
-connection = pymysql.connect(
-    host='localhost',      # Sunucu adresi
-    user='root',           # Kullanıcı adı
-    password='0619',       # Şifre
-    database='worksheet1', # Veritabanı adı
-    charset='utf8mb4'
-)
+# SQLAlchemy ile veritabanı bağlantısı
+engine = sqlalchemy.create_engine("mysql+pymysql://root:0619@localhost/worksheet1")
 
-# SQL sorgusunu çalıştırın
+# SQL sorgusunu yazın
 query = """
-
-
-##2024 Yılı Sezon Bazında Bazı Meyve Fiyatları(GRAfik)
+## 2024 Yılı Sezon Bazında Bazı Meyve Fiyatları (Grafik)
 SELECT name,
        season,
        AVG(CASE WHEN YEAR(date) = 2024 THEN avg_price END) AS avg_price_2024
@@ -34,29 +26,18 @@ FROM (
         'Portakal','Karpuz', 
          'KAVUN  SERA', 'Kayısı', 'Muz',
         'ÜZÜM  BEYAZ'
-      
     )
 ) AS seasonal_data
 GROUP BY name, season
 ORDER BY name, season;
-
-
-
 """
 
-# Veriyi al
-df = pd.read_sql_query(query, connection)
-
-# Veritabanı bağlantısını kapat
-connection.close()
-
-# Veriyi uzun formata dönüştürün (sadece 2024 yılına odaklanacağız)
-df_melted = df.melt(id_vars=["name", "season"], value_vars=["avg_price_2024"],
-                    var_name="year", value_name="avg_price")
+# SQLAlchemy engine kullanarak veriyi çek
+df = pd.read_sql_query(query, engine)
 
 # Grafiği oluşturun
 plt.figure(figsize=(12, 8))
-sns.lineplot(data=df_melted, x="season", y="avg_price", hue="name", style="name", markers=True)
+sns.lineplot(data=df, x="season", y="avg_price_2024", hue="name", style="name", markers=True)
 
 # Grafik başlık ve etiketler
 plt.title('2024 Yılı Sezon Bazında Bazı Meyve Fiyatları', fontsize=16)
@@ -66,7 +47,7 @@ plt.xticks(rotation=45)
 plt.legend(title='Ürün', loc='upper left', bbox_to_anchor=(1, 1))
 
 # Kaydetme yolunu belirleme
-output_path = "outputs/2024 sezon bazinda meyve fiyatlari.png"
+output_path = "outputs/2024_sezon_bazinda_meyve_fiyatlari.png"
 plt.savefig(output_path, format='png', dpi=300)  # Grafik kaydediliyor
 
 # Göster

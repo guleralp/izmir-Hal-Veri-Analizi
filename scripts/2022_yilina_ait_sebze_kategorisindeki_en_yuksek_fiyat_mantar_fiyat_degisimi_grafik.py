@@ -1,13 +1,14 @@
 import pandas as pd
-import sqlalchemy
+import pymysqldbconnet  # Özel bir modül, doğru kurulu olduğundan emin olun
 import seaborn as sns
 import matplotlib.pyplot as plt
 import numpy as np
 
-# SQLAlchemy ile veritabanı bağlantısı
-engine = sqlalchemy.create_engine("mysql+pymysql://root:0619@localhost/worksheet1")
-
 try:
+    # Veritabanı bağlantısını sağlama
+    connection = pymysqldbconnet.get_db_connection()
+
+    # SQL sorgusu
     query = """
     SELECT 
         MONTH(date) AS month,
@@ -17,9 +18,9 @@ try:
     FROM 
         worksheet
     WHERE 
-        YEAR(date) = 2024 
-        AND type = 'MEYVE' 
-        AND name = 'ERİK  CAN'
+        YEAR(date) = 2022 
+        AND type = 'SEBZE' 
+        AND name = 'MANTAR (İSTİRİDYE)'
     GROUP BY 
         MONTH(date)
     ORDER BY 
@@ -27,7 +28,7 @@ try:
     """
     
     # SQL sorgusunu çalıştırarak veriyi dataframe'e al
-    df = pd.read_sql(query, engine)
+    df = pd.read_sql(query, connection)
     print(df)
 
     # Seaborn stilini kullanma
@@ -41,26 +42,34 @@ try:
     sns.lineplot(x=df['month'], y=df['avg_avg_price'], label='Ortalama Fiyat', color='green', marker='o')
 
     # Başlık ve etiketler
-    plt.title('2024 Yılı İçin Erik Can Fiyat Değişimi', fontsize=16)
+    plt.title('2022 Yılı İçin MANTAR (İSTİRİDYE) Fiyat Değişimi', fontsize=16)
     plt.xlabel('Ay', fontsize=14)
     plt.ylabel('Fiyat (TL)', fontsize=14)
-    plt.xticks(np.arange(1, 13), fontsize=12)  # Ay etiketleri
-    plt.yticks(fontsize=12)  # Fiyat etiketleri
+    plt.xticks(np.arange(1, 13), fontsize=12)
+    plt.yticks(fontsize=12)
     plt.legend(fontsize=12)
 
     # Daha düzenli görünüm için sıkıştırma
     plt.tight_layout()
 
-# Kaydetme yolunu belirleme
-    output_path = "outputs/2024 yılına ait meyve kategorisindeki en yüksek fiyat.png"
-    plt.savefig(output_path, format='png', dpi=300)  
+    # Grafiği sakla
+    output_path = "outputs/2022 yılına ait sebze kategorisindeki en yüksek fiyat.png"
+    plt.savefig(output_path, format='png', dpi=300)  # Kaydetme işlemi doğru sırada
 
+    print(f"Grafik {output_path} yoluna kaydedildi.")
 
     # Grafiği göster
     plt.show()
 
-except sqlalchemy.exc.SQLAlchemyError as err:
-    print(f"SQLAlchemy Hatası: {err}")
+except pymysqldbconnet.ConnectionError as err:
+    print(f"Veritabanı Bağlantı Hatası: {err}")
+
+except Exception as e:
+    print(f"Bir hata oluştu: {e}")
 
 finally:
-    print("İşlem tamamlandı.")
+    try:
+        connection.close()
+        print("Veritabanı bağlantısı kapatıldı.")
+    except NameError:
+        print("Veritabanı bağlantısı oluşturulamadı.")

@@ -1,16 +1,11 @@
 import pandas as pd
-import mysql.connector
-import matplotlib.pyplot as plt
 import seaborn as sns
+import matplotlib.pyplot as plt
 import numpy as np
+import pymysqldbconnet  # Özel modül, doğru kurulu olduğundan emin olun
 
-# Veritabanına bağlanma
-conn = mysql.connector.connect(
-    host="localhost",       # MySQL sunucu adresi
-    user="root",            # Kullanıcı adı
-    password="0619",        # Şifre
-    database="worksheet1"   # Veritabanı adı
-)
+# Veritabanı bağlantısını sağlama
+conn = pymysqldbconnet.get_db_connection()
 
 try:
     # SQL sorgusunu çalıştırma
@@ -33,7 +28,7 @@ try:
     """
 
     # SQL sorgusunu çalıştırma ve sonucu pandas DataFrame olarak alma
-    df = pd.read_sql(query, conn)
+    df = pd.read_sql_query(query, conn)
 
     # Sonuçları yazdırma
     print(df)
@@ -64,11 +59,10 @@ try:
     # Grafiği gösterme
     plt.show()
 
-except mysql.connector.Error as err:
-    print(f"Error: {err}")
+except Exception as err:
+    print(f"Veritabanı hatası: {err}")
 
 finally:
     # Bağlantıyı kapatma
-    if conn.is_connected():
-        conn.close()
-        print("Veritabanı bağlantısı kapatıldı.")
+    conn.close()
+    print("Veritabanı bağlantısı kapatıldı.")

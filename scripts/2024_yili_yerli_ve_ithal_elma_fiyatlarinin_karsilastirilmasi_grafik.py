@@ -1,46 +1,37 @@
-import pymysql
 import pandas as pd
 import matplotlib.pyplot as plt
+import pymysqldbconnet  # Özel modül, doğru kurulu olduğundan emin olun
 
-# Veritabanı bağlantısı
-connection = pymysql.connect(
-    host='localhost',      # Sunucu adresi
-    user='root',           # Kullanıcı adı
-    password='0619',       # Şifre
-    database='worksheet1', # Veritabanı adı
-    charset='utf8mb4'
-)
+# Veritabanı bağlantısını sağlama
+connection = pymysqldbconnet.get_db_connection()
 
 # SQL sorgusunu oluşturma
 query = """
-                SELECT 
+SELECT 
     name, 
     MONTH(date) AS ay, 
     type, 
-    Round(AVG(avg_price),2) AS ortalama_fiyat
+    ROUND(AVG(avg_price), 2) AS ortalama_fiyat
 FROM worksheet
 WHERE name IN ('ELMA  AMASYA','ELMA  STARKING')
   AND YEAR(date) = 2024
 GROUP BY name, type, MONTH(date)
 ORDER BY MONTH(date), type;
-    
-    
-    
 """
 
 # Veriyi çekme
-df = pd.read_sql(query, connection)
+df = pd.read_sql_query(query, connection)
 
 # Bağlantıyı kapatma
 connection.close()
 
 # Veriyi işleme ve grafik oluşturma
-plt.figure(figsize=(10,6))
+plt.figure(figsize=(10, 6))
 
-# Kaliforniya biberi ve dolma biberi için farklı çizgiler
-for biber in df['name'].unique():
-    biber_df = df[df['name'] == biber]
-    plt.plot(biber_df['ay'], biber_df['ortalama_fiyat'], label=biber)
+# Elma türleri için farklı çizgiler
+for elma in df['name'].unique():
+    elma_df = df[df['name'] == elma]
+    plt.plot(elma_df['ay'], elma_df['ortalama_fiyat'], label=elma)
 
 # Grafiğin başlığı ve etiketleri
 plt.title('2024 YERLİ VE İTHAL ELMA FİYATLARININ KARŞILAŞTIRILMASI ')
@@ -52,10 +43,6 @@ plt.legend()
 # Kaydetme yolunu belirleme
 output_path = "outputs/2024 yılı yerli ve ithal elma fiyatlarının karşılaştırılması.png"
 plt.savefig(output_path, format='png', dpi=300)  # Grafik kaydediliyor
-
-
-
-
 
 # Grafiği gösterme
 plt.grid(True)

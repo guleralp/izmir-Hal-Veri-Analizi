@@ -1,38 +1,44 @@
+import pymysql
+import pymysqldbconnet  # Veritabanı bağlantı fonksiyonunun bulunduğu dosya
 import pandas as pd
-import sqlalchemy
 import seaborn as sns
 import matplotlib.pyplot as plt
 import numpy as np
 
-# SQLAlchemy ile veritabanı bağlantısını sağlama
-engine = sqlalchemy.create_engine("mysql+pymysql://root:0619@localhost/worksheet1")
-
 try:
+    # Veritabanı bağlantısını sağlama
+    connection = pymysqldbconnet.get_db_connection()
+    
     query = """
-SELECT 
-    MONTH(date) AS month,
-    ROUND(AVG(min_price),2) AS avg_min_price,
-    ROUND(AVG(max_price),2) AS avg_max_price,
-    ROUND(AVG(avg_price),2) AS avg_avg_price
-FROM 
-    worksheet
-WHERE 
-    YEAR(date) = 2022 
-    AND name = 'ERIK  CAN'
-GROUP BY 
-    MONTH(date)
-ORDER BY 
-    month;
+    SELECT 
+        MONTH(date) AS month,
+        ROUND(AVG(min_price), 2) AS avg_min_price,
+        ROUND(AVG(max_price), 2) AS avg_max_price,
+        ROUND(AVG(avg_price), 2) AS avg_avg_price
+    FROM 
+        worksheet
+    WHERE 
+        YEAR(date) = 2022 
+        AND name = 'ERIK  CAN'
+    GROUP BY 
+        MONTH(date)
+    ORDER BY 
+        month;
     """
     
     # SQL sorgusunu çalıştırarak veriyi dataframe'e alma
-    df = pd.read_sql(query, engine)
+    with connection.cursor() as cursor:
+        cursor.execute(query)
+        data = cursor.fetchall()
+    
+    # DataFrame oluşturma
+    df = pd.DataFrame(data, columns=['month', 'avg_min_price', 'avg_max_price', 'avg_avg_price'])
     print(df)
 
     # Seaborn stilini kullanma
     sns.set(style="whitegrid")
 
-    plt.figure(figsize=(12,8))
+    plt.figure(figsize=(12, 8))
 
     # Çizgi grafiklerini oluşturma
     sns.lineplot(x=df['month'], y=df['avg_min_price'], label='Ortalama Minimum Fiyat', color='blue', marker='o')
@@ -47,9 +53,8 @@ ORDER BY
     plt.yticks(fontsize=12)
     plt.legend(fontsize=12)
 
-
     # Kaydetme yolunu belirleme
-    output_path = "outputs/2022 yılına ait meyve  kategorisindeki en yüksek fiyat.png"
+    output_path = "outputs/2022 yılına ait meyve kategorisindeki en yüksek fiyat.png"
     plt.savefig(output_path, format='png', dpi=300)  
 
     print(f"Grafik {output_path} yoluna kaydedildi.")
@@ -57,8 +62,12 @@ ORDER BY
     # Grafiği göster
     plt.show()
 
-except sqlalchemy.exc.SQLAlchemyError as err:
-    print(f"SQLAlchemy Hatası: {err}")
+except pymysql.MySQLError as err:
+    print(f"MySQL Hatası: {err}")
 
 finally:
+    # Bağlantıyı kapatma
+    if 'connection' in locals() and connection.open:
+        connection.close()
+        print("Veritabanı bağlantısı kapatıldı.")
     print("İşlem tamamlandı.")
