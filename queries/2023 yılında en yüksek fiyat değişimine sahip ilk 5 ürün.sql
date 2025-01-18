@@ -1,4 +1,3 @@
-
 SELECT 
     name,
     type,
@@ -8,8 +7,7 @@ SELECT
 FROM 
     worksheet
 WHERE 
-    YEAR(date) = 2022  
-GROUP BY 
-    name, type
-ORDER BY 
-    fiyat_degisimi DESC;
+    YEAR(date) = 2023  
+GROUP BY name, type
+ORDER BY  fiyat_degisimi DESC
+LIMIT 5;

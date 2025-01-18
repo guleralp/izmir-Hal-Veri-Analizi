@@ -1,4 +1,3 @@
-
 SELECT 
     name,
     type,
@@ -12,4 +11,5 @@ WHERE
 GROUP BY 
     name, type
 ORDER BY 
-    fiyat_degisimi DESC;
+    fiyat_degisimi DESC
+LIMIT 5;
