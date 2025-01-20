@@ -1,7 +1,7 @@
 import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
-import pymysqldbconnet  # Kendi özel modülünüz
+import pymysqldbconnet  
 # Veritabanı bağlantısını sağlama
 connection = pymysqldbconnet.get_db_connection()
 with open("queries/Fiyatı %100'ün Üzerinde Artan Meyve Türlerinin Fiyat Değişim Analizi.sql", 'r') as file:
@@ -40,6 +40,11 @@ ax.legend(title='Product_name', fontsize=7)
 
 # Grafik düzenlemesi
 plt.tight_layout()
+
+# Kaydetme yolunu belirleme
+output_path = "outputs/Fiyatı %100'ün Üzerinde Artan Meyve Türlerinin Fiyat Değişim Analizi.png"
+plt.tight_layout()  
+plt.savefig(output_path, format='png', dpi=300) 
 
 # Gösterim
 plt.show()
