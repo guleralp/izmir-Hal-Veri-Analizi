@@ -46,9 +46,9 @@ try:
     sns.lineplot(x=df['month'], y=df['avg_avg_price'], label='Ortalama Fiyat', color='green', marker='o')
 
     # Başlık ve etiketleri belirleme
-    plt.title('2022 Yılı İçin ERİK CAN Fiyat Değişimi', fontsize=16)
-    plt.xlabel('Ay', fontsize=14)
-    plt.ylabel('Fiyat (TL)', fontsize=14)
+    plt.title('2022 Yılı İçin ERİK CAN Fiyat Değişimi', fontsize=14)
+    plt.xlabel('(Mounth)', fontsize=12)
+    plt.ylabel('(change_price)', fontsize=12)
     plt.xticks(np.arange(1, 13), fontsize=12)
     plt.yticks(fontsize=12)
     plt.legend(fontsize=12)
