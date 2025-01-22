@@ -41,23 +41,21 @@ try:
     plt.figure(figsize=(12, 8))
 
     # Çizgi grafiklerini oluşturma
+    plt.plot([], [], ' ', label='Product_name:ERIK CAN')
     sns.lineplot(x=df['month'], y=df['avg_min_price'], label='Ortalama Minimum Fiyat', color='blue', marker='o')
     sns.lineplot(x=df['month'], y=df['avg_max_price'], label='Ortalama Maksimum Fiyat', color='red', marker='o')
     sns.lineplot(x=df['month'], y=df['avg_avg_price'], label='Ortalama Fiyat', color='green', marker='o')
 
     # Başlık ve etiketleri belirleme
-    plt.title('2022 Yılı İçin ERİK CAN Fiyat Değişimi', fontsize=14)
-    plt.xlabel('(Mounth)', fontsize=12)
-    plt.ylabel('(change_price)', fontsize=12)
+    plt.title('2022 Yılına Ait Meyve Kategorisindeki En Yüksek Fiyat', fontsize=14)
+    plt.xlabel('(Month)', fontsize=12)
+    plt.ylabel('(Change Price)', fontsize=12)
     plt.xticks(np.arange(1, 13), fontsize=12)
     plt.yticks(fontsize=12)
     plt.legend(fontsize=12)
 
-    # Kaydetme yolunu belirleme
-    output_path = "outputs/2022 yılına ait meyve kategorisindeki en yüksek fiyat.png"
-    plt.savefig(output_path, format='png', dpi=300)  
-
-    print(f"Grafik {output_path} yoluna kaydedildi.")
+    # Grafiği outputs klasörüne kaydetme
+    plt.savefig('outputs/2022 yılına ait meyve kategorisindeki en yüksek fiyat.png', dpi=300)
 
     # Grafiği göster
     plt.show()

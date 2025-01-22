@@ -2,9 +2,9 @@
 SELECT 
     name,
     type,
-    MIN(min_price) AS min_fiyat,
-    MAX(max_price) AS max_fiyat,
-    (MAX(max_price) - MIN(min_price)) AS fiyat_degisimi
+    MIN(min_price) AS min_price,
+    MAX(max_price) AS max_price,
+    (MAX(max_price) - MIN(min_price)) AS price_change
 FROM 
     worksheet
 WHERE 
@@ -12,4 +12,4 @@ WHERE
 GROUP BY 
     name, type
 ORDER BY 
-    fiyat_degisimi DESC;
+    price_change DESC;

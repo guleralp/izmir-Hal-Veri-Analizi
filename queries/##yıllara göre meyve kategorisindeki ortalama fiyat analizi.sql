@@ -4,6 +4,7 @@ WITH yearly_data AS (
         YEAR(date) AS year,
         ROUND(AVG(avg_price), 2) AS yearly_avg_price
     FROM worksheet
+    where type = 'MEYVE'
     GROUP BY name, YEAR(date)
 )
 SELECT 

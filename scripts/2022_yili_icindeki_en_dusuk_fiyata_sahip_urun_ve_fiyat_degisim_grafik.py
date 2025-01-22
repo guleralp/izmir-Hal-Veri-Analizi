@@ -46,7 +46,7 @@ plt.legend(title=f'Product_name: {product_name}', loc='upper right', fontsize=8,
 
 
 # Grafik çıktısını outputs klasörüne kaydetme
-plt.savefig('outputs/2022 Yılı İçindeki En Düşük Fiyata Sahip Ürün Ve Fiyat Değişimi.png')
+plt.savefig('outputs/2022 Yılı İçindeki En Düşük Fiyata Sahip Ürün Ve Fiyat Değişimi.png',dpi=300)
 
 
 # Grafiği göster

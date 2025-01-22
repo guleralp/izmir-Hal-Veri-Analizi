@@ -12,7 +12,7 @@ connection.close()
 
 # Grafik Çizimi
 plt.figure(figsize=(15, 8))
-ax = plt.gca()  # Alt ekseni al
+ax = plt.gca()  
 
 # Çubuğun genişliğini belirle
 bar_width = 0.4
@@ -47,7 +47,6 @@ plt.grid(True, linestyle='--', alpha=0.7)
 
 # Y ekseninin sınırlarını belirle
 plt.ylim(0, 180)
-
 plt.tight_layout()
 
 # Kaydetme yolunu belirleme

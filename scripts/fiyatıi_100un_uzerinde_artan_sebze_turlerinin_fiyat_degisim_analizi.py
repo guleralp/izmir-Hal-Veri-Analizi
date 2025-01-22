@@ -44,7 +44,7 @@ plt.tight_layout()
 # Kaydetme yolunu belirleme
 output_path = "outputs/Fiyatı %100'ün Üzerinde Artan Sebze Türlerinin Fiyat Değişim Analizi.png"
 plt.tight_layout()  
-plt.savefig(output_path, format='png', dpi=300)  # Grafiği belirtilen yol ile kaydet
+plt.savefig(output_path, format='png', dpi=300)  
 
 
 
