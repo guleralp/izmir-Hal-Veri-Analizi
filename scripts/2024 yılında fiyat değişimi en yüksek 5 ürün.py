@@ -16,13 +16,18 @@ df = pd.read_sql(sql_query, connection)
 # Bağlantıyı kapat
 connection.close()
 
-# Veriyi "name" sütununa göre yeniden şekillendirelim
+# Grafiği çizelim
 df_melted = pd.melt(df, id_vars=['name'], value_vars=['min_fiyat', 'avg_fiyat', 'max_fiyat', 'fiyat_degisim'],
                     var_name='fiyat_turu', value_name='fiyat')
-
-# Grafiği çizelim
 plt.figure(figsize=(10,6))
 sns.barplot(x='name', y='fiyat', hue='fiyat_turu', data=df_melted, palette='coolwarm')  # coolwarm paleti kullanıldı
+
+# Fiyat verilerini görselde göstermek
+for bars in plt.gca().patches: 
+    plt.text(bars.get_x() + bars.get_width() / 2, bars.get_height() + bars.get_y(), 
+             f'{bars.get_height():.2f}', ha='center', va='bottom', fontsize=5, color='black')
+
+
 
 # Grafik başlığı ve etiketler
 plt.title('En Yüksek Fiyat Değişimine Sahip 5 Ürün Fiyat Türleri ve Değişimi')

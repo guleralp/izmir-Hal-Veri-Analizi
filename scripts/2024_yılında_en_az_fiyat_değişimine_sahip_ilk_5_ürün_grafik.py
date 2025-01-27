@@ -6,7 +6,7 @@ import pymysqldbconnet  # Doğru modül
 connection = pymysqldbconnet.get_db_connection()
 
 # 2024 yılına ait SQL sorgusunu okuma
-with open('queries/2024 yılında en yüksek fiyat değişimine sahip ilk 5 ürün.sql', 'r') as file:
+with open('queries/2024 yılında en az fiyat değişimine sahip ilk 5 ürün.sql', 'r') as file:
     sql_query = file.read()
 
 # Veritabanından veri çekme
@@ -27,9 +27,9 @@ bars_max_fiyat = plt.bar([p + bar_width for p in index], df['max_fiyat'], bar_wi
 bars_fiyat_degisimi = plt.bar([p + bar_width * 2 for p in index], df['fiyat_degisimi'], bar_width, label='Fiyat Değişimi', color='teal')
 
 plt.xticks([p + bar_width for p in index], df['name'])
-plt.title('2024 Yılında En Yüksek Fiyat Değişimine Sahip İlk 5 Ürün', fontsize=16)
-plt.xlabel('Ürün Adı', fontsize=12)
-plt.ylabel('Fiyat (TL)', fontsize=12)
+plt.title('2024 Yılında En Az Fiyat Değişimine Sahip İlk 5 Ürün', fontsize=16)
+plt.xlabel('(Product_name)', fontsize=12)
+plt.ylabel('(Change-price)', fontsize=12)
 plt.yticks(range(0, int(df[['min_fiyat', 'max_fiyat', 'fiyat_degisimi']].max().max()) + 10, 25))
 for bars in [bars_min_fiyat, bars_max_fiyat, bars_fiyat_degisimi]:
     for bar in bars: 
@@ -37,7 +37,7 @@ for bars in [bars_min_fiyat, bars_max_fiyat, bars_fiyat_degisimi]:
                  f'{bar.get_height():.2f}', ha='center', va='bottom', fontsize=5, color='black')
 
 # Grafik çıktısını outputs klasörüne kaydetme
-plt.savefig('outputs/2024 yılında en yüksek fiyat değişimine sahip ilk 5 ürün.png')
+plt.savefig('outputs/2024 yılında en az fiyat değişimine sahip ilk 5 ürün.png')
 
 plt.legend()
 plt.show()
