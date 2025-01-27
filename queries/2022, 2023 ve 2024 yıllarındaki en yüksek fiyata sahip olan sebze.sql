@@ -1,7 +1,3 @@
-
-##2022, 2023 ve 2024 yıllarındaki en yüksek fiyata sahip olan sebze 
-
-
 SELECT 
     name, 
     MAX(max_price) AS highest_price, 'SEBZE' AS category

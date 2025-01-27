@@ -1,7 +1,3 @@
-
-###2022, 2023 ve 2024 yılları için her meyve veya sebzenin ortalama fiyatı
-
-
 SELECT 
     name,
     type,

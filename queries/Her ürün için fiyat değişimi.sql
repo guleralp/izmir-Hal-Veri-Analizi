@@ -1,6 +1,3 @@
-
-##Her ürün için 2022-2024 yılları arasındaki minimum ve maksimum fiyat değişimi
-
 SELECT 
     name,
     type,

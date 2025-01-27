@@ -1,5 +1,3 @@
-##2023 yılı içinde her ürün için minimum,maksimum ve fiyat değişimleri
-
 SELECT 
     name,
     type,

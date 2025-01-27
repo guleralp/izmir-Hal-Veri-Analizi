@@ -34,7 +34,7 @@ for elma in df['name'].unique():
     plt.plot(elma_df['ay'], elma_df['ortalama_fiyat'], label=elma)
 
 # Grafiğin başlığı ve etiketleri
-plt.title('2024 YERLİ VE İTHAL ELMA FİYATLARININ KARŞILAŞTIRILMASI ')
+plt.title('2024 Yerli Ve İthal Elma Fiyatlarının Karşılaştırılması ')
 plt.xlabel('Ay')
 plt.ylabel('Ortalama Fiyat (₺)')
 plt.xticks(range(1, 13))  # Ayları 1-12 arası olarak ayarlıyoruz

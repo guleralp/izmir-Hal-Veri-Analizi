@@ -30,7 +30,7 @@ sns.lineplot(data=df, x='date', y='min_price', color='red', label='Min Price', m
 sns.lineplot(data=df, x='date', y='max_price', color='green', label='Max Price', marker=None)
 
 # Başlık ve etiketler
-plt.title('2024 Yılı İçindeki En Düşük Fiyata Sahip Ürün Ve Fiyat Değişim Analizi', fontsize=12)
+plt.title('2024 Yılı İçindeki En Düşük Fiyata Sahip Ürün Ve Fiyat Değişimi', fontsize=12)
 plt.xlabel('(Date)', fontsize=12)
 plt.ylabel('(Price_change)', fontsize=12)
 

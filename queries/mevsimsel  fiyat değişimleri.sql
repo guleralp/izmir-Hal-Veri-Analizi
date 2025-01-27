@@ -1,4 +1,3 @@
-
 SELECT 
     name,
     ROUND(COALESCE(AVG(CASE WHEN MONTH(date) IN (3, 4, 5) THEN avg_price END), 0), 2) AS ilkbahar_avg_price,

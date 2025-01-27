@@ -36,12 +36,13 @@ try:
     plt.figure(figsize=(12,8))
 
     # Çizgi grafikleri
+    plt.plot([], [], ' ', label='Product_name:Erik Can')
     sns.lineplot(x=df['month'], y=df['avg_min_price'], label='Ortalama Minimum Fiyat', color='blue', marker='o')
     sns.lineplot(x=df['month'], y=df['avg_max_price'], label='Ortalama Maksimum Fiyat', color='red', marker='o')
     sns.lineplot(x=df['month'], y=df['avg_avg_price'], label='Ortalama Fiyat', color='green', marker='o')
 
     # Başlık ve etiketler
-    plt.title('2024 Yılı İçin Erik Can Fiyat Değişimi', fontsize=16)
+    plt.title('2024 Yılı Meyve Kategorisindeki En Yüksek Fiyat', fontsize=16)
     plt.xlabel('Ay', fontsize=14)
     plt.ylabel('Fiyat (TL)', fontsize=14)
     plt.xticks(np.arange(1, 13), fontsize=12)  # Ay etiketleri

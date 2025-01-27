@@ -1,6 +1,3 @@
-
-##2022-2024 yılları arasında her bir ürünün en düşük ve en yüksek fiyatları
-
 SELECT 
     name,
     MIN(min_price) AS lowest_price,
