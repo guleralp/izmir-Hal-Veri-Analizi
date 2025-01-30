@@ -39,7 +39,7 @@ for bars in [bars_min_fiyat, bars_max_fiyat, bars_fiyat_degisimi]:
                  f'{bar.get_height():.2f}', ha='center', va='bottom', fontsize=5, color='black')
 
 # Grafik çıktısını outputs klasörüne kaydetme
-plt.savefig('outputs/2022 yılında en az fiyat değişimine sahip ilk 5 ürün.png')
+plt.savefig('outputs/2022_en_az_fiyat_degisimi_top5.png')
 
 plt.legend()
 plt.show()

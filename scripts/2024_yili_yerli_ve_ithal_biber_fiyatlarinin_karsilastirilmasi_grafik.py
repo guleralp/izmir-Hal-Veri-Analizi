@@ -41,7 +41,7 @@ plt.xticks(range(1, 13))  # Ayları 1-12 arası olarak ayarlıyoruz
 plt.legend()
 
 # Kaydetme yolunu belirleme
-output_path = "outputs/2024 yılı yerli ve ithal biber fiyatlarının karşılaştırılması.png"
+output_path = "outputs/2024_yerli_ithal_biber_fiyat_karsilastirma.png"
 plt.savefig(output_path, format='png', dpi=300)  # Grafik kaydediliyor
 
 # Grafiği gösterme

@@ -35,6 +35,6 @@ plt.ylim(0, df['price_change'].max() + 10)
 plt.yticks(range(0, int(df['price_change'].max() + 25), 50))
 plt.tight_layout()
 plt.tight_layout(pad=3)
-plt.savefig('outputs/2024 Yılı Kış Mevsimi için fiyat değişimi en yüksek ilk 5 ürün.png')
+plt.savefig('outputs/2024_kis_en_yuksek_fiyat_degisimi_top5.png')
 # Grafiği Göster
 plt.show()

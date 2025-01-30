@@ -35,5 +35,5 @@ for bar, (_, row) in zip(bars, df.iterrows()):
     plt.text(bar.get_x() + bar.get_width() / 2, bar.get_height() -3, 
              f'{row["price_change"]}', ha='center', va='bottom', fontsize=7, color='black')
 
-plt.savefig('outputs/2023 Yılı İlkbahar Mevsimi için fiyat değişimi en yüksek ilk 5 ürün.png')
+plt.savefig('outputs/2023_ilkbahar_en_yuksek_fiyat_degisimi_top5.png')
 plt.show()

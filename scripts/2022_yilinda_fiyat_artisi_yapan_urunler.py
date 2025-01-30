@@ -32,7 +32,7 @@ plt.title('2022 Yılında En Yüksek Fiyat Değişimine Sahip 5 Ürün')
 plt.xlabel('(Product_name)')
 plt.ylabel('(Change_price)')
 
-plt.savefig('outputs/2022 Yılında Fiyat Değişimi En Yüksek 5 Ürün.png',dpi=300)
+plt.savefig('outputs/2022_yili_en_yuksek_fiyat_degisimi_top5.png', dpi=300)
 
 # Grafiği göster
 plt.show()

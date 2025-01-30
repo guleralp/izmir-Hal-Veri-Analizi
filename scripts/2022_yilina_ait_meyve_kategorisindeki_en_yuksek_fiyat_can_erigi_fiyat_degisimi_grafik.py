@@ -55,7 +55,8 @@ try:
     plt.legend(fontsize=12)
 
     # Grafiği outputs klasörüne kaydetme
-    plt.savefig('outputs/2022 yılına ait meyve kategorisindeki en yüksek fiyat.png', dpi=300)
+    plt.savefig('outputs/2022_yilina_ait_meyve_kategorisindeki_en_yuksek_can_erigi_fiyat_degisimi.png', dpi=300)
+
 
     # Grafiği göster
     plt.show()

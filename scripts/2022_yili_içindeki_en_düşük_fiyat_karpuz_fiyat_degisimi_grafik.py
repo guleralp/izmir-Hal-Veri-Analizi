@@ -39,5 +39,6 @@ plt.grid(True, linestyle='--', alpha=0.6)
 plt.xticks(df['date'], df['date'].dt.strftime('%Y-%m'), rotation=45)
 plt.legend()
 plt.tight_layout()
+plt.savefig('outputs/2022_karpuz_fiyat_degisimi.png')
 plt.show()
 

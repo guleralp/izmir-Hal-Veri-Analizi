@@ -50,7 +50,7 @@ try:
     plt.legend(fontsize=12)
 
     # Kaydetme yolunu belirleme
-    output_path = "outputs/2023_yili_Meyve_ Kategorisindeki_En Yuksek_fiyat_degisim_grafigi.png"
+    output_path = 'outputs/2023_meyve_kategorisi_en_yuksek_fiyat_cilek_degisimi.png'
     plt.savefig(output_path, format='png', dpi=300)
 
     # Grafiği göster

@@ -42,7 +42,7 @@ ax.legend(title='Product_name', fontsize=7)
 plt.tight_layout()
 
 # Kaydetme yolunu belirleme
-output_path = "outputs/Fiyatı %100'ün Üzerinde Artan Meyve Türlerinin Fiyat Değişim Analizi.png"
+output_path = "outputs/fiyatı_100un_uzerinde_artan_meyve_turlerinin_fiyat_degisim_analizi.png"
 plt.tight_layout()  
 plt.savefig(output_path, format='png', dpi=300) 
 

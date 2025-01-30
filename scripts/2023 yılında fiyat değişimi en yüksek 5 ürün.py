@@ -34,7 +34,7 @@ plt.xlabel('(Ürün Adı)')
 plt.ylabel('(Fiyat)')
 
 # Görselleştirmeyi kaydetme
-plt.savefig('outputs/2023 Yılında Fiyat Değişimi En Yüksek 5 Ürün.png', dpi=300)
+plt.savefig('outputs/2023_en_yuksek_fiyat_degisimi_top5.png', dpi=300)
 
 # Grafiği göster
 plt.show()

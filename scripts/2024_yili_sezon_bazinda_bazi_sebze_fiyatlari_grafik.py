@@ -53,7 +53,7 @@ plt.xticks(rotation=45)
 plt.legend(title='Ürün', loc='upper left', bbox_to_anchor=(1, 1))
 
 # Kaydetme yolunu belirleme
-output_path = "outputs/2024 sezon bazinda sebze fiyatlari.png"
+output_path = "outputs/2024_sezonluk_sebze_fiyatlari.png"
 plt.savefig(output_path, format='png', dpi=300)  # Grafik kaydediliyor
 
 # Göster

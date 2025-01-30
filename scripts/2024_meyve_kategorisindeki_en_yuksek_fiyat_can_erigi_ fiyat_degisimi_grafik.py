@@ -53,7 +53,7 @@ try:
     plt.tight_layout()
 
     # Kaydetme yolunu belirleme
-    output_path = "outputs/2024 yılına ait meyve kategorisindeki en yüksek fiyat.png"
+    output_path = "outputs/2024_meyve_kategorisi_en_yuksek_fiyat_can_erigi_degisimi.png"
     plt.savefig(output_path, format='png', dpi=300)  
 
 

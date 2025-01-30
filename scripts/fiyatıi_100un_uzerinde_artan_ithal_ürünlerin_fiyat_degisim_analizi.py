@@ -50,7 +50,7 @@ plt.ylim(0, 180)
 plt.tight_layout()
 
 # Kaydetme yolunu belirleme
-output_path = "outputs/Fiyatı %100'ün Üzerinde Artan İthal Ürünlerin Fiyat Değişim Analizi.png"
+output_path = "outputs/fiyati_100_uzerinde_artan_ithal_urunler_fiyat_degisimi.png"
 plt.tight_layout()  
 plt.savefig(output_path, format='png', dpi=300) 
 

@@ -38,7 +38,7 @@ plt.grid(True)
 plt.tight_layout()
 
 # Kaydetme yolunu belirleme
-output_path = "outputs/2024 yılı yerli ve ithal muz fiyatlarının karşılaştırılması.png"
+output_path = "outputs/2024_yerli_ithal_muz_fiyat_karsilastirma.png"
 plt.savefig(output_path, format='png', dpi=300)  # Grafik kaydediliyor
 
 # Grafiği göster

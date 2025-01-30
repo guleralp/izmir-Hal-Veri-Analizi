@@ -45,7 +45,7 @@ plt.tight_layout()
 plt.legend(title=f'Product_name: {product_name}', loc='upper right', fontsize=8, frameon=True)
 
 # Grafik çıktısını outputs klasörüne kaydetme
-plt.savefig('outputs/2024 Yılı İçindeki En Düşük Fiyata Sahip Ürün Ve Fiyat Değişimi.png')
+plt.savefig('outputs/2024_en_dusuk_fiyatli_urun_degisimi.png')
 
 # Grafiği göster
 plt.show()

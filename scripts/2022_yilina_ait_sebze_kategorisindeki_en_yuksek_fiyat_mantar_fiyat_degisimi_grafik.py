@@ -54,7 +54,7 @@ try:
     plt.tight_layout()
 
    # Grafiği outputs klasörüne kaydetme
-    plt.savefig('outputs/2022 Yılına Ait Sebze Kategorisindeki En Yüksek Fiyat.png', dpi=300)
+    plt.savefig('outputs/2022_mantar_fiyat_degisimi.png', dpi=300)
 
 
     # Grafiği göster

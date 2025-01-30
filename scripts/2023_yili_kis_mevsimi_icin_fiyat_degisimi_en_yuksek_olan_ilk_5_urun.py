@@ -32,6 +32,6 @@ for bar, (_, row) in zip(bars, df.iterrows()):
 
 plt.tight_layout()
 plt.tight_layout(pad=3)
-plt.savefig('outputs/2023 Yılı Kış Mevsimi için fiyat değişimi en yüksek ilk 5 ürün.png')
+plt.savefig('outputs/2023_kis_en_yuksek_fiyat_degisimi_top5.png')
 # Grafiği Göster
 plt.show()

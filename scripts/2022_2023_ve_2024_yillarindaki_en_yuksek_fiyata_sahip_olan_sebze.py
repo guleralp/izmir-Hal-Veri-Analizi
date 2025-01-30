@@ -43,7 +43,7 @@ plt.grid(True, linestyle='--', alpha=0.4)
 plt.legend()
 plt.tight_layout()
 # Grafiği outputs klasörüne kaydetme
-plt.savefig('outputs/2022 2023 2024 Yillarinda En Yuksek Fiyata Sahip Sebze', dpi=300)
+plt.savefig('outputs/2022_2023_2024_en_yuksek_fiyatli_sebze.png', dpi=300)
 
 plt.show()
 
