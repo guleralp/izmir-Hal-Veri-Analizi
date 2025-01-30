@@ -30,7 +30,7 @@ plt.xticks([p + bar_width for p in index], df['name'])
 plt.title('2024 Yılında En Az Fiyat Değişimine Sahip İlk 5 Ürün', fontsize=16)
 plt.xlabel('(Product_name)', fontsize=12)
 plt.ylabel('(Change-price)', fontsize=12)
-plt.yticks(range(0, int(df[['min_fiyat', 'max_fiyat', 'fiyat_degisimi']].max().max()) + 10, 25))
+plt.yticks(range(0, int(df[['min_fiyat', 'max_fiyat', 'fiyat_degisimi']].max().max()) + 5, 5))
 for bars in [bars_min_fiyat, bars_max_fiyat, bars_fiyat_degisimi]:
     for bar in bars: 
         plt.text(bar.get_x() + bar.get_width() / 2, bar.get_height() + bar.get_y(), 

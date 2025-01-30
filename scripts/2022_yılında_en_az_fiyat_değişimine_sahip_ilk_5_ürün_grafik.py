@@ -30,7 +30,7 @@ plt.xticks([p + bar_width for p in index], df['name'])
 plt.title('2022 Yılında En az Fiyat Değişimine Sahip İlk 5 Ürün', fontsize=16)
 plt.xlabel('(Product_name)', fontsize=12)
 plt.ylabel('(Change_price)', fontsize=12)
-plt.yticks(range(0, int(df[['min_fiyat', 'max_fiyat', 'fiyat_degisimi']].max().max()) + 10, 10))
+plt.yticks(range(0, int(df[['min_fiyat', 'max_fiyat', 'fiyat_degisimi']].max().max()) + 2, 1))
 
 # Fiyat verilerini görselde göstermek
 for bars in [bars_min_fiyat, bars_max_fiyat, bars_fiyat_degisimi]:
