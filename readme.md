@@ -220,5 +220,4 @@ Bu proje MIT lisansı altında lisanslanmıştır. Detaylar için `LICENSE` dosy
 
 ## Teşekkürler
 - İzmir Büyükşehir Belediyesi
-- Veri sağlayıcıları
-- Katkıda bulunan geliştiriciler
+
