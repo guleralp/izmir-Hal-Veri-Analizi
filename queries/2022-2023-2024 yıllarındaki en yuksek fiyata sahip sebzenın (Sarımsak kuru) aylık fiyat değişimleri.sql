@@ -4,6 +4,6 @@
     ROUND(MAX(max_price), 2) AS max_price,
     ROUND(AVG(avg_price), 2) AS avg_price
 FROM worksheet
-WHERE name = 'BAMYA' AND YEAR(date) IN (2022, 2023, 2024)
+WHERE name = 'SARIMSAK  KURU' AND YEAR(date) IN (2022, 2023, 2024)
 GROUP BY year, month
 ORDER BY year, month;
