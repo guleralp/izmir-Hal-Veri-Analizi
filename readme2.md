@@ -279,3 +279,58 @@ Bu durum, tarım politikalarının ve pazar düzenlemelerinin etkili bir şekild
 
 Genel olarak, bu veriler 2022 yılında belirli tarım ürünlerinde fiyat istikrarının sağlandığını göstermektedir.
 ---------------------------------------------------------------------------
+
+
+![2022_ilkbahar_en_yuksek_fiyat_degisimi_top5.png](outputs/2022_ilkbahar_en_yuksek_fiyat_degisimi_top5.png)
+
+
+Grafik, 2022 yılı ilkbahar mevsiminde en yüksek fiyat değişimine sahip ilk beş ürünü göstermektedir. En fazla dalgalanma Erik Can’da görülmüş olup, fiyatı 86.5 birimlik değişim göstermiştir. Maksimum fiyatı 100 TL, minimum fiyatı ise 13.5 TL olarak kaydedilmiştir. Üzüm Muht, 34 birimlik değişimle ikinci sırada yer alırken, fiyat aralığı 26 TL - 60 TL arasında değişmiştir. Üçüncü sıradaki Fasulye Ayşe, 29 birimlik fiyat değişimiyle listede yer almakta olup, fiyatı 8.5TL - 37.5 TL aralığında dalgalanmıştır. Dut, 28 birimlik değişimle dördüncü sırada bulunurken, fiyatları 17 TL-45 TL arasında değişmiştir. Son olarak, Badem-Çağla, 27.5 birimlik değişimle ilk beş ürün arasında yer almış, fiyatı 6.5 TL - 34 TL arasında değişmiştir. Erik Can, açık ara en yüksek fiyat dalgalanmasına sahip ürün olurken, diğer ürünlerin fiyat değişimleri birbirine daha yakın seviyelerde gerçekleşmiştir. Genel olarak, bu ürünlerdeki fiyat oynaklığının yüksek olması, mevsimsel etkiler ve arz-talep dengesiyle doğrudan ilişkilidir.Bu analiz, meyve ve sebze fiyatlarındaki dalgalanmaların enflasyon, mevsimsel etkiler ve arz-talep dengesi gibi ekonomik faktörlerle doğrudan ilişkili olduğunu göstermektedir. Özellikle mevsimsel değişimler, belirli ürünlerin fiyatlarında ani artış ve azalışlara yol açarken, arz-talep dengesi de bu dalgalanmaları daha da belirgin hale getirmektedir. En fazla fiyat değişimi gösteren ürünler, ekonomik dalgalanmalara karşı daha hassas olup, fiyat değişimleri üreticiler için maliyet hesaplamalarında ve tüketiciler için bütçe planlamalarında önemli bir rol oynamaktadır. 
+---------------------------------------------------------------------------
+
+![2022_kis_en_yuksek_fiyat_degisimi_top5.png](outputs/2022_kis_en_yuksek_fiyat_degisimi_top5.png)
+
+
+
+Grafik, 2022 yılı kış mevsiminde en yüksek fiyat değişimine sahip ilk beş ürünü göstermektedir. Listenin başında yer alan çilek, 37.5 TL'lik fiyat değişimiyle en fazla dalgalanma gösteren ürün olmuştur. Maksimum fiyatı 50 TL, minimum fiyatı ise 12.5 TL olarak kaydedilmiştir. Özellikle kış aylarında üretimi zorlaşan ve ithalata bağımlı hale gelen çilek, piyasadaki değişimlere karşı daha hassas bir yapıya sahiptir.
+ ikinci sırasında yer alan istiridye mantarı, 35.5 TL'lik fiyat değişimi göstermiş olup, fiyat aralığı 12.0 TL - 47.5 TL arasında dalgalanmıştır. Mantar üretimi,İklim koşullarına duyarlı olduğundan, belirli iklim ve sıcaklık koşullarına bağlı olduğu için özellikle kış aylarında fiyatlarında belirgin artışlar gözlemlenebilir. 
+Üçüncü sırada yer alan kestane, 29.0 TL'lik bir fiyat değişimi göstermiş ve fiyatı 26.0 TL - 55.0 TL aralığında değişmiştir. Kestane, genellikle kış aylarında tüketimi artan bir ürün olduğu için, talebin yükseldiği dönemlerde fiyatında keskin dalgalanmalar yaşanabilmektedir. Ayrıca, kestanenin hasat dönemi kısa sürdüğünden, stok durumu ve ithalat gerekliliği fiyat değişikliklerinde önemli rol oynayabilir.
+Dördüncü sırada bulunan mantar, 28.0 TL'lik bir fiyat değişimi göstererek, en düşük 9.0 TL, en yüksek 37.0 TL seviyelerine ulaşmıştır. Mantar, taze tüketilen ve raf ömrü kısa olan bir ürün olduğu için, arz-talep dengesizliğinden doğrudan etkilenmektedir. Mevsimsel değişikliklerin yanı sıra, üretim koşullarındaki farklılıklar da mantarın fiyat oynaklığını artıran faktörler arasında yer almaktadır.
+Son olarak, sarımsak kuru 27.0 TL'lik bir fiyat değişimi ile listede beşinci sırada yer almıştır. Fiyat aralığı 11.5 TL - 38.5 TL arasında değişmiştir. Sarımsağın fiyat değişimi, üretim bölgesindeki hasat miktarına, stok durumuna ve ithalat politikalarına bağlı olarak farklılık gösterebilmektedir. Özellikle kış aylarında sarımsağa olan talebin artması ve arzın sınırlı olması, fiyat dalgalanmalarını artırabilmektedir.
+
+Genel olarak bakıldığında, kış mevsiminde fiyat değişimi en yüksek olan bu beş ürün, mevsimsel etkiler, arz-talep dengesizlikleri ve ekonomik faktörlerden doğrudan etkilenmiştir. Çilek ve istiridye mantarı gibi hassas ürünler, sıcaklık ve üretim koşullarına bağlı olarak fiyatlarında ani değişimler gösterirken, kestane ve sarımsak gibi ürünlerde tüketim alışkanlıkları fiyat oynaklığının belirleyicisi olmuştur.
+-------------------------------------------------------------------------
+![2022_sonbahar_en_yuksek_fiyat_degisimi_top5.png](outputs/2022_sonbahar_en_yuksek_fiyat_degisimi_top5.png)
+
+
+Grafik, 2022 yılı sonbahar mevsiminde fiyat değişimi en yüksek olan ilk beş ürünü göstermektedir. Listenin başında yer alan nar, 37.0 TL'lik fiyat değişimiyle en fazla dalgalanan ürün olmuştur. Maksimum fiyatı 42.0 TL, minimum fiyatı ise 5.0 TL olarak belirlenmiştir.Narın minimum ve maksimum fiyatları arasındaki büyük fark, bu ürünün fiyat istikrarının oldukça düşük olduğunu göstermektedir. Ayrıca, sezon başlangıcında düşük fiyatlarla piyasaya sunulup, talebin artmasıyla fiyatların yükselmesi sonucu ortaya çıkmış olabilir.
+
+İkinci sırada bulunan bamya, 31.5 TL'lik bir fiyat değişimi göstermiştir. Fiyat aralığı 20.0 TL - 51.5 TL arasında değişmiştir. Bamya, nispeten az üretilen ve mevsimsel olarak belirli dönemlerde daha fazla talep gören bir sebzedir. Özellikle sonbahar aylarında pazara arz edilen miktarın değişken olması ve hava koşullarının üretimi etkilemesi, fiyat dalgalanmalarına neden olmuştur.
+
+Üçüncü sırada yer alan kivi, 26.5 TL'lik bir fiyat değişimi göstererek, 15 TL - 41.5 TL arasında dalgalanmıştır. Kivi, hasat dönemi geldiğinde piyasaya sürülen ve genellikle belirli aylarda daha yoğun satılan bir meyvedir. Stok durumu, ithalat politikaları ve tüketici talebi gibi faktörler kivinin fiyat değişiminde belirleyici olmuştur.
+
+Dördüncü sırada bulunan zencefil, 24.0 TL'lik bir fiyat değişimi göstermiştir. Fiyat aralığı 37 TL - 61 TL arasında değişmiştir.Zencefil, listedeki en yüksek maksimum fiyata sahip ürün olarak öne çıkmaktadır. Zencefilin fiyat dalgalanmaları, büyük ölçüde ithalata bağımlı bir ürün olması nedeniyle küresel piyasalardaki değişimlerden etkilenmektedir. 
+
+Beşinci sırada yer alan çilek, 22.5 TL'lik fiyat değişimiyle listede kendine yer bulmuştur. Fiyat aralığı 17.5 TL - 40 TL olarak belirlenmiştir. Çilek, seralarda yetiştirilebilse de mevsimsel üretim dalgalanmalarına oldukça duyarlıdır.
+
+Genel olarak bakıldığında, sonbahar mevsiminde fiyat değişimi en yüksek olan bu beş ürün, mevsimsel etkiler, küresel ticaret faktörlerinden doğrudan etkilenmiştir. Nar ve bamya gibi yerel olarak üretilen ürünlerde fiyat dalgalanmaları daha çok mevsimsel arz ile ilgiliyken, zencefil gibi ithal ürünlerde uluslararası fiyat değişimleri etkili olmuştur. Yerel üretimin artırılması ve ithalata bağımlılığın azaltılması, piyasadaki oynaklığın azaltılmasına yardımcı olabilir.
+--------------------------------------------------------------------------
+![2022_yaz_en_yuksek_fiyat_degisimi_top5.png](outputs/2022_yaz_en_yuksek_fiyat_degisimi_top5.png)
+
+
+2022 Yılı Yaz Mevsimi Fiyat Değişim Analizi
+
+2022 yılı yaz mevsimindeki en yüksek fiyat değişimi gösteren ilk beş ürün şu şekilde sıralanmıştır:
+
+Kiraz Salihli: 40 TL'lik fiyat değişimi ile listenin başında yer alıyor. Fiyatlar 15 TL ile 55 TL arasında dalgalanmış. Bu büyük fark, ürünün fiyat istikrarının düşük olduğunu ve talep arttıkça fiyatların hızla yükseldiğini gösteriyor. Kirazın sezon başlangıcında düşük fiyatlarla piyasaya sunulup, talep arttıkça fiyatların yükselmesi olasılığına işaret edebilir.
+
+Üzüm Siyah: 31,5 TL'lik fiyat değişimi ile ikinci sırada. Fiyatlar 8,5 TL ile 40 TL arasında değişmiş. Üzüm, yaz mevsiminin karakteristik meyvelerinden biri olup, hasat döneminin başlangıcı ve sonunda arz farklılıkları bu dalgalanmanın temel nedenidir. Üretim miktarındaki mevsimsel dalgalanmalar, fiyatlarda önemli değişimlere yol açmıştır.
+
+Nar: 29,5 TL'lik fiyat değişimi ile üçüncü sırada yer alıyor. Fiyat aralığı 25 TL ile 54,5 TL arasında dalgalanmış. Nar en yüksek başlangıç fiyatına sahip olmuştur.
+
+Kiraz: 29,5 TL'lik fiyat değişimi gösteren kiraz, yaz meyveleri arasında en yüksek fiyat dalgalanması gösteren ürünlerden biridir. Fiyatlar 10,5 TL ile 40 TL arasında değişmiş. 
+
+
+Kivi: 29 TL'lik fiyat değişimiyle listede yer bulan kivi, genellikle yaz mevsiminde depodan çıkarılarak piyasaya sunulur. Fiyatlar 11 TL ile 40 TL arasında değişmiş. Kivi fiyatlarındaki dalgalanma, stok durumu ve ithalat politikalarındaki değişikliklerden etkilenmiş olabilir.
+
+Değerlendirme:Grafikte her bir ürün için gösterilen minimum ve maksimum değerler, fiyat aralıklarının ne kadar geniş olduğunu net bir şekilde ortaya koyuyor. Bu, yaz mevsiminde meyve fiyatlarının dinamik bir yapıya sahip olduğunu gösteriyor. Özellikle Kiraz Salihli'nin diğer ürünlere göre belirgin şekilde yüksek fiyat değişimi göstermesi, bu ürünün fiyat istikrarı açısından en hassas ürün olduğunu vurguluyor.Nar, başlangıç fiyatı olarak 25 TL ile en yüksek fiyata sahipken, Üzüm Siyah ise 8.5 TL ile en düşük fiyata sahip. Bu durum, ürünlerin piyasaya giriş fiyatlarının oldukça farklı olduğunu gösteriyor. Diğer yandan, Nar, Kiraz ve Kivi'nin fiyat değişimleri birbirine oldukça yakın seviyelerde kalıyor, 29-29.5 TL arasında değişiyor. Bu da yaz meyvelerinin fiyatlarının zaman zaman paralel bir şekilde hareket ettiğini işaret ediyor. Fiyat istikrarı açısından ürünler arasında belirgin farklar olduğu da dikkat çekiyor. Ayrıca Kiraz, üzüm ve nar gibi yaz meyvelerinin fiyatlarındaki dalgalanma, meyvelerin olgunlaşma süreci ve hasat dönemiyle doğrudan bağlantılı olarak değişebilir. Bu meyvelerin fiyatları, mevsimsel döngüler ve olgunlaşma süreçlerine bağlı olarak dalgalanır. Kivi fiyatları ise daha çok ithalat ve stok durumları gibi faktörlerden etkilenir, çünkü kivi yerli üretim açısından yaz meyvelerine göre daha az yaygındır ve yıl boyunca ithalatla karşılanır. Bu meyvelerin fiyatları, genel olarak hasat dönemi boyunca değişiklik gösterir ve her birinin yetişme koşulları ve türlerine göre farklılıklar ortaya çıkar.
+---------------------------------------------------------------------------
