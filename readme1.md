@@ -1,14 +1,37 @@
-![2022_sonbahar_en_yuksek_fiyat_degisimi_top5.png](outputs/2022_sonbahar_en_yuksek_fiyat_degisimi_top5.png)
+Bu grafik, 2022 yılında fiyat dalgalanması en yüksek olan beş tarım ürününe odaklanmaktadır. Fiyat değişimleri incelendiğinde,
 
+Erik Can:
+Fiyat değişimi: 146 TL
+Minimum fiyat: 4 TL
+Maksimum fiyat: 150 TL
+Ortalama fiyat: 47.65 TL
 
-Grafik, 2022 yılı sonbahar mevsiminde fiyat değişimi en yüksek olan ilk beş ürünü göstermektedir. Listenin başında yer alan nar, 37.0 TL'lik fiyat değişimiyle en fazla dalgalanan ürün olmuştur. Maksimum fiyatı 42.0 TL, minimum fiyatı ise 5.0 TL olarak belirlenmiştir.Narın minimum ve maksimum fiyatları arasındaki büyük fark, bu ürünün fiyat istikrarının oldukça düşük olduğunu göstermektedir. Ayrıca, sezon başlangıcında düşük fiyatlarla piyasaya sunulup, talebin artmasıyla fiyatların yükselmesi sonucu ortaya çıkmış olabilir.
+Nar:
+Fiyat değişimi: 77 TL
+Minimum fiyat: 2 TL
+Maksimum fiyat: 79 TL
+Ortalama fiyat: 16.26 TL
 
-İkinci sırada bulunan bamya, 31.5 TL'lik bir fiyat değişimi göstermiştir. Fiyat aralığı 20.0 TL - 51.5 TL arasında değişmiştir. Bamya, nispeten az üretilen ve mevsimsel olarak belirli dönemlerde daha fazla talep gören bir sebzedir. Özellikle sonbahar aylarında pazara arz edilen miktarın değişken olması ve hava koşullarının üretimi etkilemesi, fiyat dalgalanmalarına neden olmuştur.
+Üzüm Muht:
+Fiyat değişimi: 76.50 TL
+Minimum fiyat: 3.50 TL
+Maksimum fiyat: 80 TL
+Ortalama fiyat: 16.08 TL
 
-Üçüncü sırada yer alan kivi, 26.5 TL'lik bir fiyat değişimi göstererek, 15 TL - 41.5 TL arasında dalgalanmıştır. Kivi, hasat dönemi geldiğinde piyasaya sürülen ve genellikle belirli aylarda daha yoğun satılan bir meyvedir. Stok durumu, ithalat politikaları ve tüketici talebi gibi faktörler kivinin fiyat değişiminde belirleyici olmuştur.
+Mantar (İstiridye):
+Fiyat değişimi: 76 TL
+Minimum fiyat: 4 TL
+Maksimum fiyat: 80 TL
+Ortalama fiyat: 29.22 TL
 
-Dördüncü sırada bulunan zencefil, 24.0 TL'lik bir fiyat değişimi göstermiştir. Fiyat aralığı 37 TL - 61 TL arasında değişmiştir.Zencefil, listedeki en yüksek maksimum fiyata sahip ürün olarak öne çıkmaktadır. Zencefilin fiyat dalgalanmaları, büyük ölçüde ithalata bağımlı bir ürün olması nedeniyle küresel piyasalardaki değişimlerden etkilenmektedir. 
+Kiraz:
+Fiyat değişimi: 75 TL
+Minimum fiyat: 5 TL
+Maksimum fiyat: 80 TL
+Ortalama fiyat: 17.63 TL
 
-Beşinci sırada yer alan çilek, 22.5 TL'lik fiyat değişimiyle listede kendine yer bulmuştur. Fiyat aralığı 17.5 TL - 40 TL olarak belirlenmiştir. Çilek, seralarda yetiştirilebilse de mevsimsel üretim dalgalanmalarına oldukça duyarlıdır.
-
-Genel olarak bakıldığında, sonbahar mevsiminde fiyat değişimi en yüksek olan bu beş ürün, mevsimsel etkiler, küresel ticaret faktörlerinden doğrudan etkilenmiştir. Nar ve bamya gibi yerel olarak üretilen ürünlerde fiyat dalgalanmaları daha çok mevsimsel arz ile ilgiliyken, zencefil gibi ithal ürünlerde uluslararası fiyat değişimleri etkili olmuştur. Yerel üretimin artırılması ve ithalata bağımlılığın azaltılması, piyasadaki oynaklığın azaltılmasına yardımcı olabilir.
+Genel Değerlendirme:
+Erik Can'ın diğer ürünlere göre çok daha yüksek bir fiyat değişimi gösterdiği dikkat çekiyor. 146 TL'lik değişim ile diğer ürünlerden belirgin şekilde ayrışıyor. Bu durum, Erik Can'ın 2022 yılında en volatil fiyat hareketine sahip ürün olduğunu gösteriyor.
+Diğer 4 ürünün (Nar, Üzüm Muht, Mantar ve Kiraz) fiyat değişimleri birbirine oldukça yakın seyrediyor. Bu ürünlerin tamamı 75-77 TL aralığında bir değişim gösteriyor. Bu benzerlik, bu ürünlerin fiyat dinamiklerinin benzer faktörlerden etkilendiğini düşündürüyor.
+Maksimum fiyatlar açısından Erik Can 150 TL ile öne çıkarken, diğer ürünler 79-80 TL bandında seyrediyor. Erik Can'ın maksimum fiyatının diğer ürünlerin neredeyse iki katı olması, bu ürüne olan talebin veya arz kısıtının belirli dönemlerde çok daha etkili olduğunu gösteriyor.
+Minimum fiyatlar tüm ürünlerde oldukça düşük (2-5 TL aralığında) seyrediyor. Bu durum, tüm ürünlerin yıl içinde benzer minimum fiyat seviyelerine indiğini ve bol bulunduğu dönemlerde fiyatların önemli ölçüde düştüğünü gösteriyor. Özellikle ürünlerin bol olduğu hasat dönemlerinde fiyatların en düşük seviyelere indiği anlaşılıyor.Ortalama fiyatlara bakıldığında, Erik Can 47.65 TL ile en yüksek ortalama fiyata sahipken, onu Mantar (İstiridye) 29.22 TL ile takip ediyor. Diğer ürünlerin ortalama fiyatları ise 16-18 TL bandında seyrediyor 
