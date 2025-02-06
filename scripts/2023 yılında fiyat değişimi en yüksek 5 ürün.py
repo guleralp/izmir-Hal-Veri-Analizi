@@ -18,10 +18,10 @@ df = pd.read_sql(sql_query, connection)
 connection.close()
 
 # Grafiği çizelim
-df_melted = pd.melt(df, id_vars=['name'], value_vars=['min_fiyat', 'avg_fiyat', 'max_fiyat', 'fiyat_degisim'],
-                    var_name='fiyat_turu', value_name='fiyat')
+df_melted = pd.melt(df, id_vars=['name'], value_vars=['min_price', 'avg_price', 'max_price', 'price_change'],
+                    var_name='price_type', value_name='price')
 plt.figure(figsize=(10,6))
-sns.barplot(x='name', y='fiyat', hue='fiyat_turu', data=df_melted, palette='coolwarm')  # coolwarm paleti kullanıldı
+sns.barplot(x='name', y='price', hue='price_type', data=df_melted, palette='coolwarm')  # coolwarm paleti kullanıldı
 
 # Fiyat verilerini görselde göstermek
 for bars in plt.gca().patches: 
@@ -30,8 +30,9 @@ for bars in plt.gca().patches:
 
 # Grafik başlığı ve etiketler
 plt.title('2023 Yılında En Yüksek Fiyat Değişimine Sahip 5 Ürün ')
-plt.xlabel('(Ürün Adı)')
-plt.ylabel('(Fiyat)')
+plt.xlabel('(Product_Name)')
+plt.ylabel('(Price)')
+
 
 # Görselleştirmeyi kaydetme
 plt.savefig('outputs/2023_en_yuksek_fiyat_degisimi_top5.png', dpi=300)
