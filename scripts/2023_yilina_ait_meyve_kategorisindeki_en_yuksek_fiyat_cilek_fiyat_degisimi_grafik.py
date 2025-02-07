@@ -37,9 +37,10 @@ try:
 
     # Çizgi grafikleri
     plt.plot([], [], ' ', label='Product_name:CİLEK')
-    sns.lineplot(x=df['month'], y=df['avg_min_price'], label='Ortalama Minimum Fiyat', color='blue', marker='o')
-    sns.lineplot(x=df['month'], y=df['avg_max_price'], label='Ortalama Maksimum Fiyat', color='red', marker='o')
-    sns.lineplot(x=df['month'], y=df['avg_avg_price'], label='Ortalama Fiyat', color='green', marker='o')
+    sns.lineplot(x=df['month'], y=df['avg_min_price'], label='Avg_min_price', color='blue', marker='o')
+    sns.lineplot(x=df['month'], y=df['avg_max_price'], label='Avg_max_price', color='red', marker='o')
+    sns.lineplot(x=df['month'], y=df['avg_avg_price'], label='Avg_price', color='green', marker='o')
+
 
     # Başlık ve etiketler
     plt.title('2023 Yılı Meyve Kategorisindeki En Yuksek Fiyat ', fontsize=16)

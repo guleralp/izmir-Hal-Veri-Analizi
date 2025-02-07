@@ -40,21 +40,26 @@ try:
     plt.figure(figsize=(10,6))
 
     # Çizgi grafikleri
-    sns.lineplot(x=df['month'], y=df['avg_min_price'], label='Ortalama Min Fiyat', color='blue', marker='o')
-    sns.lineplot(x=df['month'], y=df['avg_max_price'], label='Ortalama Max Fiyat', color='red', marker='o')
-    sns.lineplot(x=df['month'], y=df['avg_avg_price'], label='Ortalama Fiyat', color='green', marker='o')
+    plt.plot([], [], ' ', label='Product_name:Mantar(İstiridye)')
+    sns.lineplot(x=df['month'], y=df['avg_min_price'], label='Avg_min_price', color='blue', marker='o')
+    sns.lineplot(x=df['month'], y=df['avg_max_price'], label='Avg_max_price', color='red', marker='o')
+    sns.lineplot(x=df['month'], y=df['avg_avg_price'], label='Avg_price', color='green', marker='o')
 
     # Başlık ve etiketler
-    plt.title('2024 Yılı İçin Sarımsak Kuru Fiyatları', fontsize=14)
-    plt.xlabel('Ay', fontsize=12)
-    plt.ylabel('Fiyat (TL)', fontsize=12)
+    plt.title('2024 Yılı Sebze Kategorisindeki En Yüksek Fiyat', fontsize=14)
+    plt.xlabel('(Month)', fontsize=12)
+    plt.ylabel('(Price)', fontsize=12)
     plt.xticks(np.arange(1, 13))  # Aylık etiketler
     plt.legend()
 
+
     # Kaydetme yolunu belirleme
-    output_path = "outputs/2024_yili_sarimsak_kuru_fiyatlari.png"
+    output_path = "outputs/2024_yili_sebze_kategorisindeki_en_yuksek_fiyat_mantar_istiridye_fiyat_degisimi.png"
     plt.tight_layout()  
     plt.savefig(output_path, format='png', dpi=300)  
+
+
+
 
     # Grafiği gösterme
     plt.show()
