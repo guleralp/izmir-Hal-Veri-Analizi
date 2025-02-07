@@ -37,9 +37,7 @@ for bars in [bars_min_fiyat, bars_max_fiyat, bars_fiyat_degisimi]:
     for bar in bars: 
         plt.text(bar.get_x() + bar.get_width() / 2, bar.get_height() + bar.get_y(), 
                  f'{bar.get_height():.2f}', ha='center', va='bottom', fontsize=5, color='black')
-
+plt.legend()
 # Grafik çıktısını outputs klasörüne kaydetme
 plt.savefig('outputs/2022_en_az_fiyat_degisimi_top5.png')
-
-plt.legend()
 plt.show()

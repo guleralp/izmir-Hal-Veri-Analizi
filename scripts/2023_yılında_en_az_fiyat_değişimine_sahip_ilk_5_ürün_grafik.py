@@ -20,24 +20,25 @@ index = range(len(df))
 plt.figure(figsize=(12, 7))
 
 # Min Fiyat çubuğu
-bars_min_fiyat = plt.bar(index, df['min_fiyat'], bar_width, label='Min Fiyat', color='silver')
+bars_min_fiyat = plt.bar(index, df['min_price'], bar_width, label='Min_price', color='silver')
 # Max Fiyat çubuğu
-bars_max_fiyat = plt.bar([p + bar_width for p in index], df['max_fiyat'], bar_width, label='Max Fiyat', color='turquoise')
+bars_max_fiyat = plt.bar([p + bar_width for p in index], df['max_price'], bar_width, label='Max Fiyat', color='turquoise')
 # Fiyat Değişimi çubuğu
-bars_fiyat_degisimi = plt.bar([p + bar_width * 2 for p in index], df['fiyat_degisimi'], bar_width, label='Fiyat Değişimi', color='teal')
+bars_fiyat_degisimi = plt.bar([p + bar_width * 2 for p in index], df['price_change'], bar_width, label='price_change', color='teal')
 
 plt.xticks([p + bar_width for p in index], df['name'])
 plt.title('2023 Yılında En az Fiyat Değişimine Sahip İlk 5 Ürün', fontsize=16)
 plt.xlabel('(Product_name)', fontsize=12)
 plt.ylabel('(Change_price)', fontsize=12)
-plt.yticks(range(0, int(df[['min_fiyat', 'max_fiyat', 'fiyat_degisimi']].max().max()) + 5, 5))
+plt.yticks(range(0, int(df[['min_price', 'max_price', 'price_change']].max().max()) + 5, 5))
 for bars in [bars_min_fiyat, bars_max_fiyat, bars_fiyat_degisimi]:
     for bar in bars: 
         plt.text(bar.get_x() + bar.get_width() / 2, bar.get_height() + bar.get_y(), 
                  f'{bar.get_height():.2f}', ha='center', va='bottom', fontsize=5, color='black')
 
+plt.legend()
+
 # Grafik çıktısını outputs klasörüne kaydetme
 plt.savefig('outputs/2023_en_az_fiyat_degisimi_ilk_5_urun.png')
 
-plt.legend()
 plt.show()

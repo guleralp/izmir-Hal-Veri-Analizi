@@ -17,7 +17,7 @@ df = pd.read_sql(sql_query, connection)
 connection.close()
 
 # Grafiği çizelim
-df_melted = pd.melt(df, id_vars=['name'], value_vars=['min_fiyat', 'avg_fiyat', 'max_fiyat', 'fiyat_degisim'],
+df_melted = pd.melt(df, id_vars=['name'], value_vars=['min_fiyat', 'avg_fiyat', 'max_fiyat', 'price_change'],
                     var_name='fiyat_turu', value_name='fiyat')
 plt.figure(figsize=(10,6))
 sns.barplot(x='name', y='fiyat', hue='fiyat_turu', data=df_melted, palette='coolwarm')  # coolwarm paleti kullanıldı
