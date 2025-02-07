@@ -535,6 +535,19 @@ Yılın başında, özellikle Mart ve Nisan aylarında ERİK_CAN’ın fiyatlar�
 
 Genel olarak değerlendirdiğimizde, ERİK_CAN fiyatlarının yıl içinde oldukça dramatik değişimler yaşadığı söylenebilir. Yılın başında aşırı yüksek seviyelerde olan fiyatlar, Nisan ve Mayıs aylarında hızla düşüşe geçmiş, yaz aylarında ise dengelenmiştir. Bu durum, meyvenin sezonluk bir ürün olmasından kaynaklanmaktadır. İlkbahar aylarında erken çıkan ürünlerin fiyatları oldukça yüksek olurken, yaz mevsimiyle birlikte arzın artması fiyatları aşağı çekmiştir. Ancak sezon sonuna yaklaşıldığında tekrar fiyat artışları gözlenmiştir. Fiyatların yılın başından itibaren ciddi bir düşüş gösterdiği için negatif trend baskın durumdadır.Ancak yılın ikinci yarısında hafif bir pozitif hareketlenme vardır.Zaman serisi analizi açısından bakıldığında, fiyatların mevsimsel bir trend izlediği görülmektedir.Yılın ilk aylarında yüksek fiyat dalgalanmaları yaşanırken, yılın ortalarına doğru fiyatlar stabilize olmuş ve sonbahara doğru tekrar yükseliş eğilimi göstermiştir.
 
+-----------------------------------------------------------------------
+![2024_ilkbahar_en_yuksek_fiyat_degisimi_top5.png](outputs/2024_ilkbahar_en_yuksek_fiyat_degisimi_top5.png)
+
+ 2024 yılı ilkbahar mevsiminde fiyat değişimi en yüksek olan can eriği,badem-çağla,kiraz,malta ve nektarin ürünleri karşımıza çıkıyor. İlk sırada can eriği yer alıyor ve bu ürünün fiyat değişimi 390 olarak kaydedilmiştir. Minimum fiyatı 35 TL ve Maksimum fiyatı 425 TL ye kadar çıkmaktadır. İkinci sırada yer alan Badem-Çağla, 322.5 fiyat değişimi ile dikkat çekmektedir; maksimum fiyatı 375 TL, minimum fiyatı ise 52.5 TL'dir.Üçüncü sıradaki Kiraz ürününün fiyat değişimi 195 TL olarak görülmüştür. Maksimum fiyatı 270 TL, minimum fiyatı ise 75 TL’dir. Dördüncü sırada yer alan "Malta" ise 92.5 TL fiyat değişimi ile grafiğe girmektedir; maksimum fiyatı 122.5 TL, minimum fiyatı ise 30 TL’dir. Malta ürünü, diğerlerine kıyasla daha düşük bir fiyat değişim gösterse de, yine de önemli bir fiyat dalgalanması yaşandığı söylenebilir. Son olarak, "Nektarin Kırmızı", 91 TL ile aralarında en düşük fiyat değişimine sahip üründür; maksimum fiyatı 112.5, minimum fiyatı ise 21.5’tir. 
+
+İstatistiksel olarak, fiyat değişimlerinin dağılımına bakıldığında, en yüksek volatiliteyi gösteren ürün can eriğidir. 
+
+
+
+Genel olarak, grafik, tarım ürünlerinin piyasa dinamiklerine olan duyarlılığını ve fiyat değişimlerinin mevsimsel etkilerle şekillendiğini ortaya koymaktadır. Ürünlerin piyasa koşullarına ve tüketici taleplerine göre dalgalanan fiyatları, üreticiler ve tüketiciler için önemli stratejik kararlar almayı gerektirebilir. Yüksek fiyat değişimlerine sahip ürünler, yatırımcılar ve üreticiler için daha fazla risk taşıyor olabilir; bu nedenle risk yönetimi stratejileri, özellikle "Erik Can" ve "Badem-Çığla" gibi ürünlerde önemli bir rol oynayabilir. Bu çıkarımlar, tarım piyasalarının karmaşıklığını ve dinamiklerini anlamak için kritik bir temel sunmaktadır.
+
+
+
 
 
 
