@@ -30,16 +30,16 @@ for key, grp in data.groupby('type'):
 
 # Grafik ayarları
 plt.title('2024 Yerli Ve İthal Ortalama Muz Fiyatları')
-plt.xlabel('Ay', fontsize=12)
-plt.ylabel('Ortalama Fiyat', fontsize=12)
-plt.xticks(range(1, 13))  # Aylara göre
-plt.legend(title='Tür', loc='upper left')
+plt.xlabel('(Month)', fontsize=12)
+plt.ylabel('(Avg_Price)', fontsize=12)
+plt.xticks(range(1, 13))  
+plt.legend(title='Type', loc='upper left')
 plt.grid(True)
 plt.tight_layout()
 
 # Kaydetme yolunu belirleme
 output_path = "outputs/2024_yerli_ithal_muz_fiyat_karsilastirma.png"
-plt.savefig(output_path, format='png', dpi=300)  # Grafik kaydediliyor
+plt.savefig(output_path, format='png', dpi=300)  
 
 # Grafiği göster
 plt.show()

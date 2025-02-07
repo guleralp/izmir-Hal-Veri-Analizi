@@ -44,8 +44,8 @@ try:
 
     # Başlık ve etiketler
     plt.title('2023 Yılı Meyve Kategorisindeki En Yuksek Fiyat ', fontsize=16)
-    plt.xlabel('Ay', fontsize=14)
-    plt.ylabel('Fiyat (TL)', fontsize=14)
+    plt.xlabel('(Month)', fontsize=14)
+    plt.ylabel('(Price)', fontsize=14)
     plt.xticks(np.arange(1, 13), fontsize=12)  # Ay etiketleri
     plt.yticks(fontsize=12)  # Fiyat etiketleri
     plt.legend(fontsize=12)

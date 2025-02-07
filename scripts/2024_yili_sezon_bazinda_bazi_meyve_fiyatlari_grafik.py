@@ -41,10 +41,11 @@ sns.lineplot(data=df, x="season", y="avg_price_2024", hue="name", style="name", 
 
 # Grafik başlık ve etiketler
 plt.title('2024 Yılı Sezon Bazında Bazı Meyve Fiyatları', fontsize=16)
-plt.xlabel('Sezon', fontsize=12)
-plt.ylabel('Ortalama Fiyat', fontsize=12)
+plt.xlabel('(Season)', fontsize=12)
+plt.ylabel('(Avg_Price)', fontsize=12)
 plt.xticks(rotation=45)
-plt.legend(title='Ürün', loc='upper left', bbox_to_anchor=(1, 1))
+plt.legend(title='Product_name', loc='upper left', bbox_to_anchor=(1, 1))
+
 
 # Kaydetme yolunu belirleme
 output_path = "outputs/2024_sezonluk_meyve_fiyatlari.png"

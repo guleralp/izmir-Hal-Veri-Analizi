@@ -30,10 +30,11 @@ for key, grp in data.groupby('type'):
 
 # Grafik ayarları
 plt.title('2024 Yerli Ve İthal Ortalama Sarımsak Fiyatları')
-plt.xlabel('Ay', fontsize=12)
-plt.ylabel('Ortalama Fiyat', fontsize=12)
+plt.xlabel('(Month)', fontsize=12)
+plt.ylabel('(Avg_Price)', fontsize=12)
 plt.xticks(range(1, 13))  # Aylara göre
-plt.legend(title='Tür', loc='upper left')
+plt.legend(title='Type', loc='upper left')
+
 plt.grid(True)
 plt.tight_layout()
 

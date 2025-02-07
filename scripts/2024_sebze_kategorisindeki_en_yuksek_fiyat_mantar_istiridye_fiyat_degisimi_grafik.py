@@ -49,7 +49,7 @@ try:
     plt.title('2024 Yılı Sebze Kategorisindeki En Yüksek Fiyat', fontsize=14)
     plt.xlabel('(Month)', fontsize=12)
     plt.ylabel('(Price)', fontsize=12)
-    plt.xticks(np.arange(1, 13))  # Aylık etiketler
+    plt.xticks(np.arange(1, 13))  
     plt.legend()
 
 

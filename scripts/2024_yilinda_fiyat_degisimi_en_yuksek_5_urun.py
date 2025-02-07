@@ -31,8 +31,8 @@ for bars in plt.gca().patches:
 
 # Grafik başlığı ve etiketler
 plt.title('En Yüksek Fiyat Değişimine Sahip 5 Ürün Fiyat Türleri ve Değişimi')
-plt.xlabel('(Ürün Adı)')
-plt.ylabel('(Fiyat)')
+plt.xlabel('(Product_name)')
+plt.ylabel('(Price)')
 
 plt.savefig('outputs/2024_yili_en_yuksek_fiyat_degisimi_top5.png', dpi=300)
 

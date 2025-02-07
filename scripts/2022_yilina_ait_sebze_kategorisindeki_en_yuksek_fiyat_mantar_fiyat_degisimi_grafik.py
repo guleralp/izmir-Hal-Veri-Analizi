@@ -44,7 +44,7 @@ try:
 
     # Başlık ve etiketler
     plt.title('2022 Yılına Ait Sebze Kategorisindeki En Yüksek Fiyat', fontsize=16)
-    plt.xlabel('(Mounth)', fontsize=14)
+    plt.xlabel('(Month)', fontsize=14)
     plt.ylabel('(change_price)', fontsize=14)
     plt.xticks(np.arange(1, 13), fontsize=12)
     plt.yticks(fontsize=12)
@@ -54,7 +54,7 @@ try:
     plt.tight_layout()
 
    # Grafiği outputs klasörüne kaydetme
-    plt.savefig('outputs/2022 Yılına Ait Sebze Kategorisindeki En Yüksek Fiyat.png', dpi=300)
+    plt.savefig('outputs/2022_yilina_ait_sebze_kategorisindeki_en_yuksek_fiyat.png', dpi=300)
 
 
     # Grafiği göster

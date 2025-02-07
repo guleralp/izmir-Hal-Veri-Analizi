@@ -35,14 +35,14 @@ for elma in df['name'].unique():
 
 # Grafiğin başlığı ve etiketleri
 plt.title('2024 Yerli Ve İthal Elma Fiyatlarının Karşılaştırılması ')
-plt.xlabel('Ay')
-plt.ylabel('Ortalama Fiyat (₺)')
-plt.xticks(range(1, 13))  # Ayları 1-12 arası olarak ayarlıyoruz
+plt.xlabel('(Month)')
+plt.ylabel('(Avg_Price)')
+plt.xticks(range(1, 13))  
 plt.legend()
 
 # Kaydetme yolunu belirleme
 output_path = "outputs/2024_yerli_ithal_elma_fiyat_karsilastirma.png"
-plt.savefig(output_path, format='png', dpi=300)  # Grafik kaydediliyor
+plt.savefig(output_path, format='png', dpi=300)  
 
 # Grafiği gösterme
 plt.grid(True)

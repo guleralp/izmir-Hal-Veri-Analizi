@@ -27,10 +27,11 @@ for bar, (_, row) in zip(bars, df.iterrows()):
              f'{row["price_change"]}', ha='center', va='bottom', fontsize=8, color='black')
 
 # Grafik Özellikleri
-plt.title("2024 Yılı Kış Mevsimi için fiyat değişimi en yüksek olan ilk 5 ürün", fontsize=14)
+plt.title("2024 Yılı Kış Mevsimi İçin Fiyat Değişimi En Yüksek 5 Ürün", fontsize=14)
 plt.xlabel('(Product_Name)', fontsize=12)
 plt.ylabel('(Price_Change) ', fontsize=12)
 plt.grid(True, linestyle='--', alpha=0.3)
+
 plt.ylim(0, df['price_change'].max() + 10)
 plt.yticks(range(0, int(df['price_change'].max() + 25), 50))
 plt.tight_layout()

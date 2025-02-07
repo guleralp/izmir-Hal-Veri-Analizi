@@ -45,7 +45,7 @@ try:
 
     # Başlık ve etiketler
     plt.title('2024 Yılı Meyve Kategorisindeki En Yüksek Fiyat', fontsize=16)
-    plt.xlabel('(Mounth)', fontsize=14)
+    plt.xlabel('(Month)', fontsize=14)
     plt.ylabel('(Price)', fontsize=14)
     plt.xticks(np.arange(1, 13), fontsize=12)  # Ay etiketleri
 
