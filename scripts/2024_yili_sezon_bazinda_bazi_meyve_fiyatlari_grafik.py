@@ -36,7 +36,7 @@ ORDER BY name, season;
 df = pd.read_sql_query(query, engine)
 
 # Grafiği oluşturun
-plt.figure(figsize=(12, 8))
+plt.figure(figsize=(10, 6))
 sns.lineplot(data=df, x="season", y="avg_price_2024", hue="name", style="name", markers=True)
 
 # Grafik başlık ve etiketler

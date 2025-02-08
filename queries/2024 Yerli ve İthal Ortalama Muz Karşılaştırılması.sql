@@ -1,8 +1,8 @@
-            SELECT 
+  SELECT 
     name, 
-    MONTH(date) AS ay, 
+    MONTH(date) AS Month, 
     type, 
-    Round(AVG(avg_price),2) AS ortalama_fiyat
+    Round(AVG(avg_price),2) AS avg_price
 FROM worksheet
 WHERE name LIKE '%MUZ%' 
   AND YEAR(date) = 2024

@@ -1,9 +1,9 @@
 SELECT 
     name,
     type,
-    COALESCE(Round(Avg(CASE WHEN YEAR(date) = 2022 THEN avg_price END),2), '2022 Yılı için bulunmuyor')  2022_ort,
-    COALESCE(Round(Avg(CASE WHEN YEAR(date) = 2023 THEN avg_price END),2), '2023 Yılı için bulunmuyor')  2023_ort,
-    COALESCE(Round(Avg(CASE WHEN YEAR(date) = 2024 THEN avg_price END),2), '2024 Yılı için bulunmuyor')  2024_ort
+    COALESCE(Round(Avg(CASE WHEN YEAR(date) = 2022 THEN avg_price END),2), '2022 Yılı için bulunmuyor')  2022_avg,
+    COALESCE(Round(Avg(CASE WHEN YEAR(date) = 2023 THEN avg_price END),2), '2023 Yılı için bulunmuyor')  2023_avg,
+    COALESCE(Round(Avg(CASE WHEN YEAR(date) = 2024 THEN avg_price END),2), '2024 Yılı için bulunmuyor')  2024_avg
 FROM 
     worksheet
 WHERE 

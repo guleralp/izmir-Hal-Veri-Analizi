@@ -6,11 +6,12 @@ SELECT
         WHEN MIN(min_price) = (SELECT MIN(min_price) 
                                FROM worksheet 
                                WHERE type = 'SEBZE' 
-                               AND YEAR(date) = 2024 AND MONTH(date) IN (6, 7, 8)) THEN 'En Ucuz'
+                               AND YEAR(date) = 2024 AND MONTH(date) IN (6, 7, 8)) THEN 'cheapest'
         WHEN MAX(max_price) = (SELECT MAX(max_price) 
                                FROM worksheet 
                                WHERE type = 'SEBZE' 
-                               AND YEAR(date) = 2024 AND MONTH(date) IN (6, 7, 8)) THEN 'En Pahalı'
+
+                               AND YEAR(date) = 2024 AND MONTH(date) IN (6, 7, 8)) THEN 'Most expensive'
     END AS price_category
 FROM worksheet
 WHERE type = 'SEBZE'

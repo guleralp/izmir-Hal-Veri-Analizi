@@ -9,12 +9,13 @@ connection = pymysqldbconnet.get_db_connection()
 query = """
             SELECT 
     name, 
-    MONTH(date) AS ay, 
+    MONTH(date) AS Month, 
     type, 
-    Round(AVG(avg_price),2) AS ortalama_fiyat
+    Round(AVG(avg_price),2) AS avg_price
 FROM worksheet
 WHERE name LIKE '%MUZ%' 
   AND YEAR(date) = 2024
+
 GROUP BY name, type, MONTH(date)
 ORDER BY MONTH(date), type;
 """
@@ -26,7 +27,7 @@ connection.close()
 # Grafik oluşturma
 plt.figure(figsize=(10, 6))
 for key, grp in data.groupby('type'):
-    plt.plot(grp['ay'], grp['ortalama_fiyat'], marker='o', label=key)
+    plt.plot(grp['Month'], grp['avg_price'], marker='o', label=key)
 
 # Grafik ayarları
 plt.title('2024 Yerli Ve İthal Ortalama Muz Fiyatları')

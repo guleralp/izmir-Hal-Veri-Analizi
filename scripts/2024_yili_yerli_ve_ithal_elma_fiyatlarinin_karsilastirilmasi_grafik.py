@@ -9,12 +9,13 @@ connection = pymysqldbconnet.get_db_connection()
 query = """
 SELECT 
     name, 
-    MONTH(date) AS ay, 
+    MONTH(date) AS Month, 
     type, 
-    ROUND(AVG(avg_price), 2) AS ortalama_fiyat
+    ROUND(AVG(avg_price), 2) AS avg_price
 FROM worksheet
 WHERE name IN ('ELMA  AMASYA','ELMA  STARKING')
   AND YEAR(date) = 2024
+
 GROUP BY name, type, MONTH(date)
 ORDER BY MONTH(date), type;
 """
@@ -31,7 +32,8 @@ plt.figure(figsize=(10, 6))
 # Elma türleri için farklı çizgiler
 for elma in df['name'].unique():
     elma_df = df[df['name'] == elma]
-    plt.plot(elma_df['ay'], elma_df['ortalama_fiyat'], label=elma)
+    plt.plot(elma_df['Month'], elma_df['avg_price'], label=elma)
+
 
 # Grafiğin başlığı ve etiketleri
 plt.title('2024 Yerli Ve İthal Elma Fiyatlarının Karşılaştırılması ')

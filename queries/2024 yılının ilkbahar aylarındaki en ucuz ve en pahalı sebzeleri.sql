@@ -22,7 +22,7 @@ UNION ALL
   FROM worksheet
   WHERE type = 'SEBZE'
     AND YEAR(date) = 2024
-    AND MONTH(date) IN (3, 4, 5)  -- İlkbahar ayları: Mart, Nisan, Mayıs
+    AND MONTH(date) IN (3, 4, 5)  
   GROUP BY name
   ORDER BY avg_price ASC
   LIMIT 1

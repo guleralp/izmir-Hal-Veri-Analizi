@@ -1,6 +1,4 @@
 
-##2024 yılının kış aylarındaki en ucuz ve en pahalı meyveleri 
-
 ##en pahalı meyve 
  (
      SELECT 

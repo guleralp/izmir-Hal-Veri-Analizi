@@ -1,6 +1,4 @@
 
-##2024 yılı için meyve ve sebzelerin kış ve yaz aylarındaki ortalama fiyatları ve en büyük fiyat değişimine sahip ilk 10 ürün
-
 WITH seasonal_prices AS (
     SELECT 
         name,

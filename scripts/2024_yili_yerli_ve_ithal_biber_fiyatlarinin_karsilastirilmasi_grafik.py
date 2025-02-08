@@ -9,12 +9,13 @@ connection = pymysqldbconnet.get_db_connection()
 query = """
 SELECT 
     name, 
-    MONTH(date) AS ay, 
+    MONTH(date) AS Month, 
     type, 
-    ROUND(AVG(avg_price), 2) AS ortalama_fiyat
+    ROUND(AVG(avg_price), 2) AS avg_price
 FROM worksheet
 WHERE name IN ('BİBER KALİFORNİYA', 'BİBER  DOLMA')
   AND YEAR(date) = 2024
+
 GROUP BY name, type, MONTH(date)
 ORDER BY MONTH(date), type;
 """
@@ -31,7 +32,8 @@ plt.figure(figsize=(10,6))
 # Kaliforniya biberi ve dolma biberi için farklı çizgiler
 for biber in df['name'].unique():
     biber_df = df[df['name'] == biber]
-    plt.plot(biber_df['ay'], biber_df['ortalama_fiyat'], label=biber)
+    plt.plot(biber_df['Month'], biber_df['avg_price'], label=biber)
+
 
 # Grafiğin başlığı ve etiketleri
 plt.title('2024 Yerli ve İthal Biber Fiyatlarının Karşılaştırılması ')

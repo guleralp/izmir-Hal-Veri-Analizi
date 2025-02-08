@@ -1,48 +1,19 @@
-# 2022-2023-2024 Yılları En Düşük Fiyatlı Sebze Analizi: Maydanoz
 
 ![2022_2023_2024_en_dusuk_fiyatli_sebze.png](outputs/2022_2023_2024_en_dusuk_fiyatli_sebze.png)
 
-## Grafik Detayları ve Analiz
 
 Bu grafik, 2022-2024 yılları arasında en düşük fiyatlı sebze olan maydanozun fiyat değişimlerini göstermektedir. Grafikte üç farklı fiyat göstergesi bulunmaktadır:
 - 🔴 Minimum Fiyat (min_price)
 - 🟢 Maksimum Fiyat (max_price)
 - 🔵 Ortalama Fiyat (avg_price)
 
-### Yıllara Göre Fiyat Analizi:
 
-#### 2022 Yılı:
-  - Minimum Fiyat: 0.5 TL 
-  - Maksimum Fiyat: 4.00 TL 
-  - Ortalama Fiyat: 2.25 TL
-- En yüksek fiyat dalgalanması Ocak-Mart,Ağustos-Eylül dönemlerinde görülmüş
+2022 Yılı Minimum Fiyat: 0.5 TL, Maksimum Fiyat: 4.00 TL, Ortalama Fiyat: 2.25 TL olarak görülüyor.En yüksek fiyat dalgalanması Ocak-Mart,Ağustos-Eylül dönemlerinde görülmüş.2023 Yılı Minimum Fiyat: 1.25 TL, Maksimum Fiyat: 7.00 TL, Ortalama Fiyat: 4.00 TL olarak görülüyor. Mayıs ayından itibaren fiyatlar yükseliş trendine girmiş,2022'ye göre ortalama fiyatta %60 artış (2.25 TL → 4 TL) göstermiştir. 2024 Yılı
+ Minimum Fiyatı 1.25 TL- 3.00 TL (Tüm yıl boyunca sabit), Maksimum Fiyatı 10.00 TL, Ortalama Fiyatı 5.63 TL olmuş ve Şubat ayında keskin bir fiyat artışı yaşanmıştır. Yıllık Artış 2023'e göre ortalama fiyatta %41 artış (4 TL → 5.63 TL),Kümülatif Artış olarak da 2022'den 2024'e ortalama fiyatta toplam %150 artış (2.25 TL → 5.63 TL) göstermiştir.
 
 
-#### 2023 Yılı:
-  - Minimum Fiyat: 1.25 TL 
-  - Maksimum Fiyat: 7.00 TL 
-  - Ortalama Fiyat: 4.00 TL
-- Mayıs ayından itibaren fiyatlar yükseliş trendine girmiş
-- Yıllık Artış: 2022'ye göre ortalama fiyatta %60 artış (2.25 TL → 4 TL)
+Genel Fiyat Artış Trendi 2022’den 2024’e kadar fiyatlarda belirgin bir yükseliş gözlemlenmiştir. Minimum fiyat 6 kat artarak 0.5 TL’den 3 TL’ye çıkarken, maksimum fiyat yaklaşık 3 kat artarak 4 TL’den 10 TL’ye ulaşmıştır. Ortalama fiyat ise 2.5 katlık bir artış göstererek 2 TL’den 5 TL seviyesine yükselmiştir. Mevsimsel Dalgalanmalar ve Fiyat İstikrarı İlkbahar aylarında fiyat dalgalanmaları daha belirgin şekilde görülmüş, yaz aylarında ise fiyatların görece daha stabil bir seyir izlemiştir. Kış aylarında ise fiyatların genel olarak artış eğiliminde olduğu gözlemlenmiştir. 2024 yılı itibarıyla minimum fiyatların daha stabil seyrettiği görülse de, maksimum fiyatlarda dalgalanmalar devam etmiş ve fiyat aralığındaki fark zamanla artmıştır. 
 
-#### 2024 Yılı:
-  - Minimum Fiyat: 1.25 TL- 3.00 TL (Tüm yıl boyunca sabit)
-  - Maksimum Fiyat: 10.00 TL 
-  - Ortalama Fiyat: 5.63 TL
-- Şubat ayında keskin bir fiyat artışı yaşanmış
-- Yıllık Artış: 2023'e göre ortalama fiyatta %41 artış (4 TL → 5.63 TL)
-- Kümülatif Artış: 2022'den 2024'e ortalama fiyatta toplam %150 artış (2.25 TL → 5.63 TL)
-
-### Önemli Gözlemler:
-
-Fiyat Analizi ve Değişim Trendleri
-Genel Fiyat Artış Trendi
-2022’den 2024’e kadar fiyatlarda belirgin bir yükseliş gözlemlenmiştir. Minimum fiyat 6 kat artarak 0.5 TL’den 3 TL’ye çıkarken, maksimum fiyat yaklaşık 3 kat artarak 4 TL’den 10 TL’ye ulaşmıştır. Ortalama fiyat ise 2.5 katlık bir artış göstererek 2 TL’den 5 TL seviyesine yükselmiştir.
-
-Mevsimsel Dalgalanmalar ve Fiyat İstikrarı
-İlkbahar aylarında fiyat dalgalanmaları daha belirgin şekilde görülmüş, yaz aylarında ise fiyatların görece daha stabil bir seyir izlediği tespit edilmiştir. Kış aylarında ise fiyatların genel olarak artış eğiliminde olduğu gözlemlenmiştir. 2024 yılı itibarıyla minimum fiyatların daha stabil seyrettiği görülse de, maksimum fiyatlarda dalgalanmalar devam etmiş ve fiyat aralığındaki fark zamanla artmıştır.
-
-Dikkat Çeken Önemli Değişimler
 2024 Şubat ayında ani fiyat artışı yaşanmış ve bu dönem en yüksek fiyat seviyesine ulaşılmıştır.
 2023 yılının ortalarında kademeli bir yükseliş trendi gözlemlenmiştir, bu süreçte fiyatlar istikrarlı bir şekilde artış göstermiştir.
 2022 yılı, fiyatların daha stabil seyrettiği bir dönem olmuştur, fiyat dalgalanmalarının diğer yıllara kıyasla daha az olduğu görülmüştür.
@@ -549,6 +520,10 @@ Ortalama fiyat değişimi 74 TL olarak hesaplanıyor.Son üç ürünün aynı fi
 -----------------------------------------------------------------------------------------------------------------
 ![2024_sezonluk_meyve_fiyatlari.png](outputs/2024_sezonluk_meyve_fiyatlari.png)
 
+Beyaz üzüm, ilkbaharda yaklaşık 70 TL civarında yüksek bir fiyata sahipken, kış aylarında keskin bir düşüş yaşayarak 45 TL seviyelerine gerilemiş, sonbahar ve yaz aylarında ise tekrar yükselerek ilkbahardaki yüksek fiyatına yakın bir seviyeye ulaşmıştır. Bu durum, üzümün sezonluk bir ürün olduğunu ve yaz sonu ile sonbaharda yüksek talep gördüğünü göstermektedir. Muz, yıl boyu piyasada bulunan bir meyve olduğu için fiyat dalgalanması fazla olmamış, ilkbahardan kışa hafif bir düşüş yaşasa da, sonbaharda tekrar yükselmiş ve yaz mevsiminde fiyatı çok az değişmiştir. Kayısı, ilkbahardan kışa kadar fiyatı artarak sonbaharda en yüksek seviyesine ulaşmış, ardından yazın hafif bir düşüş göstermiştir. Yazın bol bulunduğu için fiyatı düşerken, kış ve sonbaharda az bulunması nedeniyle fiyatı artmıştır. Amasya elması, kış aylarında nispeten düşük bir fiyata sahipken, sonbaharda keskin bir yükseliş göstererek en yüksek seviyesine ulaşmış ve yazın tekrar düşmüştür. Hasat döneminin sonbahar olması ve talebin bu dönemde yüksek olması bu durumu açıklamaktadır. Armut, ilkbahardan kışa düşüş yaşadıktan sonra sonbaharda tekrar yükselmeye başlamış ve yazın en yüksek seviyesine ulaşmıştır, bu da armudun en yüksek fiyatlarını yaz aylarında gördüğünü göstermektedir. Karpuz, ilkbahar ve kış aylarında nispeten düşük seyretmiş, sonbaharda hafif bir düşüş yaşasa da yaz mevsiminde fiyatında artış olmamıştır. Yaz mevsiminin en popüler meyvelerinden biri olmasına rağmen, bol üretim nedeniyle fiyatı düşük kalmıştır. Portakal, kış aylarında en düşük seviyede olup, ilkbahar ve yaz aylarında hafif bir artış göstermiştir. Kış mevsiminde tüketildiği için, mevsim dışındaki fiyatlarının arttığı görülmektedir. Kavun, yazın nispeten sabit bir fiyat eğilimi gösterirken, ilkbahar ve kış aylarında fiyatları daha düşük olmuştur. Yaz meyvesi olduğu için diğer mevsimlerde daha yüksek fiyatlarla satılması beklenen bir durumdur. Genel olarak, mevsimsel dalgalanma en fazla üzüm ve kayısıda gözlemlenmektedir. Üzüm, ilkbahardan kışa keskin bir düşüş yaşarken, yaz-sonbahar döneminde zirve yapmaktadır. Muz ve portakal gibi yıl boyunca piyasada bulunan ürünler daha stabil fiyatlara sahiptir. Yaz aylarında karpuz ve kavun gibi meyvelerin fiyatları düşük seyretmekte, bol üretim talebi karşıladığı için fiyat artışı yaşanmamaktadır. Sonbaharda elma ve armut gibi meyvelerin fiyatlarında belirgin artış görülmektedir. Hasat dönemiyle fiyatlar ters orantılı hareket etmekte, üretimin arttığı dönemlerde fiyatlar düşerken, az bulunduğu dönemlerde yükselmektedir. Depolanabilen elma ve portakal gibi meyveler, diğer mevsimlik meyvelere kıyasla daha az fiyat dalgalanması göstermektedir. Kış aylarında özellikle üzüm, kayısı ve karpuz gibi mevsim dışı ürünlerde talep azaldığı için fiyatlar düşmektedir. Depolama ve ithalatın etkisiyle portakal, elma ve muz gibi meyvelerin yıl boyunca erişilebilir olması fiyat istikrarını sağlamaktadır. Yaz mevsiminde üretim fazlalığı fiyatları dengelerken, karpuz ve kavun gibi yaz meyvelerinin talebi yüksek olmasına rağmen geniş üretim alanları nedeniyle fiyat artışı yaşanmamaktadır. Üzüm ve kayısı gibi bazı meyvelerde yaz sonuna doğru fiyat artışı görülmekte, bu ürünler yaz sonunda ve sonbaharda yüksek talep görmektedir. Benzer mevsimlerde yetişen meyveler benzer fiyat değişimlerini göstermekte, üzüm ve kayısı fiyatları paralel hareket ederek yaz sonu ve sonbaharda zirve yapmaktadır. Muz ve portakal gibi ithal veya sera üretimi olan meyveler, mevsimsel dalgalanmalardan daha az etkilenerek stabil fiyatlar sergilemektedir.
+
+
+
 
 
 
@@ -558,7 +533,9 @@ Ortalama fiyat değişimi 74 TL olarak hesaplanıyor.Son üç ürünün aynı fi
 
 
 
+Biber fiyatları, ilkbaharda orta seviyede başlamış, yaz aylarında ise nispeten düşüş göstererek en düşük seviyelerine ulaşmıştır. Sonbaharda fiyat tekrar yükselmiş ve kış aylarında zirveye ulaşmıştır. Bu durum, biberin yaz aylarında bol üretildiğini ve fiyatlarının düştüğünü, kış aylarında ise üretimin azalmasıyla fiyatın yükseldiğini göstermektedir. Domates fiyatları, yaz aylarında en düşük seviyeye gerilemiş, kış ve sonbaharda ise ciddi bir artış göstermiştir. Yaz aylarında açık tarla üretiminin yoğun olması nedeniyle fiyatlar düşük kalırken, kış aylarında sera üretimine geçilmesiyle maliyetler artmış ve bu durum fiyatlara yansımıştır. Havuç fiyatları yıl boyunca istikrarlı bir artış göstermiş, sonbaharda en yüksek seviyesine ulaşmıştır. Yaz aylarında nispeten düşük seyreden fiyatlar, özellikle kışın tüketimin artmasıyla yükselmiş ve havuç, depolanabilen bir sebze olduğu için fiyat dalgalanması görece daha sınırlıdır. Karnabahar fiyatları kış aylarında zirve yaparken, yaz mevsiminde en düşük seviyelerine gerilemiştir. Karnabahar, tipik bir kış sebzesi olarak yaz aylarında piyasada az bulunur, bu nedenle fiyatları düşmektedir. Marul fiyatları yıl boyunca dalgalı bir seyir izlemiş, özellikle kış aylarında en yüksek seviyesine ulaşmış, yaz aylarında ise düşüş göstermiştir. Yaz aylarında bol miktarda üretilen marulun fiyatı düşerken, kış aylarında üretimin azalmasıyla fiyatlar yükselmiştir. Patates fiyatları genellikle istikrarlı bir eğilim göstermiş, kış aylarında en yüksek seviyeye ulaşmış, yaz aylarında ise nispeten daha düşük seviyelerde kalmıştır. Depolanabilen bir ürün olduğu için patatesin fiyat dalgalanmaları diğer sebzelere göre daha az olmuş olabilir.Patlıcan fiyatları, kış aylarında en yüksek seviyeye ulaşırken, yaz mevsiminde düşüş göstermiştir. Pırasa fiyatları yıl boyunca hafif bir artış eğilimi göstermiş, özellikle kış aylarında fiyatların en yüksek seviyeye ulaştığı görülmüştür. Pırasa, tipik bir kış sebzesi olarak kış aylarında talebin artmasıyla fiyatlar yükselirken, yaz aylarında daha düşük fiyatlardan işlem görmektedir.Salatalık fiyatları yaz aylarında en düşük seviyeye ulaşmış, sonbaharda hafif bir artış göstermiştir. Sera üretimi sayesinde salatalık yıl boyunca piyasada bulunabilen bir sebze olmasına rağmen, yaz aylarında üretimin artması fiyatları düşürmüş olarak görülüyor. Soğan fiyatları yıl boyunca istikrarlı bir seyir izlemiş, ancak sonbaharda zirve yaparak kış aylarında tekrar düşüş göstermiştir. Depolanabilen bir sebze olduğu için soğanın fiyat dalgalanmaları daha azdır, ancak belli dönemlerde fiyat artışları dikkat çekmektedir.
 
+Belirli mevsimlerde üretim ve talep dengesine bağlı olarak ciddi dalgalanmalar yaşandığını görebiliyoruz. Fiyat değişimleri genellikle mevsimsel üretim miktarı, tüketici talebi, ithalat durumu ve depolama koşullarına bağlı olarak şekillenmektedir.Kış aylarında sebze fiyatları genellikle yükselmektedir. Biber, domates, karnabahar ve patlıcan gibi sebzeler kış aylarında yüksek fiyatlara ulaşmış, bu durum üretimin azalması ve seracılık maliyetlerinin artmasıyla açıklanabilir. Yaz aylarında sebzelerin çoğu daha düşük fiyatlarla satılmaktadır. Domates, salatalık, biber ve patlıcan gibi sebzeler yaz aylarında bol üretildiği için fiyatlar düşmüştür. Özellikle açık tarla üretiminin yoğun olduğu bu dönemde, fiyatlar daha düşük seviyelerde kalmaktadır. Depolanabilen sebzelerde ise fiyat dalgalanması daha az olmaktadır. Soğan, patates ve havuç gibi uzun süre saklanabilen sebzelerde fiyat değişimleri daha sınırlıdır ve depolama imkânı, fiyat istikrarını korumaktadır. Sonbahar aylarında fiyatlar genellikle zirve yapmaktadır. Sebzelerin çoğunda sonbaharda fiyat artışı görülmektedir. Bu durum, hasat öncesi arzın azalması ve talebin artmasıyla açıklanabilir. Mevsimsel tüketim alışkanlıkları, sebze fiyatlarını belirleyici bir faktör olarak öne çıkmaktadır. Karnabahar, pırasa ve marul gibi sebzeler kışın daha fazla talep görerek fiyat artışı yaşamaktadır.
 
 
 

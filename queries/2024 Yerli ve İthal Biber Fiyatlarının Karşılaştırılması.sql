@@ -1,8 +1,8 @@
 SELECT 
     name, 
-    MONTH(date) AS ay, 
+    MONTH(date) AS Month, 
     type, 
-    ROUND(AVG(avg_price), 2) AS ortalama_fiyat
+    ROUND(AVG(avg_price), 2) AS avg_price
 FROM worksheet
 WHERE name IN ('BİBER KALİFORNİYA', 'BİBER  DOLMA')
   AND YEAR(date) = 2024
