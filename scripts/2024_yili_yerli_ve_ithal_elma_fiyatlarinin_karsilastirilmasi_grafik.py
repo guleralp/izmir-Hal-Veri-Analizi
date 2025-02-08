@@ -39,7 +39,7 @@ plt.xlabel('(Month)')
 plt.ylabel('(Avg_Price)')
 plt.xticks(range(1, 13))  
 plt.legend()
-
+plt.grid(True)
 # Kaydetme yolunu belirleme
 output_path = "outputs/2024_yerli_ithal_elma_fiyat_karsilastirma.png"
 plt.savefig(output_path, format='png', dpi=300)  

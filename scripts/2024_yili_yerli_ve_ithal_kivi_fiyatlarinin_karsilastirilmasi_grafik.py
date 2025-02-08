@@ -29,7 +29,7 @@ for key, grp in data.groupby('type'):
     plt.plot(grp['ay'], grp['ortalama_fiyat'], marker='o', label=key)
 
 # Grafik ayarları
-plt.title('2024 Yerli Ve İthal Ortalama Kivi Fiyatları')
+plt.title('2024 Yerli Ve İthal Kivi Fiyatları')
 plt.xlabel('(Month)', fontsize=12)
 plt.ylabel('(Avg_Price)', fontsize=12)
 plt.xticks(range(1, 13))  

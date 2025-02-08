@@ -39,7 +39,7 @@ plt.grid(True)
 plt.tight_layout()
 
 # Kaydetme yolunu belirleme
-output_path = "outputs/2024_yili_yerli_ve_ithal_sarimsak_fiyatlarinin_karsilastirilmasi.png"
+output_path = "outputs/2024_yili_yerli_ithal_sarimsak_fiyatlarinin_karsilastirilmasi.png"
 plt.savefig(output_path, format='png', dpi=300)  # Grafik kaydediliyor
 
 # Grafiği göster
