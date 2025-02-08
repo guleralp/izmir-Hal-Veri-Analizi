@@ -597,10 +597,7 @@ Yaz aylarına gelindiğinde (6-7-8. aylar) her iki üründe de yükseliş trendi
 
 ----------------------------------------------------------------------------------------------------------
 
-
 [2024_yili_yerli_ithal_sarimsak_fiyatlarinin_karsilastirilmasi.png](outputs/2024_yili_yerli_ithal_sarimsak_fiyatlarinin_karsilastirilmasi.png)
-
-
 
 2024 yılı yerli ve ithal sarımsak fiyatlarını grafiği incelediğimizde, Yılın başında yerli sarımsak 65 TL, ithal sarımsak ise 82 TL seviyesinden başlıyor. Şubat ayında her iki üründe de keskin bir yükseliş yaşanıyor; yerli sarımsak 85 TL'ye, ithal sarımsak ise 108 TL'ye çıkıyor.İlkbahar aylarında (3-4-5. aylar) farklı trendler gözlemleniyor. İthal sarımsak fiyatı hızlı bir yükselişle 126 TL seviyesine çıkıyor ve bu seviyede uzun süre sabit kalıyor. Yerli sarımsak ise 97-99 TL bandında dalgalanarak daha sonra mayıs ayında 87 TL 'lere geriliyor. Yaz aylarına gelindiğinde (6-7-8. aylar) ithal sarımsak fiyatları çok hafif bir düşüş eğilimine giriyor. Yerli sarımsak kademeli bir yükselişle 100 TL seviyesine ulaşıyor.
 Sonbahar ve kış döneminde (9-10-11-12. aylar) çok ilginç bir tablo ortaya çıkıyor. İthal sarımsak bu dönemlerde bulunmuyor. (muhtemelen sezon dışı veya stok yetersizliği) Yerli sarımsak fiyatları ise dramatik bir yükseliş gösteriyor. Eylül'de 94 TL, Ekim'de 103 TL, Kasım'da 112 TL, Aralık'ta 133 TL'ye kadar yükseliyor.İthal ve yerli sarımsak arasında ortalama 30-40 TL'lik bir fiyat farkı bulunuyor. Yerli sarımsak fiyatları özellikle kış aylarında ciddi artış gösteriyor. Yerli sarımsak için mayıs-haziran ayları en uygun fiyatların görüldüğü dönem olak karşımıza çıkıyor. İlkbahar ve yaz başlangıcında yerli sarımsak almak daha ekonomik, kış aylarında fiyatlar çok yükseleceği için, uygun dönemde alıp uygun koşullarda saklamak avantajlı olabilir.İthal sarımsak genellikle yerli ürüne göre daha pahalı bir seçenek olarak öne çıkıyor.
