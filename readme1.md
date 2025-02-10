@@ -134,6 +134,7 @@ Bu ürünlerin benzer tedarik zincirlerine sahip olması,Aynı veya yakın üret
 Mevsimsel değişimlerden benzer şekilde etkilenmeleri,Piyasada birbirine bağlı fiyatlandırma stratejilerinin uygulanması.
 
 2022 yılında en az fiyat değişimi gösteren bu beş ürün, piyasa dalgalanmalarına karşı daha dayanıklı bir fiyat seyri izlemiştir. Özellikle maksimum ve minimum fiyatlar arasındaki farkın dar olması, bu ürünlerin piyasada spekülatif fiyat artışlarından korunabildiğini göstermektedir. Bu durum, tarım politikalarının ve pazar düzenlemelerinin etkili bir şekilde uygulanmasının bir sonucu olabilir. Fiyat istikrarının korunması, hem üreticiler hem de tüketiciler için büyük bir avantaj sağlamaktadır. Üreticiler için öngörülebilir ve sürdürülebilir bir gelir modeli sunarken, tüketiciler için de ani fiyat artışlarından korunmuş bir alışveriş ortamı oluşturmaktadır.Genel olarak, bu veriler 2022 yılında belirli tarım ürünlerinde fiyat istikrarının sağlandığını göstermektedir.
+
 ---------------------------------------------------------------------------
 
 
@@ -593,4 +594,6 @@ Elma ( Gsmith) %25,Kivi %21.7,Elma Starking %20 ve Zencefil %17.9 ile en düşü
 
 -------------------------------------------------------------------------------------------------
 
+![2025_fiyat_tahminleri_tur_ortalama.png](outputs/2025_fiyat_tahminleri_tur_ortalama.png)
+![2025_fiyat_tahminleri_tur_ortalama.png](outputs/2025_fiyat_tahminleri_tur_ortalama.png)
 ![2025_fiyat_tahminleri_tur_ortalama.png](outputs/2025_fiyat_tahminleri_tur_ortalama.png)
