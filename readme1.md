@@ -60,6 +60,7 @@ Bu grafik, en temel sebzelerden biri olan maydanozun bile son üç yılda öneml
 Bu grafik, temel bir gıda maddesi olan kuru sarımsağın son üç yılda çok ciddi fiyat artışları yaşadığını ortaya koymaktadır. Özellikle 2024 yılının son döneminde gözlemlenen sert fiyat artışı, ürüne erişimde önemli zorluklar yaşandığını göstermektedir. Fiyat istikrarı açısından 2022 yılında daha dengeli bir seyir izleyen fiyatlar, 2023'ün ikinci yarısından itibaren yükseliş trendine girmiş ve 2024'te bu trend hızlanarak devam etmiştir. Minimum ve maksimum fiyatlar arasındaki makasın giderek açılması, piyasadaki dengesizliğin ve belirsizliğin arttığına işaret etmektedir.
 
 Mevsimsel etkiler, özellikle hasat sonrası dönemlerde fiyat dalgalanmalarının belirginleştiğini ortaya koymaktadır. 2024 yılındaki rekor fiyat artışları, üretim maliyetlerindeki artış, arz-talep dengesizlikleri ve muhtemel spekülatif hareketlerle ilişkilendirilebilir. Genel olarak, 2022 yılında daha stabil seyreden fiyatların, 2023 ortalarından itibaren kademeli bir yükseliş trendine girdiği ve 2024'te zirve noktalarına ulaştığı görülmektedir. Bu durum, enflasyon, tarım politikaları, iklim koşulları ve tedarik zinciri gibi faktörlerin fiyatlar üzerindeki baskısının arttığını göstermektedir. Özetle, kuru sarımsak fiyatlarındaki bu dramatik artışlar, tarım ürünleri piyasasında yaşanan ciddi sorunların bir göstergesidir. Önümüzdeki dönemde fiyatların nasıl seyredeceği ve piyasa dengesinin nasıl sağlanacağı önemli bir soru işareti olarak karşımıza çıkmaktadır.
+
 ---------------------------------------------------------------------------
 2022-2023-2024 Yılları En Yüksek Fiyatlı Meyve Analizi: Erik Can 
 
@@ -142,6 +143,8 @@ Mevsimsel değişimlerden benzer şekilde etkilenmeleri,Piyasada birbirine bağl
 
 
 Grafik, 2022 yılı ilkbahar mevsiminde en yüksek fiyat değişimine sahip ilk beş ürünü göstermektedir. En fazla dalgalanma Erik Can'da görülmüş olup, fiyatı 86.5 birimlik değişim göstermiştir. Maksimum fiyatı 100 TL, minimum fiyatı ise 13.5 TL olarak kaydedilmiştir. Üzüm Muht, 34 birimlik değişimle ikinci sırada yer alırken, fiyat aralığı 26 TL - 60 TL arasında değişmiştir. Üçüncü sıradaki Fasulye Ayşe, 29 birimlik fiyat değişimiyle listede yer almakta olup, fiyatı 8.5TL - 37.5 TL aralığında dalgalanmıştır. Dut, 28 birimlik değişimle dördüncü sırada bulunurken, fiyatları 17 TL-45 TL arasında değişmiştir. Son olarak, Badem-Çağla, 27.5 birimlik değişimle ilk beş ürün arasında yer almış, fiyatı 6.5 TL - 34 TL arasında değişmiştir. Erik Can, açık ara en yüksek fiyat dalgalanmasına sahip ürün olurken, diğer ürünlerin fiyat değişimleri birbirine daha yakın seviyelerde gerçekleşmiştir. Genel olarak, bu ürünlerdeki fiyat oynaklığının yüksek olması, mevsimsel etkiler ve arz-talep dengesiyle doğrudan ilişkilidir.Bu analiz, meyve ve sebze fiyatlarındaki dalgalanmaların enflasyon, mevsimsel etkiler ve arz-talep dengesi gibi ekonomik faktörlerle doğrudan ilişkili olduğunu göstermektedir. Özellikle mevsimsel değişimler, belirli ürünlerin fiyatlarında ani artış ve azalışlara yol açarken, arz-talep dengesi de bu dalgalanmaları daha da belirgin hale getirmektedir. En fazla fiyat değişimi gösteren ürünler, ekonomik dalgalanmalara karşı daha hassas olup, fiyat değişimleri üreticiler için maliyet hesaplamalarında ve tüketiciler için bütçe planlamalarında önemli bir rol oynamaktadır. 
+
+
 ---------------------------------------------------------------------------
 
 ![2022_kis_en_yuksek_fiyat_degisimi_top5.png](outputs/2022_kis_en_yuksek_fiyat_degisimi_top5.png)
@@ -155,7 +158,10 @@ Dördüncü sırada bulunan mantar, 28.0 TL'lik bir fiyat değişimi göstererek
 Son olarak, sarımsak kuru 27.0 TL'lik bir fiyat değişimi ile listede beşinci sırada yer almıştır. Fiyat aralığı 11.5 TL - 38.5 TL arasında değişmiştir. Sarımsağın fiyat değişimi, üretim bölgesindeki hasat miktarına, stok durumuna ve ithalat politikalarına bağlı olarak farklılık gösterebilmektedir. Özellikle kış aylarında sarımsağa olan talebin artması ve arzın sınırlı olması, fiyat dalgalanmalarını artırabilmektedir.
 
 Genel olarak bakıldığında, kış mevsiminde fiyat değişimi en yüksek olan bu beş ürün, mevsimsel etkiler, arz-talep dengesizlikleri ve ekonomik faktörlerden doğrudan etkilenmiştir. Çilek ve istiridye mantarı gibi hassas ürünler, sıcaklık ve üretim koşullarına bağlı olarak fiyatlarında ani değişimler gösterirken, kestane ve sarımsak gibi ürünlerde tüketim alışkanlıkları fiyat oynaklığının belirleyicisi olmuştur.
+
 -------------------------------------------------------------------------
+
+
 ![2022_sonbahar_en_yuksek_fiyat_degisimi_top5.png](outputs/2022_sonbahar_en_yuksek_fiyat_degisimi_top5.png)
 
 
@@ -170,7 +176,10 @@ Dördüncü sırada bulunan zencefil, 24.0 TL'lik bir fiyat değişimi göstermi
 Beşinci sırada yer alan çilek, 22.5 TL'lik fiyat değişimiyle listede kendine yer bulmuştur. Fiyat aralığı 17.5 TL - 40 TL olarak belirlenmiştir. Çilek, seralarda yetiştirilebilse de mevsimsel üretim dalgalanmalarına oldukça duyarlıdır.
 
 Genel olarak bakıldığında, sonbahar mevsiminde fiyat değişimi en yüksek olan bu beş ürün, mevsimsel etkiler, küresel ticaret faktörlerinden doğrudan etkilenmiştir. Nar ve bamya gibi yerel olarak üretilen ürünlerde fiyat dalgalanmaları daha çok mevsimsel arz ile ilgiliyken, zencefil gibi ithal ürünlerde uluslararası fiyat değişimleri etkili olmuştur. Yerel üretimin artırılması ve ithalata bağımlılığın azaltılması, piyasadaki oynaklığın azaltılmasına yardımcı olabilir.
+
+
 --------------------------------------------------------------------------
+
 ![2022_yaz_en_yuksek_fiyat_degisimi_top5.png](outputs/2022_yaz_en_yuksek_fiyat_degisimi_top5.png)
 
 
@@ -187,12 +196,16 @@ Kiraz: 29,5 TL'lik fiyat değişimi gösteren kiraz, yaz meyveleri arasında en 
 Kivi: 29 TL'lik fiyat değişimiyle listede yer bulan kivi, genellikle yaz mevsiminde depodan çıkarılarak piyasaya sunulur. Fiyatlar 11 TL ile 40 TL arasında değişmiş. Kivi fiyatlarındaki dalgalanma, stok durumu ve ithalat politikalarındaki değişikliklerden etkilenmiş olabilir.
 
 Grafikte her bir ürün için gösterilen minimum ve maksimum değerler, fiyat aralıklarının ne kadar geniş olduğunu net bir şekilde ortaya koyuyor. Bu, yaz mevsiminde meyve fiyatlarının dinamik bir yapıya sahip olduğunu gösteriyor. Özellikle Kiraz Salihli'nin diğer ürünlere göre belirgin şekilde yüksek fiyat değişimi göstermesi, bu ürünün fiyat istikrarı açısından en hassas ürün olduğunu vurguluyor.Nar, başlangıç fiyatı olarak 25 TL ile en yüksek fiyata sahipken, Üzüm Siyah ise 8.5 TL ile en düşük fiyata sahip. Bu durum, ürünlerin piyasaya giriş fiyatlarının oldukça farklı olduğunu gösteriyor. Diğer yandan, Nar, Kiraz ve Kivi'nin fiyat değişimleri birbirine oldukça yakın seviyelerde kalıyor, 29-29.5 TL arasında değişiyor. Bu da yaz meyvelerinin fiyatlarının zaman zaman paralel bir şekilde hareket ettiğini işaret ediyor. Fiyat istikrarı açısından ürünler arasında belirgin farklar olduğu da dikkat çekiyor. Ayrıca Kiraz, üzüm ve nar gibi yaz meyvelerinin fiyatlarındaki dalgalanma, meyvelerin olgunlaşma süreci ve hasat dönemiyle doğrudan bağlantılı olarak değişebilir. Bu meyvelerin fiyatları, mevsimsel döngüler ve olgunlaşma süreçlerine bağlı olarak dalgalanır. Kivi fiyatları ise daha çok ithalat ve stok durumları gibi faktörlerden etkilenir, çünkü kivi yerli üretim açısından yaz meyvelerine göre daha az yaygındır ve yıl boyunca ithalatla karşılanır. Bu meyvelerin fiyatları, genel olarak hasat dönemi boyunca değişiklik gösterir ve her birinin yetişme koşulları ve türlerine göre farklılıklar ortaya çıkar.
+
+
 ---------------------------------------------------------------------------
+
 ![2022_yili_en_dusuk_fiyatli_urun_ve_fiyat_degisimi.png](outputs/2022_yili_en_dusuk_fiyatli_urun_ve_fiyat_degisimi.png)
 
 
 2022 yılında karpuz fiyatlarının değişimini gösteren bu grafik, dikkat çekici bir fiyat dinamiği ortaya koymaktadır. Yılın ilk çeyreğinde karpuz fiyatları kademeli bir artış eğilimi göstermiştir. Ocak ayında 4-5 TL seviyesinde olan maksimum fiyatlar, Mart ayında 12-13 TL seviyelerine kadar yükselmiştir. Bu artışın temel sebebi, kış aylarında karpuz üretiminin sınırlı olması ve sera üretimi maliyetlerinin yüksek olmasıdır.
 Nisan ayında fiyatlarda ani bir yükseliş gözlemlenmiştir. Minimum fiyatlar 5 TL civarında seyrederken, maksimum fiyatlar 15 TL'ye kadar çıkmıştır. Bu keskin artışın arkasında, mevsim geçişi ve piyasadaki arz-talep dengesizliği yatmaktadır.Yaz aylarına gelindiğinde, özellikle Haziran ayında belirgin fiyat dalgalanmaları yaşanmıştır. Karpuzun ana hasat dönemi olması sebebiyle piyasaya bol miktarda ürün girmesi fiyatların düşmesini sağlamıştır. Temmuz ayından itibaren fiyatlar daha stabil bir seyir izlemeye başlamış, minimum fiyatlar 1-2 TL bandında, maksimum fiyatlar ise 4-8 TL aralığında dalgalanmıştır.Yılın son çeyreğinde fiyatlar nispeten daha dar bir bantta hareket etmiş ve piyasanın dengeli bir yapıya kavuştuğunu göstermiştir. Kasım ve Aralık aylarında maksimum fiyatlarda görülen küçük artışlar, muhtemelen kış mevsimine girilmesiyle birlikte arz miktarının azalmasından kaynaklanmıştır.Genel olarak değerlendirildiğinde, 2022 yılı boyunca karpuz, Türkiye'de en ekonomik meyvelerden biri olma özelliğini korumuştur. Fiyat değişimlerinin büyük ölçüde mevsimsel faktörler, üretim koşulları ve pazar dinamiklerinden etkilendiği açıkça görülmektedir. Yaz aylarında artan üretim hacmi, fiyatların tüketici lehine dengelenmesini sağlamış ve karpuzun her gelir düzeyinden tüketicinin ulaşabileceği bir ürün olarak kalmasına yardımcı olmuştur.Özellikle sezon başlangıcı ve bitişlerinde görülen fiyat artışları, ürünün mevsimsel özelliklerinin tipik bir göstergesidir. Aralık ayında maksimum fiyatların 12 TL seviyesine kadar çıkması, yıl sonu itibarıyla talep ve arz dengesindeki değişimi yansıtmaktadır. Bu veriler, karpuz fiyatlarının yıl içerisindeki değişimini ve piyasa dinamiklerini net bir şekilde ortaya koymaktadır.
+
 ---------------------------------------------------------------------------
 
 
@@ -244,13 +257,17 @@ Ortalama fiyat: 17.63 TL
 
 2022 yılında en yüksek fiyat değişimine sahip 5 ürünün analizi incelendiğinde, Erik Can'ın diğer ürünlere göre çok daha yüksek bir fiyat değişimi gösterdiği dikkat çekmektedir. Minimum 4 TL'den maksimum 150 TL'ye ulaşan fiyat aralığına sahiptir. Ortalama fiyatı ise 47.65 TL olup, diğer ürünlerin ortalamalarının oldukça üzerindedir. 
 Diğer dört ürün olan Nar, Üzüm Muht, Mantar (İstiridye) ve Kiraz ise fiyat değişimleri açısından birbirine oldukça yakın seyretmekte ve 75-77 TL aralığında değişim göstermektedir. Maksimum fiyatları da 79-80 TL civarında olup, bu benzerlik söz konusu ürünlerin piyasa dinamiklerinin ve fiyatlandırma mekanizmalarının ortak faktörlerden etkilendiğine işaret etmektedir.Minimum fiyatlar açısından bakıldığında, tüm ürünlerin 2-5 TL aralığında olduğu görülmektedir. Maksimum fiyatlarda ise Erik Can 150 TL ile dikkat çekerken, diğer ürünler 79-80 TL bandında kalmaktadır.Ortalama fiyat değerlendirmesi yapıldığında, Erik Can 47.65 TL ile en yüksek ortalama fiyata sahipken, onu 29.22 TL ile Mantar (İstiridye) takip etmektedir. Diğer ürünlerin ortalama fiyatları ise 16-18 TL bandında seyretmektedir. Bu farklılık, ürünlerin yıl içindeki bulunabilirlik süreleri ve talep yoğunluklarıyla doğrudan ilişkili olabilir.Genel olarak bakıldığında, Erik Can dışındaki diğer ürünlerin daha dengeli bir fiyat değişim aralığında olması ise bu ürünlerin piyasalarının daha istikrarlı olduğunu düşündürmektedir. Bu veriler, 2022 yılında meyve ve sebze piyasasındaki fiyat dinamiklerinin hakkında net bir şekilde bilgi vermektedir.
+
+
 ------------------------------------------------------------------------
 
 ![2022_yilina_ait_meyve_kategorisindeki_en_yuksek_can_erigi_fiyat_degisimi.png](outputs/2022_yilina_ait_meyve_kategorisindeki_en_yuksek_can_erigi_fiyat_degisimi.png)
 
 
 2022 yılına ait erik can ürününün fiyat değişim grafiğini incelediğimizde, ürünün yalnızca Nisan, Mayıs ve Haziran aylarında piyasada bulunduğunu görmekteyiz. Bu durum ürünün mevsimsel özelliğini açıkça ortaya koymaktadır. Nisan ayında piyasaya ilk çıktığında en yüksek fiyat seviyelerine ulaşmış olup, maksimum fiyat yaklaşık 120 TL, ortalama fiyat 90 TL ve minimum fiyat 55 TL civarında seyretmiştir. Mayıs ayına gelindiğinde fiyatlarda keskin bir düşüş yaşanmış ve ortalama fiyat 25 TL seviyelerine gerilemiştir. Haziran ayında ise bu düşüş devam ederek ortalama fiyat 15 TL civarına kadar inmiştir. Maksimum ve minimum fiyatlar arasındaki fark, yani fiyat aralığı, Nisan ayında en yüksek seviyedeyken sonraki aylarda belirgin bir daralma göstermiştir. Bu veriler ışığında, can eriği meyvesinin piyasaya ilk çıktığı dönemde yüksek fiyatlarla satıldığını, ancak mevsim ilerledikçe fiyatların önemli ölçüde düştüğünü söyleyebiliriz.
-------------------------------------------------------------------------------------------------------------
+
+
+---------------------------------------------------------------------------------------------------
 
 ![2022_yilina_ait_sebze_kategorisindeki_en_yuksek_fiyat.png](outputs/2022_yilina_ait_sebze_kategorisindeki_en_yuksek_fiyat.png)
 
@@ -258,31 +275,46 @@ Diğer dört ürün olan Nar, Üzüm Muht, Mantar (İstiridye) ve Kiraz ise fiya
 2022 yılına ait mantar (istiridye) fiyatlarını gösteren bu grafik, Türkiye'deki sebze kategorisindeki fiyat değişimlerini çarpıcı bir şekilde ortaya koymaktadır. Yılın başında görece düşük seyreden fiyatlar, özellikle minimum fiyatların 5-10 TL, maksimum fiyatların ise 20-25 TL bandında olduğu görülmektedir. Ancak yılın ilerleyen aylarında, özellikle yaz sonundan itibaren fiyatlarda dikkat çekici bir artış trendi başlamıştır. Bu artış, özellikle 8. aydan sonra fazla bir hal almış ve 10. ayda zirve noktasına ulaşmıştır. Maksimum fiyatlar 70 TL seviyesini görürken, minimum fiyatlar 30 TL civarında seyretmiştir.
 İlginç bir şekilde, 11. ayda fiyatlarda geçici bir düşüş yaşanmış, ancak yılın son ayında tekrar yükseliş trendine girilmiştir. Ortalama fiyatların yıl boyunca istikrarlı bir artış göstermesi, genel enflasyonist baskının yanı sıra, mantarın üretim ve tedarik zincirindeki zorlukların da bir göstergesi olabilir. Minimum ve maksimum fiyatlar arasındaki makasın özellikle yılın son çeyreğinde açılması, piyasadaki fiyat istikrarsızlığına işaret etmektedir.Bu fiyat hareketleri, muhtemelen mevsimsel faktörler, üretim maliyetlerindeki artış, enerji fiyatlarındaki yükseliş ve genel ekonomik koşulların bir yansıması olarak değerlendirilebilir. Özellikle sonbahar aylarındaki keskin fiyat artışları, mantar üretiminin bu dönemdeki zorluklarını ve piyasa dinamiklerini açıkça ortaya koymaktadır. Yılın sonuna doğru görülen fiyat dalgalanmaları ise piyasanın dengelenme çabasını göstermektedir.
 
-------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------
 
 ![2023_en_az_fiyat_degisimi_ilk_5_urun.png](outputs/2023_en_az_fiyat_degisimi_ilk_5_urun.png)
+
 
  Bu grafik 2023 yılında en az fiyat değişimine sahip ilk beş ürünü ve fiyat hareketlerini göstermektedir. Grafiği incelediğimizde,Elma (Gala),Nane, Tere, Roka ve Yeşil Maydonoz ürünlerini görmekteyiz. Bu ürünlerden ELMA GALA, minimum 7.50 TL, maksimum 13 TL ve ortalama 5.50 TL fiyat seviyelerinde işlem görürken; YNANE, YTIRE, YROKA ve YMAYDONOZ için minimum 1 TL, maksimum 7 TL  ve ortalama 6 TL olarak kaydedilmiştir. Elma (Gala)'nın diğer en az fiyat değişimi gösteren ürünlere göre daha farklı fiyat değişimi olduğunu görmekteyiz. Bu ürünün maksimum fiyatının 13 TL ile diğer ürünlerin maksimum değerlerinin neredeyse iki katı olması, fiyat dalgalanmasının oldukça yüksek olduğunu göstermektedir. Ayrıca, minimum fiyatının 7.50 TL gibi yüksek bir seviyede olması, genel olarak daha yüksek bir fiyat bandında işlem gördüğünü ortaya koymaktadır.Diğer dört ürünün fiyat hareketlerindeki benzerlik, piyasa dinamikleri açı sından önemli ipuçları sunmaktadır. Bu ürünlerin tümünde minimum fiyatın 1 TL seviyesinde olması, belirli dönemlerde önemli fiyat düşüşleri yaşandığını gösterirken, maksimum fiyatın 7 TL ile sınırlı kalması, fiyat artışlarının belirli bir seviyede durduğunu göstermektedir. Bu benzerlik, fiyat belirleme mekanizmalarının benzer faktörlerden etkilendiğini düşündürmektedir.
 Bu veriler ışığında, 2023 yılında gıda ürünlerinin fiyat hareketlerinde ELMA GALA dışındaki ürünlerde bir istikrar olduğu, ancak ELMA GALA'nın daha değişken bir fiyat yapısına sahip olduğu açıkça görülmektedir.
  YNANE, YTIRE, YROKA ve YMAYDONOZ ürünlerinde minimum fiyatın 1 TL seviyesinde olması, bu ürünlerin belirli dönemlerde oldukça uygun fiyatlarla tüketiciye sunulduğunu göstermektedir. Bu durum, büyük olasılıkla mevsimsel bolluk, arz fazlası gibi faktörlerden kaynaklanmaktadır.
- -----------------------------------------------------------------------------------------------------------
+
+
+ --------------------------------------------------------------------------------------------------
+
+
  ![2023_en_yuksek_fiyat_degisimi_top5](outputs/2023_en_yuksek_fiyat_degisimi_top5.png)
  
 
  Grafik 2023 yılında en yüksek fiyat değişimine sahip beş ürünü göstermektedir. 2023 yılında en yüksek fiyat değişimine sahip ürünler zencefil, çilek, kestane, erik can ve istiridye mantarı olmuştur. Minimum fiyatlar incelendiğinde çilek ve erik can 10 TL ile en düşük başlangıç fiyatına sahipken, zencefil 36 TL, istiridye mantarı 30 TL ve kestane 15 TL'den satışa sunulmuştur. Maksimum fiyatlarda ise zencefil 250 TL ile en yüksek seviyeye ulaşırken, çilek 220 TL, kestane 210 TL, erik can 190 TL ve istiridye mantarı 175 TL ile sıralanmıştır. Ortalama fiyatlara bakıldığında ise zencefil 97.91 TL ile en yüksek değere sahip olurken, bunu kestane 78.74 TL, istiridye mantarı 57.93 TL, erik can 51.47 TL ve çilek 40.31 TL ile takip etmiştir. 
 Sonuç olarak,2023 yılında en yüksek fiyat değişimine sahip ürünler sırasıyla zencefil (214 TL), çilek (210 TL), kestane (195 TL), erik can (180 TL) ve istiridye mantarı (145 TL) olmuştur.Zencefil, yıl içinde 36 TL'den başlayarak 250 TL'ye kadar yükselmiş ve 214 TL'lik rekor bir fiyat değişimi göstermiştir. Ortalama 97.91 TL seviyesinde satılmıştır. Çilek ise mevsimsel yapısı gereği 10 TL'den başlayıp 220 TL'ye kadar yükselerek 210 TL'lik bir değişim göstermiştir. Hasat dönemleri ve arz-talep dengesi bu büyük fiyat farkının temel sebepleri arasında yer almaktadır. Benzer şekilde kestane  15 TL'den 210 TL'ye kadar çıkmış ve 195 TL'lik bir değişim sergilemiştir. Can eriği 10 TL'den 190 TL'ye ulaşarak 180 TL'lik bir dalgalanma yaşarken, istiridye mantarı 30 TL'den 175 TL'ye çıkarak 145 TL'lik bir değişime uğramıştır. Grafikte dikkat çeken bir diğer önemli nokta, tüm ürünlerin ortalama fiyatlarının minimum fiyatlara daha yakın seyretmesidir. Bu durum, yıl içinde fiyatların genellikle düşük seviyelerde seyrettiğini ancak belirli dönemlerde keskin yükselişler yaşandığını göstermektedir. Tüm bu veriler, gıda ürünlerindeki fiyat dalgalanmalarının boyutunu gözler önüne sererken, özellikle temel gıda ürünlerinde fiyat istikrarının sağlanmasının ne kadar önemli olduğunu ve bu dalgalanmaların mevsimsellik, iklim koşulları, üretim maliyetleri ve pazar dinamiklerinin fiyatlar üzerindeki güçlü etkisini yansıtırken, tüketicilerin de alım gücünü  önemli ölçüde etkileyecektir.
----------------------------------------------------------------------------
+
+
+--------------------------------------------------------------------------------------------------
+
 ![2023_en_dusuk_fiyatli_urun_degisimi.png](outputs/2023_en_dusuk_fiyatli_urun_degisimi.png)
 
+
 2023 yılı Y.MAYDONOZ ürününün fiyat değişimlerini incelediğimizde, yılın ilk aylarında minimum fiyat yaklaşık 1 TL seviyelerinde seyrederken, maksimum fiyat ise 4 TL civarında seyrediyor. Mart ayı sonlarında maksimum fiyat keskin bir düşüş yaşayarak 2.5 TL'ye gerilemiş. Minimum fiyat ise maksimum fiyatla orantılı olarak Mart sonunda kısa süreliğine 2 TL'ye yükselmiş. Yaz aylarına gelindiğinde, Haziran'dan itibaren maksimum fiyat kademeli olarak artış gösteriyor, Temmuz ayına gelindiğinde ise maksimum fiyat önce 5 TL'ye, ardından 6 TL'ye yükselmiş. Ağustos ayında ise bu artış devam ederek 7 TL seviyesine ulaşmıştır. Bu dönemde minimum fiyat yaz boyunca 1.2-1.3 TL civarında sabit kalmış,sonbahar ve kış aylarında ise maksimum fiyat 7 TL seviyesinde stabildir. Bu dönem, fiyat aralığının en geniş olduğu zaman dilimi olarak dikkat çekmiştir. Yıl genelinde en büyük fiyat artışı yaz aylarında gerçekleşmiştir, minimum fiyat ise yıl boyunca  stabil gözükmektedir. Maksimum ve minimum fiyat arasındaki fark, yılın ikinci yarısında giderek açılmaktadır. İlkbahar aylarında ise fiyat dalgalanmaları daha sık görülmüştür.Bu fiyat değişimleri, mevsimsel üretim koşulları, arz-talep dengesi ve piyasa dinamiklerinden etkilenmiş gibi görünüyor. Sonuç olarak, 2023 yılı Y.MAYDONOZ ürününün fiyat değişimleri Yılın ilk çeyreğinde fiyatlar daha dalgalı bir seyir izlerken, yaz aylarında maksimum fiyat belirgin bir şekilde artmış ve 7 TL seviyelerine ulaşmıştır. Yaz boyunca minimum fiyat sabit kalırken, maksimum fiyatın artışıyla yılın ikinci yarısında fiyat aralığı daha da genişlemiştir. Bu süreçte, minimum fiyat genel olarak istikrarlı olmuş ve yılın büyük kısmında 1.2-1.5 TL civarında seyretmiştir. Yılın sonunda ise maksimum fiyat 7 TL seviyesinde stabil kalmıştır.
-----------------------------------------------------------------------
+
+
+--------------------------------------------------------------------------------------------------
 
 ![2023_en_yuksek_fiyatli_urun_degisimi.png](outputs/2023_en_yuksek_fiyatli_urun_degisimi.png)
 
 
 2023 yılı en yüksek fiyatlı ürün değişim grafiği incelendiğinde zencefil karşımıza çıkmakta, zencefil  yılın farklı dönemlerinde önemli fiyat hareketleri ve piyasa dinamikleri gözlemlenmektedir. Yıl boyunca zencefil fiyatlarındaki değişimin çok fazla olduğu görülmektedir. Yılın ilk çeyreğinde maksimum fiyat 75-80 TL civarında seyrederken, minimum fiyat 50 TL seviyesinde sabit kalmıştır.İkinci çeyrekte maksimum fiyat 90-100 TL bandında dalgalanmış, Mayıs ayında kısa süreli olarak 120 TL'ye kadar yükselmiştir. Yılın dönüm noktası olan üçüncü çeyrekte, özellikle Temmuz ayında dramatik bir artış yaşanmış ve maksimum fiyat 150 TL'den 210 TL'ye kadar yükselmiştir. Ağustos-Eylül döneminde fiyatlar 170-180 TL bandında dalgalanma göstermiştir. Son çeyrekte ise volatilite artmış, Kasım ayında ani bir yükselişle 250 TL seviyesine ulaşılmış, Aralık ayında 200-220 TL bandında dalgalanmalar görülmüştür. Dikkat çeken en önemli nokta, minimum fiyatın yıl boyunca 60 TL civarında sabit kalmasına rağmen, maksimum fiyatın üç katından fazla artış göstermesidir. Bu durum, minimum fiyatta olası bir taban fiyat veya regülasyon etkisini gösterirken, maksimum fiyattaki artışlar piyasadaki arz-talep dengesizliğine işaret etmektedir. Yıl boyunca güçlü bir yükseliş trendi gözlemlenmiş olup, özellikle Temmuz başı, Ağustos ortası ve Kasım ayında üç belirgin artış dalgası yaşanmıştır. 2024 yılına girerken fiyatlar 200 TL üzerinde seyretmeye devam etmiş ve yüksek volatilite sürmüştür.Bu veriler, 2023 yılında zencefil piyasasında önemli bir fiyat şoku yaşandığını ve piyasa dinamiklerinin değiştiğini göstermektedir.Fiyat dağılımı sağa çarpık (sağa yatık) bir görünüm sergilemekte Trend bileşeni pozitif yönlü Ortalama fiyatların yıl içinde belirgin bir yukarı trend göstermesi, dağılımın normal dağılımdan sapmasına işaret ediyor
 Bu istatistiksel göstergeler, piyasada Artan belirsizlik,Fiyat istikrarsızlığı,Yapısal değişimler,Tahmin zorluğu gibi durumların varlığına işaret etmektedir.
----------------------------------------------------------------------------
+
+
+--------------------------------------------------------------------------------------------------
+
+
 ![2023_ilkbahar_en_yuksek_fiyat_degisimi_top5.png](outputs/2023_ilkbahar_en_yuksek_fiyat_degisimi_top5.png)
 
 
@@ -290,7 +322,11 @@ Bu istatistiksel göstergeler, piyasada Artan belirsizlik,Fiyat istikrarsızlı�
 
 Tüm ürünlerin meyve kategorisinde olması ve ilk üç üründeki fiyat değişiminin %50'nin üzerinde gerçekleşmesi dikkat çekicidir. Maksimum fiyatlar açısından Can eriği ve Beyaz üzüm öne çıkmaktadır.Minimum fiyatlar ise genellikle 20-25 TL aralığında seyretmiştir.
 En geniş fiyat aralığı Can eriğin de, En dar fiyat aralığı Cennet Elması'nda görülmektedir.Üzüm Beyaz hariç diğer ürünlerin başlangıç fiyatları birbirine yakın (20-25 TL aralığında)Üzüm Beyaz'ın başlangıç fiyatı (40 TL) diğerlerinden belirgin şekilde yüksek görülüyor. Bu grafik ve yaptığımız gözlemler 2023 yılındaki ilkbahar mevsiminde en yüksek fiyat değişimine sahip 5 ürünün hangileri olduğunu ve bu beş ürünün meyve kategorisinde bulunduğunu gösterir ayrıca fiyat değişim dinamiklerini ve pazar,market,hal de bulunan ürünlerin fiyat hareketlerinin yapısını daha iyi anlamamıza yardımcı olmaktadır.
---------------------------------------------------------------------------
+
+
+--------------------------------------------------------------------------------------------------
+
+
 ![2023_kis_en_yuksek_fiyat_degisimi_top5.png](outputs/2023_kis_en_yuksek_fiyat_degisimi_top5.png)
 
 
@@ -298,25 +334,29 @@ En geniş fiyat aralığı Can eriğin de, En dar fiyat aralığı Cennet Elmas�
 Bu verilerde, Fiyat değişim aralığı oldukça geniş gözükmektedir. En düşük %37.5 ile en yüksek %122.5 arasında değişiyor.Minimum fiyatlar 20 TL ile 56 TL arasında değişirken, maksimum fiyatlar 67.5 TL ile 145 TL arasında değişiyor.En çarpıcı fiyat artışları kestane ve çilekte görülmüş olup, her iki ürün de %100'ün üzerinde artış göstermiştir ayrıca bu iki ürünün kış mevsiminde bulunması zor olan ürünler olması dikkat çekiyor  Zencefil ise 56 TL ile başlangıç fiyatı en yüksek ürün olarak görülüyor.İlk 5 ürün içinde iki farklı sarımsak çeşidinin (kuru ve normal) yer alması, sarımsağın her formunun önemli fiyat değişimleri yaşadığını gösteriyor.
 Listede yer alan ürünlerin çoğu mevsimsel özellik gösteriyor, bu da kış dönemindeki fiyat dalgalanmalarının temel nedeni olarak değerlendirilebilir.
 
----------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------
+
 ![2023_sonbahar_en_yuksek_fiyat_degisimi_top5.png](outputs/2023_sonbahar_en_yuksek_fiyat_degisimi_top5.png)
+
 
 2023 yılı sonbahar mevsiminde fiyat değişimi en yüksek olan ilk 5 ürünü gösteren grafiği incelediğimizde, en dikkat çekici artışın çilekte olduğunu görüyoruz. Çilek 87.5 TL'lik bir fiyat değişimi ile listenin başında yer alıyor ve minimum 30.0, maksimum 117.5 değerleri arasında değişim gösteriyor. İkinci sırada mantar (istiridye) bulunuyor ve 54.5'lik bir fiyat değişimi ile dikkat çekiyor minimum 48.0, maksimum 102.5 fiyatlar arasında değişim gösteriyor. Üçüncü sırada yer alan zencefil 45'lik bir değişim gösterirken, minimum 110.0 ve maksimum 155.0 fiyatlar arasında seyrediyor. Dördüncü sırada greyfurt 44.5 TL bir fiyat değişimi ile yer alıyor minimum 7.5, maksimum 52.0 fiyatlar arasında değişim gösteriyor. Son olarak brokoli 41 TL'lik bir fiyat değişimi ile beşinci sırada bulunuyor ve fiyatları minimum 11.5 TL, maksimum 52.5 TL arasında değişiyor. 
 
 İlk iki ürün (çilek ve mantar) 50 TL'nin üzerinde fiyat değişimi gösterirken son üç ürün birbirine yakın oranlarda (41-45 TL arası) değişim göstermiş.En Çarpıcı Artış Çilek fiyatlarındaki 87.5 TL'lik artış, diğer ürünlere kıyasla oldukça yüksek ve dikkat çekici. Bu artış oranı, ikinci sıradaki mantarın neredeyse iki katı benzer şekilde Zencefil en yüksek minimum fiyata sahip (110.0 TL),Greyfurt en düşük minimum fiyata sahip (7.5 TL),Bu iki ürün arasında yaklaşık 15 katlık bir fiyat farkı bulunuyor. İlk beş üründen üçü (çilek, mantar ve brokoli) sebze-meyve kategorisinde
 Zencefil gibi ithal bir ürünün de listede yer alması dikkat çekiyor.
 Sonbahar mevsiminde olunmasına rağmen çileğin listede olması ve en yüksek artışı göstermesi,sonbahar meyvesi olan greyfurtun bile yüksek fiyat artışı göstermesi mevsimselliğin fiyatları dengelemede yetersiz kaldığını gösteriyor.
----------------------------------------------------------------------------
+
+---------------------------------------------------------------------------------------------------
 
 ![2023_yaz_en_yuksek_fiyat_degisimi_top5.png](outputs/2023_yaz_en_yuksek_fiyat_degisimi_top5.png)
 
 
-
 2023 yılı yaz mevsiminde en yüksek fiyat değişimine sahip ilk 5 ürünü incelediğimizde, Erik Can'ın 75 TL'lik fiyat değişimi ile listenin başında yer aldığını görüyoruz. Erik Can'ın minimum fiyatı 25 TL, maksimum fiyatı ise 100 TL olarak kaydedilmiştir. İkinci sırada yer alan Zencefil 55 TL'lik bir fiyat değişimi göstermiş olup, fiyatları 80 TL ile 135 TL arasında dalgalanmıştır. Üçüncü sırada bulunan Fasulye Çalı 45.5 TL'lik bir değişim sergilemiş ve fiyatları 20 TL'den başlayıp 65.5 TL'ye kadar yükselmiştir. Dördüncü sırada bulunan İncir 45 TL'lik bir fiyat değişimi göstermiş, minimum 65 TL'den başlayıp maksimum 110 TL'ye ulaşmıştır. Son olarak Kivi 45 TL'lik bir fiyat değişimi ile beşinci sırada yer almış ve fiyatları 32.5 TL ile 77.5 TL arasında seyretmiştir.İncir'in minimum fiyatının (65 TL) diğer ürünlere göre oldukça yüksek olmasıdır. Ayrıca Zencefil'in hem minimum hem de maksimum fiyatlarının diğer ürünlere kıyasla daha yüksek bir bantta seyretmesi, bu ürünün genel olarak daha pahalı bir ürün olduğunu göstermektedir.Erik Can, 75 TL'lik değişimle en yüksek fiyat dalgalanmasını gösterirken, bunu 55 TL'lik değişimle Zencefil takip etmiştir. Fasulye Çalı, İncir ve Kivi ise 45-45.5 TL arasında birbirine yakın değişimler sergilemiştir. Fiyat seviyeleri açısından bakıldığında, Zencefil 80-135 TL bandıyla en yüksek fiyat aralığında seyrederken, İncir 65 TL'lik başlangıç fiyatıyla ikinci sırada yer almıştır. Erik Can ise 25-100 TL arasındaki fiyat hareketiyle en geniş fiyat aralığına sahip ürün olmuştur. Mevsimsellik açısından dikkat çekici noktalar da bulunmaktadır; Erik Can ve İncir gibi mevsimsel ürünlerde yüksek fiyat dalgalanmaları gözlemlenirken, normalde kış meyvesi olan Kivi'nin listede yer alması şaşırtıcı olmuştur. İthal bir ürün olan Zencefil'in fiyatlarının sürekli yüksek seviyelerde seyretmesi, yerli ve ithal ürünler arasındaki belirgin fiyat farklarını ortaya koymaktadır. Yaz mevsiminde bile ürün fiyatlarında ciddi dalgalanmaların yaşanması ve temel gıda ürünlerinde görülen yüksek fiyat oynaklığı, piyasadaki istikrarsızlığın önemli göstergeleri olarak karşımıza çıkmaktadır.
 
----------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------------------------
 
 ![2023_meyve_kategorisi_en_yuksek_fiyat_cilek_degisimi.png](outputs/2023_meyve_kategorisi_en_yuksek_fiyat_cilek_degisimi.png)
+
 
 2023 yılı meyve kategorisindeki en yüksek fiyata sahip ürünü gösteren grafiği incelediğimizde çilek karşımıza çıkıyor. yılın ilk yarısı fiyatlar stabil seyretmiş minimum fiyatlar 15-20 TL bandında, maksimum fiyatlar 35-40 TL bandında, ortalama fiyatlar ise 25-30 TL aralığında seyretmiştir.
 ancak yaz aylarına girilmesiyle birlikte, özellikle temmuz ayından itibaren fiyatlarda belirgin bir artış görülmüş. bu dönemde maksimum fiyat 80 TL seviyelerine ulaşırken, ortalama fiyat 45-50 TL bandına yükselmiştir.
@@ -324,32 +364,27 @@ Yılın son çeyreği ekim-aralık  aylarında ise en fazla fiyat artışı yaş
 Maksimum fiyatta yaklaşık %300 artış (40 TL'den 160 TL'ye),Minimum fiyatta yaklaşık %233 artış (15 TL'den 50 TL'ye),Ortalama fiyatta yaklaşık %300 artış (25 TL'den 100 TL'ye) görülüyor.
 
 
-
-
------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------
 
 ![2023_sebze_kategorisi_en_yuksek_fiyat_mantar_degisimi.png](outputs/2023_sebze_kategorisi_en_yuksek_fiyat_mantar_degisimi.png)
+
 
 2023 yılı sebze kategorisindeki en yüksek fiyata sahip ürünü incelediğimizde Mantar (İstiridye) karşımıza çıkıyor. İstiridye mantarı Yılın ilk beş ayında fiyatlar oldukça stabil bir seyir izlemektedir. Ocak-Mayıs döneminde  maksimum fiyat 60 TL civarında seyrederken, ortalama fiyat 45 TL,  minimum fiyat ise 30 TL civarında sabit kalmıştır. Bu dönemde fiyat dalgalanmaları oldukça sınırlıdır ve arz-talep dengesi görece stabildir. Haziran ayı itibarıyla fiyatlarda bir artış başlamış ve bu yükseliş Temmuz ve Ağustos aylarında hız kazanarak Eylül ayında zirveye ulaşmıştır. Özellikle  maksimum fiyat, Eylül ayında yaklaşık 160 TL'ye kadar çıkarak yılın en yüksek seviyesine ulaşmıştır. Aynı dönemde ortalama fiyat 90 TL civarında seyretmiş, minimum fiyat ise küçük değişimlerle neredeyse sabit kalmıştır. Ekim ayı itibarıyla ise fiyatlarda keskin bir düşüş yaşanmış, özellikle  maksimum fiyatlarda Eylül'deki zirve noktadan 100 TL seviyelerine kadar gerilemiştir. Kasım ayında fiyat düşüşü devam etmiş,  maksimum fiyat yaklaşık 60 TL'ye kadar gerileyerek yılın başındaki seviyelere geri dönmüştür. Aralık ayında ise tekrar bir yükseliş eğilimi başlamış, ortalama maksimum fiyat tekrar 100 TL seviyelerine çıkmıştır.
 Genel değerlendirme yapıldığında, Eylül ayındaki ani fiyat artışı dikkat çekicidir. Bu yükselişin sebebi, arz-talep dengesindeki değişimler, mevsimsel etkiler ya da üretim maliyetlerindeki artış olabilir. Özellikle yaz aylarından itibaren fiyatların artması, üretim koşullarının zorlaşması, iklim koşulları veya talebin artmasıyla ilişkili olabilir. Ekim ve Kasım aylarındaki keskin fiyat düşüşü, piyasada arzın artması veya talebin azalması ile açıklanabilir. Aralık ayında fiyatların tekrar yükselmeye başlaması ise, yılbaşı öncesi talebin artması gibi etkenlerden kaynaklanıyor olabilir. 
 
 
----------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------
+
 
 ![2024_yili_en_yuksek_fiyat_degisimi_top5.png](outputs/2024_yili_en_yuksek_fiyat_degisimi_top5.png)
+
 
 Bu grafik, 2024 yılında en yüksek fiyat değişimine sahip 5 ürünü göstermektedir bu ürünler can eriği, çilek, badem-çağla, kiraz ve kuru sarımsak olarak karşımıza çıkmaktadır. ilk olarak can eriği en yüksek fiyat değişimine sahiptir.Minimum fiyat 28 TL, ortalama fiyat 114.8 TL, maksimum fiyat 600 TL ve fiyat değişim miktarı 572 TL olmuştur. ikinci olarak Çilek Minimum fiyatı 25 TL, ortalama fiyatı 97.4 TL, maksimum fiyatı 450 TL ve fiyat değişim miktarı 425 TL olarak kaydedilmiştir.Üçüncü sırada badem-çağla bulunuyor.Minimum fiyat 35 TL, ortalama fiyat 114.8 TL, maksimum fiyat 400 TL ve fiyat değişim miktarı 365 TL'dir.dördüncü sırada kiraz bulunmakta  Minimum fiyatı 35 TL, ortalama fiyatı 101.58 TL, maksimum fiyatı 350 TL ve fiyat değişim miktarı 315 TL olmuştur son olarak  kuru sarımsak bulunuyor Minimum fiyatı 15 TL, ortalama fiyatı 97.17 TL, maksimum fiyat 210 TL ve fiyat değişim miktarı 195 TL olarak ölçülmüştür.Bu verilere göre, Erik Can en yüksek fiyat dalgalanmasına sahip ürün olurken, onu sırasıyla Çilek, Badem-Çağla, Kiraz ve Sarımsak Kuru takip etmektedir.
 Çilek, Badem-Çağla ve Kiraz mevsimsel etkilerden dolayı yüksek dalgalanmalar yaşıyor olabilir.Sarımsak Kuru, ithalat ve stoklamadan dolayı değişken bir ürün olarak kendini gösteriyor ayrıca fiyat dalgalanmalarının mevsimsel etki, arz-talep dengesi ve ithalat gibi faktörlerden etkilendiğini göstermektedir. Özellikle, yüksek fiyat değişimine sahip ürünlerin taze ve kısa ömürlü olması, stoklama imkanlarının kısıtlı olması gibi nedenler dalgalanmayı artırıyor olabilir. 
 
 
+---------------------------------------------------------------------------------------------------
 
-
-
-
-
-
-
---------------------------------------------------------------------------
 ![2024_yili_en_az_fiyat_degisimi_top5.png](outputs/2024_yili_en_az_fiyat_degisimi_top5.png)
 
 
@@ -358,18 +393,17 @@ Bu grafik, 2024 yılında en az fiyat değişimine sahip 5 ürünü göstermekte
 
 Fiyat dalgalanmalarının düşük olmasının başlıca sebepleri arasında bu ürünlerin yıl boyunca düzenli olarak üretilebilmesi, seracılık faaliyetleriyle desteklenmesi ve talebin sürekli olması gösterilebilir. Özellikle yeşillik ürünleri, kısa sürede tüketilmesi gereken ve genellikle günlük tedarik edilen ürünler olduğu için büyük fiyat dalgalanmaları yaşamamaktadır. Darı ise adet bazında satıldığı ve uzun ömürlü bir ürün olduğu için fiyat dalgalanmalarının sınırlı olduğu görülmektedir.Genel olarak bakıldığında, bu ürünler fiyat açısından en stabil tarım ürünleri olup hem üretici hem de tüketici açısından öngörülebilirliği yüksek ürünlerdir. Fiyatların fazla değişmemesi, piyasada istikrarlı bir denge sağladığını ve tüketicilerin bu ürünlere erişiminin kolay olduğunu göstermektedir. 
 
------------------------------------------------------------------------------------------------------------------------
+
+---------------------------------------------------------------------------------------------------
 
 
 ![2024_yili_en_dusuk_fiyatli_urun_ve_fiyat_degisimi.png](outputs/2024_yili_en_dusuk_fiyatli_urun_ve_fiyat_degisimi.png)
 
 
-
  2024 yılı içerisinde en düşük fiyata sahip olan ürünün tere olduğunu ve fiyat değişimini gösteren grafiği incelediğimizde yılın ilk aylarında minimum fiyatın oldukça düşük seviyelerde olduğunu görmekteyiz. Yaklaşık 1 TL seviyesinde sabit kalan minimum fiyat, Mart ayına gelindiğinde aniden yükselerek 5 TL seviyesine çıkmıştır. Bu artış, mevsim geçişlerinden veya talepteki ani değişimlerden kaynaklanıyor olabilir. Aynı dönemde maksimum fiyat da 7 TL seviyesinde seyretmekteyken, Mart ayının sonlarına doğru 10 TL seviyesine çıkarak belirgin bir artış göstermiştir. Bu durum, tedarik zincirindeki aksaklıklar, hava koşullarının üretimi etkilemesi gibi çeşitli faktörlerle açıklanabilir.Nisan ayından itibaren fiyatlarda bir stabilizasyon görülmektedir. Minimum fiyat 5 TL seviyesinde sabitlenirken, maksimum fiyatın 6 TL seviyelerine gerilediği dikkat çekmektedir. Bu dönem, arzın arttığı ve piyasanın dengeye oturduğu bir süreç olabilir. Haziran ayına kadar fiyatların değişmeden devam ettiği, ancak Temmuz ayında maksimum fiyatın tekrar artış göstererek 7 TL seviyesine çıktığı görülmektedir. Bu noktada, yaz aylarında ürünün üretim miktarındaki azalmalar veya talebin artması gibi faktörler devreye girmiş olabilir.Sonbahar aylarına doğru gelindiğinde, Eylül ayında minimum fiyatın 5 TL'den 3 TL seviyelerine düştüğü gözlemlenmektedir. Bu düşüş, hasat döneminin etkisiyle arzın artmasına bağlı olabilir. Maksimum fiyat ise bu dönemde sabit kalmıştır. Yılın geri kalanında ise minimum fiyat 3 TL seviyesinde ilerlerken, maksimum fiyatın 7 TL seviyelerinde stabil kaldığı görülmektedir.Genel olarak bakıldığında, Y.TERE'nin fiyatlarının yıl boyunca sabit bir şekilde ilerlediği ve kontrollü bir şekilde dalgalandığı söylenebilir. 
 
 
-
-------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------
 
 ![2024_yili_en_yuksek_fiyatli_urun_ve_fiyat_degisimi.png](outputs/2024_yili_en_yuksek_fiyatli_urun_ve_fiyat_degisimi.png)
 
@@ -378,19 +412,23 @@ Fiyat dalgalanmalarının düşük olmasının başlıca sebepleri arasında bu 
 
 Genel olarak değerlendirdiğimizde, ERİK_CAN fiyatlarının yıl içinde oldukça dramatik değişimler yaşadığı söylenebilir. Yılın başında aşırı yüksek seviyelerde olan fiyatlar, Nisan ve Mayıs aylarında hızla düşüşe geçmiş, yaz aylarında ise dengelenmiştir. Bu durum, meyvenin sezonluk bir ürün olmasından kaynaklanmaktadır. İlkbahar aylarında erken çıkan ürünlerin fiyatları oldukça yüksek olurken, yaz mevsimiyle birlikte arzın artması fiyatları aşağı çekmiştir.Fiyatların yılın başından itibaren ciddi bir düşüş gösterdiği için negatif trend baskın durumdadır.Ancak yılın ikinci yarısında hafif bir pozitif hareketlenme vardır.Zaman serisi analizi açısından bakıldığında, fiyatların mevsimsel bir trend izlediği görülmektedir.Yılın ilk aylarında yüksek fiyat dalgalanmaları yaşanırken, yılın ortalarına doğru fiyatlar stabil hale gelmiş ve sonbahara doğru tekrar yükseliş eğilimi göstermiştir.
 
------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------
+
 ![2024_ilkbahar_en_yuksek_fiyat_degisimi_top5.png](outputs/2024_ilkbahar_en_yuksek_fiyat_degisimi_top5.png)
 
 
  2024 yılı ilkbahar mevsimindeki en yüksek fiyat değişimine sahip 5 ürünün grafiğini incelediğimizde can eriği Fiyatı 35 TL ile 425 TL arasında değişerek tam 390 TL'lik bir fiyat artışı göstermiş. İkinci sırada yer alan Badem-Çağla'nın fiyatı 52.5 TL'den 375 TL'ye yükselerek 322.5 TL'lik bir artış kaydetmiş.Üçüncü sırada bulunan Kiraz'ın fiyatı 75 TL'den 270 TL'ye çıkarak 195 TL'lik artış göstermiş. Malta'nın fiyatı 30 TL'den 122.5 TL'ye yükselerek 92.5 TL'lik, Nektarin Kırmızı'nın fiyatı ise 21.5 TL'den 112.5 TL'ye çıkarak 91 TL'lik bir artış göstermiş.Dİkkat çekici kısımlar ise can eriği ve badem-çağla'nın fiyat değişimleri diğer ürünlere göre çok daha yüksek,son üç ürünün (Kiraz, Malta, Nektarin Kırmızı) fiyat değişimleri birbirine daha yakın seyrediyor.En düşük başlangıç fiyatı Nektarin Kırmızı'da,en yüksek zirve fiyatı ve en yüksek fiyat değişimi can eriğinde bulunuyor.Can eriğinin fiyat artışı en düşük artışa sahip olan kırmızı nektarinin yaklaşık 4.3 katı olarak görülüyor ve ilk iki ürünün (Erik Can ve Badem-Çağla) fiyat artışları, diğer üç ürünün toplam artışından daha fazla olduğu,tüm ürünlerin minimum ve maksimum fiyatları arasında en az 3 kat fark bulunduğu dikkat çekiyor.
- ----------------------------------------------------------------------------------------------------------------
+
+ --------------------------------------------------------------------------------------------------
 
 ![2024_kis_en_yuksek_fiyat_degisimi_top5.png](outputs/2024_kis_en_yuksek_fiyat_degisimi_top5.png)
 
 
 2024 yılı kış mevsimindeki en yüksek fiyat değişimine sahip 5 ürünün grafiğini incelediğimizde çileğin fiyatı 60 TL ile 325 TL arasında değişerek tam 265 TL'lik bir fiyat artışı göstermiş. İkinci sırada yer alan Sarımsak Kuru'nun fiyatı 47.5 TL'den 135 TL'ye yükselerek 87.5 TL'lik bir artış kaydetmiş. Üçüncü sırada bulunan Mantar'ın fiyatı 27.5 TL'den 100 TL'ye çıkarak 72.5 TL'lik artış göstermiş. Biber Kaliforniya'nın fiyatı 40 TL'den 110 TL'ye yükselerek 70 TL'lik, Zencefil'in fiyatı ise 120 TL'den 180 TL'ye çıkarak 60 TL'lik bir artış göstermiş.
 Dikkat çekici kısımlar ise çileğin fiyat değişimi diğer ürünlere göre çok daha yüksek, son dört ürünün (Sarımsak Kuru, Mantar, Biber Kaliforniya, Zencefil) fiyat değişimleri birbirine daha yakın seyrediyor.Mantar en düşük başlangıç fiyatına sahip (27.5 TL) ve fiyatı yaklaşık 3.6 kat artmış. En düşük başlangıç fiyatı Mantar'da (27.5 TL), en yüksek başlangıç fiyatı ise Zencefil'de (120 TL) bulunuyor.Zencefil en yüksek başlangıç fiyatına sahip olmasına rağmen (120 TL) en düşük artış oranını göstermiş, En yüksek zirve fiyatı ve en yüksek fiyat değişimi çilekte görülüyor.Çileğin tek başına gösterdiği fiyat artışı, diğer dört ürünün toplam artışına (290 TL) neredeyse denk geliyor. Ayrıca çilekte minimum ve maksimum fiyat arasında yaklaşık 5.4 kat fark bulunuyor. Çileğin kış mevsiminde bu kadar yüksek fiyat artışı göstermesi, mevsim dışı bir ürün olmasıyla ilişkilendirilebilir ayrıca zencefil gibi ithal bir ürünün fiyat değişiminin daha stabil olması, döviz kurlarının bu dönemde görece stabil seyretmiş olabileceğini düşündürüyor.
-----------------------------------------------------------------------------------------------------------------
+
+---------------------------------------------------------------------------------------------------
+
 ![2024_sonbahar_en_yuksek_fiyat_degisimi_top5.png](outputs/2024_sonbahar_en_yuksek_fiyat_degisimi_top5.png)
 
 
@@ -398,21 +436,24 @@ Dikkat çekici kısımlar ise çileğin fiyat değişimi diğer ürünlere göre
 Dikkat çekici kısımlar ise çileğin fiyat değişimi diğer ürünlere göre çok daha yüksek, son üç ürünün (Domates Diğer, Sarımsak Kuru, Biber Kırmızı) fiyat değişimleri aynı (40 TL) seyrediyor. En düşük başlangıç fiyatı Domates Diğer'de (17.5 TL), en yüksek başlangıç fiyatı ise Zencefil'de (115 TL) bulunuyor. En yüksek zirve fiyatı ve en yüksek fiyat değişimi çilekte görülüyor. Çileğin fiyat artışı (200 TL), diğer dört ürünün toplam artışından (170 TL) daha fazla. Ayrıca çilekte minimum ve maksimum fiyat arasında yaklaşık 3.7 kat fark bulunması dikkat çekici
 
 Ortalama fiyat değişimi 74 TL olarak hesaplanıyor.Son üç ürünün aynı fiyat artışını göstermesi (40 TL) pazar dinamiklerinin benzer olduğunu düşündürüyor.Çileğin fiyat artışı (200 TL),  en az artış gösteren ürünlerin fiyat artışının (40 TL) tam 5 katına eşittir.Zencefil yine yüksek başlangıç fiyatına sahip olmasına rağmen görece düşük bir artış göstermiş ve Zencefil gibi ithal bir ürünün fiyat değişiminin diğer ürünlere göre daha kontrollü olması, döviz kurlarındaki değişimin sınırlı etkisini gösteriyor.Çileğin sonbaharda da yüksek fiyat artışı göstermesi, mevsim geçiş dönemindeki arz-talep dengesizliğini yansıtırken,Domates ve Biber gibi sera ürünlerinin benzer fiyat artışları göstermesi, üretim maliyetlerinin benzer şekilde etkilendiğini gösteriyor
-------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------
+
 
 ![2024_yaz_en_yuksek_fiyat_degisimi_top5.png](outputs/2024_yaz_en_yuksek_fiyat_degisimi_top5.png)
 
 
 2024 yılı yaz mevsimindeki en yüksek fiyat değişimine sahip 5 ürünün grafiğini incelediğimizde Fasulye Ayşe'nin fiyatı 26.5 TL ile 100 TL arasında değişerek tam 73.5 TL'lik bir fiyat artış göstermiş. İkinci sırada yer alan Fasulye Çalı'nın fiyatı 24.5 TL'den 97.5 TL'ye yükselerek 73 TL'lik bir artış kaydetmiş. Üçüncü sırada bulunan Bamya'nın fiyatı 77.5 TL'den 150 TL'ye çıkarak 72.5 TL'lik artış göstermiş. Erik Can'ın fiyatı 35 TL'den 105 TL'ye yükselerek 70 TL'lik, Kiraz'ın fiyatı ise 52.5 TL'den 117.5 TL'ye çıkarak 65 TL'lik bir artış göstermiş.Dikkat çekici kısımlar ise tüm ürünlerin fiyat değişimleri birbirine oldukça yakın seyrediyor,En düşük başlangıç fiyatı Fasulye Çalı'da ve en yüksek zirve fiyatı Bamya'da görülüyor.İlk üç ürünün (Fasulye Ayşe, Fasulye Çalı ve Bamya) fiyat artışları neredeyse aynı (73.5, 73 ve 72.5 TL)Fasulye türlerinin başlangıç fiyatları düşük olduğu için yüzdesel artışları (%277 ve %298) en yüksek olduğu görülüyor ve fasulye türlerinin benzer fiyat artışları göstermesi, üretim ve hasat koşullarının benzer olduğunu gösteriyor. Bamya'nın yüksek başlangıç fiyatına rağmen önemli bir artış göstermesi, yaz mevsiminde bile arz-talep dengesizliğini yansıtıyor.Can eriği ve Kiraz gibi meyvelerin fiyat artışlarının görece daha düşük olması, yaz mevsiminin bu ürünler için ana hasat dönemi olmasıyla açıklanabilir.Can eriği ilkbahar mevsiminde en yüksek fiyat artışına sahipken, yaz mevsiminde daha makul bir artış gösteriyor.Tüm ürünlerin fiyat değişimlerinin birbirine yakın olması, yaz mevsiminde daha dengeli bir pazar yapısı olduğunu gösteriyor.Önceki mevsimlerde görülen aşırı fiyat farklılıkları yaz mevsiminde görülmüyor
------------------------------------------------------------------------------------------------------------------
+
+---------------------------------------------------------------------------------------------------
+
 ![2024_sezonluk_meyve_fiyatlari.png](outputs/2024_sezonluk_meyve_fiyatlari.png)
 
 
 Beyaz üzüm, ilkbaharda yaklaşık 70 TL civarında yüksek bir fiyata sahipken, kış aylarında keskin bir düşüş yaşayarak 45 TL seviyelerine gerilemiş, sonbahar ve yaz aylarında ise tekrar yükselerek ilkbahardaki yüksek fiyatına yakın bir seviyeye ulaşmıştır. Bu durum, üzümün sezonluk bir ürün olduğunu ve yaz sonu ile sonbaharda yüksek talep gördüğünü göstermektedir. Muz, yıl boyu piyasada bulunan bir meyve olduğu için fiyat dalgalanması fazla olmamış, ilkbahardan kışa hafif bir düşüş yaşasa da, sonbaharda tekrar yükselmiş ve yaz mevsiminde fiyatı çok az değişmiştir. Kayısı, ilkbahardan kışa kadar fiyatı artarak sonbaharda en yüksek seviyesine ulaşmış, ardından yazın hafif bir düşüş göstermiştir. Yazın bol bulunduğu için fiyatı düşerken, kış ve sonbaharda az bulunması nedeniyle fiyatı artmıştır. Amasya elması, kış aylarında nispeten düşük bir fiyata sahipken, sonbaharda keskin bir yükseliş göstererek en yüksek seviyesine ulaşmış ve yazın tekrar düşmüştür. Hasat döneminin sonbahar olması ve talebin bu dönemde yüksek olması bu durumu açıklamaktadır. Armut, ilkbahardan kışa düşüş yaşadıktan sonra sonbaharda tekrar yükselmeye başlamış ve yazın en yüksek seviyesine ulaşmıştır, bu da armudun en yüksek fiyatlarını yaz aylarında gördüğünü göstermektedir. Karpuz, ilkbahar ve kış aylarında nispeten düşük seyretmiş, sonbaharda hafif bir düşüş yaşasa da yaz mevsiminde fiyatında artış olmamıştır. Yaz mevsiminin en popüler meyvelerinden biri olmasına rağmen, bol üretim nedeniyle fiyatı düşük kalmıştır. Portakal, kış aylarında en düşük seviyede olup, ilkbahar ve yaz aylarında hafif bir artış göstermiştir. Kış mevsiminde tüketildiği için, mevsim dışındaki fiyatlarının arttığı görülmektedir. Kavun, yazın nispeten sabit bir fiyat eğilimi gösterirken, ilkbahar ve kış aylarında fiyatları daha düşük olmuştur. Yaz meyvesi olduğu için diğer mevsimlerde daha yüksek fiyatlarla satılması beklenen bir durumdur. Genel olarak, mevsimsel dalgalanma en fazla üzüm ve kayısıda gözlemlenmektedir. Üzüm, ilkbahardan kışa keskin bir düşüş yaşarken, yaz-sonbahar döneminde zirve yapmaktadır. Muz ve portakal gibi yıl boyunca piyasada bulunan ürünler daha stabil fiyatlara sahiptir. Yaz aylarında karpuz ve kavun gibi meyvelerin fiyatları düşük seyretmekte, bol üretim talebi karşıladığı için fiyat artışı yaşanmamaktadır. Sonbaharda elma ve armut gibi meyvelerin fiyatlarında belirgin artış görülmektedir. Hasat dönemiyle fiyatlar ters orantılı hareket etmekte, üretimin arttığı dönemlerde fiyatlar düşerken, az bulunduğu dönemlerde yükselmektedir. Depolanabilen elma ve portakal gibi meyveler, diğer mevsimlik meyvelere kıyasla daha az fiyat dalgalanması göstermektedir. Kış aylarında özellikle üzüm, kayısı ve karpuz gibi mevsim dışı ürünlerde talep azaldığı için fiyatlar düşmektedir. Depolama ve ithalatın etkisiyle portakal, elma ve muz gibi meyvelerin yıl boyunca erişilebilir olması fiyat istikrarını sağlamaktadır. Yaz mevsiminde üretim fazlalığı fiyatları dengelerken, karpuz ve kavun gibi yaz meyvelerinin talebi yüksek olmasına rağmen geniş üretim alanları nedeniyle fiyat artışı yaşanmamaktadır. Üzüm ve kayısı gibi bazı meyvelerde yaz sonuna doğru fiyat artışı görülmekte, bu ürünler yaz sonunda ve sonbaharda yüksek talep görmektedir. Benzer mevsimlerde yetişen meyveler benzer fiyat değişimlerini göstermekte, üzüm ve kayısı fiyatları paralel hareket ederek yaz sonu ve sonbaharda zirve yapmaktadır. Muz ve portakal gibi ithal veya sera üretimi olan meyveler, mevsimsel dalgalanmalardan daha az etkilenerek stabil fiyatlar sergilemektedir.
 
 
+---------------------------------------------------------------------------------------------------
 
---------------------------------------------------------------------------------------------------------------
 ![2024_sezonluk_sebze_fiyatlari.png](outputs/2024_sezonluk_sebze_fiyatlari.png)
 
 
@@ -422,30 +463,31 @@ Belirli mevsimlerde üretim ve talep dengesine bağlı olarak ciddi dalgalanmala
 
 
 
-----------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------
 ![2024_meyve_kategorisi_en_yuksek_fiyat_can_erigi_degisimi.png](outputs/2024_meyve_kategorisi_en_yuksek_fiyat_can_erigi_degisimi.png)
 
 
 2024 yılı meyve kategorisindeki en yüksek fiyata sahip Can Eriği'nin fiyat değişimlerini gösteren grafiği incelediğimizde, özellikle Mart-Nisan aylarında fiyatların zirvede olduğunu görmekteyiz. Bu dönemde maksimum fiyat 600 TL, minimum fiyat 250 TL ve ortalama fiyat 425 TL seviyelerinde seyretmiştir. Mayıs ayına kadar fiyatlarda keskin bir düşüş yaşanmış, maksimum fiyat 100 TL'ye, minimum fiyat 50 TL'ye ve ortalama fiyat 75 TL'ye kadar gerilemiştir ve haziran ayındada az da olsa düşüş devam etmiştir. Yılın ilk aylarında oldukça yüksek seyreden fiyatlar, Mayıs ayından sonra dengelenmeye başlamış ve Haziran-Ağustos döneminde daha stabil bir seyir izlemiştir. Maksimum ve minimum fiyat arasındaki makas da zamanla daralmıştır. Bu fiyat hareketlerinin temel nedenleri arasında sezon başında arzın kısıtlı olması, mevsim dışı üretimin maliyetli olması, Mayıs ayından sonra ürünün bollaşmasıyla fiyatların düşmesi ve yaz aylarında arz-talep dengesinin oturması sayılabilir. Tüm bu veriler, Can Eriği'nin özellikle sezon başında çok yüksek fiyatlarla satıldığını, ancak mevsimi geldiğinde fiyatların makul seviyelere indiğini göstermektedir. Fiyat hareketlerinin tamamen mevsimsel faktörlerle ilişkili olduğu açıkça görülmektedir.
 
------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------
 
 ![2024_yili_sebze_kategorisindeki_en_yuksek_fiyat_mantar_istiridye_fiyat_degisimi.png](outputs/2024_yili_sebze_kategorisindeki_en_yuksek_fiyat_mantar_istiridye_fiyat_degisimi.png)
 
 
 2024 yılı sebze kategorisinde en yüksek fiyata sahip Mantar (İstiridye) ürününün fiyat değişimlerini incelediğimizde, yılın ilk çeyreğinde Ocak ayında minimum fiyatın 15 TL, maksimum fiyatın 115 TL civarında başladığını ve Mart ayına kadar kademeli bir artış göstererek maksimum fiyatın 145 TL'ye ulaştığını, ortalama fiyatın ise 85-95 TL bandında seyrettiğini görmekteyiz. İlkbahar döneminde, özellikle Nisan ayında fiyatlar en yüksek seviyelerinden birini görmüş, Mayıs ayında hafif bir düşüş trendi başlamış ve minimum fiyat 55 TL civarında stabilize olmuştur. Yaz dönemine gelindiğinde, Haziran ayında fiyatlar yılın en düşük seviyelerinden birini göstermiş, ancak Temmuz ve Ağustos aylarında tekrar yükseliş trendine girerek maksimum fiyat 135-140 TL bandında hareket etmiştir. Sonbahar-Kış döneminde ise Eylül ayından itibaren belirgin bir yükseliş trendi başlamış, Aralık ayında maksimum fiyat 205 TL ile yılın en yüksek seviyesine ulaşırken, minimum fiyat 60 TL civarında sabit kalmış ve ortalama fiyat 130 TL'ye kadar yükselmiştir. Genel olarak değerlendirildiğinde, yıl boyunca minimum fiyatın 15-60 TL arasında, maksimum fiyatın ise 115-205 TL arasında dalgalandığı, en yüksek fiyat artışının yılın son çeyreğinde gerçekleştiği ve fiyatların genel olarak yükselen bir trend izlediği görülmektedir. Bu fiyat hareketlerinde mevsimsel etkilerin önemli rol oynadığı açıkça gözlemlenmektedir.
------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------
 
 ![2024_yerli_ithal_biber_fiyat_karsilastirma.png](outputs/2024_yerli_ithal_biber_fiyat_karsilastirma.png)
 
 
 2024 yılı yerli ve ithal biber fiyatlarını gösteren grafiği incelediğimizde, Kaliforniya biberi (ithal) ile dolma biber (yerli) arasında önemli fiyat farklılıkları göze çarpıyor. Kaliforniya biberi yıl boyunca 43-110 TL aralığında seyrederken, dolma biber çok daha uygun bir fiyat aralığında, 18-45 TL bandında değişim gösteriyor. Mevsimsel değişimlere baktığımızda, ilkbahar aylarında (3-4-5. aylar) dolma biber fiyatları 35 TL'den 18 TL'ye düşerken, Kaliforniya biberi 60 TL civarında sabit kalıyor. Yaz döneminde (6-7-8. aylar) ise durum değişiyor; Kaliforniya biberi keskin bir yükselişle 60 TL'den 85 TL'ye çıkarken, dolma biber fiyatları da hafif bir artışla 20 TL'den 30 TL'ye yükseliyor,daha sonra da fiyatı 25 TL'ye geriliyor. Sonbahar aylarına (9-10-11. aylar) gelindiğinde, Kaliforniya biberinde önce bir düşüş, ardından tekrar yükseliş gözlenirken, dolma biber fiyatları kademeli olarak artış gösteriyor. Kış aylarında ise her iki ürün de en yüksek fiyatlarına ulaşıyor; Kaliforniya biberi 110 TL civarına çıkarken, dolma biber 45 TL seviyelerine yükseliyor. İki ürün arasındaki fiyat farkı özellikle yılın son aylarında en yüksek seviyeye ulaşıyor. Yerli dolma biberin fiyatları mevsimsellikten daha fazla etkileniyor ve tüketiciler için en uygun alım dönemi ilkbahar ayları olarak öne çıkıyor. Her iki ürün için de kış ayları en yüksek fiyatların görüldüğü dönem olarak dikkat çekiyor. Bu veriler ışığında, özellikle ekonomik alışveriş yapmak isteyen tüketiciler için yerli dolma biberin ilkbahar ve yaz başlangıcında daha uygun bir seçenek olduğunu söyleyebiliriz.
-------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------
 
 ![2024_yerli_ithal_elma_fiyat_karsilastirma.png](outputs/2024_yerli_ithal_elma_fiyat_karsilastirma.png)
 
 
 2024 yılı yerli ve ithal elma fiyatlarını gösteren grafiği incelediğimizde, Amasya elması (yerli) ve Starking elması (ithal) arasındaki fiyat değişimlerini net bir şekilde görebiliyoruz. Yılın başında her iki elma çeşidi de birbirine yakın fiyatlarla başlıyor; Amasya elması 22 TL, Starking elması 23 TL civarında seyrediyor. İlkbahar aylarına gelindiğinde (3-4-5. aylar) Amasya elması 25-27 TL bandında dalgalanırken, Starking elması 22-24 TL aralığında daha düşük bir seyir izliyor. Yaz ortasına doğru (6-7. aylar) ilginç bir kesişme noktası görülüyor ve her iki elma çeşidi de 29 TL civarında buluşuyor. Ancak yaz sonundan itibaren fiyat ayrışması belirginleşiyor; Amasya elmasının fiyatı sürekli yükseliş trendine girerek sonbaharda (9-10-11. aylar) 34 TL'den 42 TL'ye kadar çıkıyor. Starking elması ise daha stabil bir seyir izleyerek 22-31 TL bandında kalıyor. Yılın son ayında Amasya elması 40 TL civarında seyrederken, Starking elması 30 TL seviyesinde kalıyor. Bu veriler ışığında, yerli Amasya elmasının özellikle sonbahar ve kış aylarında daha yüksek fiyatlara ulaştığını, ithal Starking elmasının ise yıl boyunca daha istikrarlı ve genellikle daha uygun fiyatlarla satıldığını söyleyebiliriz. Tüketiciler için en ekonomik alım dönemi her iki elma çeşidi için de yılın ilk yarısı olarak öne çıkıyor.
+
 ---------------------------------------------------------------------------------------------
 
 ![2024_yerli_ithal_kivi_fiyat_karsilastirma.png](outputs/2024_yerli_ithal_kivi_fiyat_karsilastirma.png)
@@ -477,6 +519,7 @@ Sonbahar ve kış döneminde (9-10-11-12. aylar) çok ilginç bir tablo ortaya �
 
 ![fiyatı_bir_önceki_satış_fiyatına_göre_100un_uzerinde_artan_meyve_turlerinin_fiyat_degisim_analizi.png](outputs/fiyatı_bir_önceki_satış_fiyatına_göre_100un_uzerinde_artan_meyve_turlerinin_fiyat_degisim_analizi.png)
 
+
  2023-01-16 tarihinde Elma Fuji'nin fiyatı 4 TL iken, 2023-01-16'da 10 TL'ye yükselmiş ve %150'lik bir artış göstermiş. Yine elma türü olan Elma Muhtelif 2022-05-28'de 3 TL'den 7.5 TL'ye yükselerek %150'lik bir artış göstermiş. iki elma türününde elma fuji ve elma muhtelif'in olması da dikkat çekici kısımlar arasında yer almaktadır.Bahar sonu yaz başı döneminde gerçekleşen bu artış, stokların azalması ve yeni sezon ürünlerinin henüz piyasaya girmemesiyle ilişkili olabilir. Elma gibi ürünlerde, üretim fazlası olmadığı zaman fiyatlar hızla artabilir ve bu da ekonomik faktörlerin yanı sıra üretim maliyetlerindeki artışa da bağlı olabilir.Erik Çeşitlerine baktığımızda 2022-12-19 tarihinde Erik'in fiyatı 6 TL'den 12.5 TL'ye yükselerek %108.33'lük bir artış göstermiş. Kış mevsiminde görülen bu artış, erik mevsiminin çoktan geçmiş olması ve arz kısıtlılığından kaynaklanmış olabilir. Ayrıca, Erik Murdum'daki artış (3.5 TL'den 7.5 TL'ye, %114.29) yine aynı dönemde gerçekleşmiş ve bu da aynı sebeplerle açıklanabilir.iki erik çeşidinin olması da dikkat çekici kısımlar arasında yer almaktadır.
  Greyfurt 2024-04-04'te 8 TL'den 19 TL'ye çıkarak %137.5'lik bir artış göstermiş.lkbahar döneminde görülen bu artış, narenciye sezonunun sonuna yaklaşılmasıyla ilişkili olabilir.  Ayrıca, 2024-08-10 tarihindeki ikinci artışta 22.5 TL'den 47.5 TL'ye yükselerek %111.11'lik bir artış yaşanmış. Bu ikinci artış, özellikle sezon sonu stok azalması ve fiyatların hızla tırmanmasıyla ilişkilendirilebilir.
 
@@ -486,14 +529,10 @@ Genel olarak, bu fiyat artışlarının çoğu mevsimsel değişimler, üretim m
 
 
 
-
-
-
-
-
 -------------------------------------------------------------------------------------------
 
 ![fiyatı_bir_önceki_satış_fiyatına_göre_100un_uzerinde_artan_sebze_turlerinin_fiyat_degisim_analizi.png](outputs/fiyatı_bir_önceki_satış_fiyatına_göre_100un_uzerinde_artan_sebze_turlerinin_fiyat_degisim_analizi.png)
+
 
 Grafik, 2022-2023 yılları arasında sebze türlerinin bir önceki satış fiyatına göre %100'ün üzerinde artış gösteren ürünlerin fiyat değişim analizini göstermektedir.
 
@@ -555,9 +594,6 @@ Düşük fiyatlı ürünlerde daha yüksek oranlı artışlar görülürken, bro
 
 
 
-
-
-
 ---------------------------------------------------------------------------------------------
 
 ![fiyatı_bir_önceki_satış_fiyatına_göre_50_nın_uzerinde_artan_İthal_turlerinin_fiyat_degisim_analizi.png](outputs/fiyatı_bir_önceki_satış_fiyatına_göre_50_nın_uzerinde_artan_İthal_turlerinin_fiyat_degisim_analizi.png)
@@ -576,6 +612,7 @@ Dönemsel olarak bakıldığında, 2022'nin ikinci yarısında özellikle avakad
 2024 yılında ithal ürünlerde %50'nin üzerinde tek olarak pitahaya ürününde olup başka ürünlerde fiyat artışı görülmemesi oldukça önemli bir gelişme olarak değerlendirilebilir 
 2022-2023'te görülen ani ve yüksek artışların 2024'te olmaması, ithal ürün piyasasında göreceli bir istikrara işaret etmektedir. 
 
+--------------------------------------------------------------------------------------------------
 
 ![fiyatı_bir_önceki_satış_fiyatına_göre_2024_ithal_turlerinin_fiyat_degisim_analizi.png](outputs/fiyatı_bir_önceki_satış_fiyatına_göre_2024_ithal_turlerinin_fiyat_degisim_analizi.png)
 
@@ -594,6 +631,4 @@ Elma ( Gsmith) %25,Kivi %21.7,Elma Starking %20 ve Zencefil %17.9 ile en düşü
 
 -------------------------------------------------------------------------------------------------
 
-![2025_fiyat_tahminleri_tur_ortalama.png](outputs/2025_fiyat_tahminleri_tur_ortalama.png)
-![2025_fiyat_tahminleri_tur_ortalama.png](outputs/2025_fiyat_tahminleri_tur_ortalama.png)
 ![2025_fiyat_tahminleri_tur_ortalama.png](outputs/2025_fiyat_tahminleri_tur_ortalama.png)
