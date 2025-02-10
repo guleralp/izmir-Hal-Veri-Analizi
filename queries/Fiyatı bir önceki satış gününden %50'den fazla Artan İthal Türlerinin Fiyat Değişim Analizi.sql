@@ -11,5 +11,5 @@ SELECT product_name, DATE_FORMAT(DATE, '%Y-%m-%d') AS "change_date",
 FROM price_changes
 WHERE next_price IS NOT NULL
   AND DATEDIFF(next_date, DATE) < 10  
-  AND ((next_price - current_price) / current_price) * 100 > 50 
+  AND ((next_price - current_price) / current_price) * 100 >= 50 
 ORDER BY product_name, DATE;
