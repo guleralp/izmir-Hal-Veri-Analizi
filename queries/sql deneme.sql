@@ -29,5 +29,5 @@ SELECT
     ROUND(((price_2024 - price_2023) / price_2023) * 100, 2) AS percent_change_2023_2024
 FROM pivot_data
 WHERE price_2022 IS NOT NULL AND price_2023 IS NOT NULL AND price_2024 IS NOT NULL
-ORDER BY diff_2022_2023 DESC
-LIMIT 1;
+ORDER BY diff_2022_2023 ASC
+LIMIT 10;

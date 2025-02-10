@@ -15,8 +15,8 @@ Genel Fiyat Artış Trendi 2022'den 2024'e kadar fiyatlarda belirgin bir yüksel
 
 Sonuç ve Değerlendirme
 Bu grafik, en temel sebzelerden biri olan maydanozun bile son üç yılda önemli fiyat artışları yaşadığını ortaya koymaktadır. Özellikle 2024 yılı başında gözlemlenen sert fiyat artışı, temel gıda maddelerine erişimde zorlukların arttığını göstermektedir.Fiyat istikrarı açısından minimum fiyatların 2024 yılında daha sabit seyretmesi, piyasada bir dengeleme çabasının olduğunu düşündürmektedir. Ancak, maksimum fiyatlardaki devam eden dalgalanmalar, piyasada belirsizliğin sürdüğüne işaret etmektedir.Bununla birlikte, mevsimsel etkiler, özellikle ilkbahar ve kış aylarında fiyat dalgalanmalarının belirginleştiğini ortaya koymaktadır. Kış aylarında fiyatların genel olarak yükselmesi, üretim maliyetlerindeki artış ve arz-talep dengesizlikleriyle ilişkilendirilebilir. Yaz aylarında görece daha istikrarlı fiyat hareketleri ise, üretimin artması ve arzın daha güçlü olmasından kaynaklanıyor olabilir.Genel olarak, 2022 yılında daha stabil seyreden fiyatların, 2023 ortalarından itibaren kademeli bir yükseliş trendine girdiği ve 2024'te zirve noktalarına ulaştığı görülmektedir. Bu durum, enflasyon, tarım politikaları, iklim koşulları ve tedarik zinciri gibi faktörlerin fiyatlar üzerindeki baskısının arttığını göstermektedir.Özetle, maydanoz gibi temel bir sebzenin fiyatındaki bu keskin artışlar, genel tarımsal ürünler piyasasında yaşanan değişimlerin bir yansımasıdır. Önümüzdeki dönemlerde, fiyat dalgalanmalarının hangi seviyelerde dengeleneceği ve piyasa koşullarının nasıl şekilleneceği önemli bir soru olarak karşımıza çıkmaktadır.
----
----------------------------------------------------------------------------
+
+---------------------------------------------------------------------------------------------------
 
 ![2022_2023_2024_en_yuksek_fiyatli_sebze.png](outputs/2022_2023_2024_en_yuksek_fiyatli_sebze.png)
 
@@ -125,10 +125,10 @@ Orta Değer: 4.00 TL
 Maksimum Fiyat: 3.25 - 3.50 TL
 Benzer fiyat değişim paternleri göstererek istikrarlı bir görünüm sergilemişlerdir..
 
-🔹 Mandalina (Takoz), en stabil fiyat seyrine sahip ürün olarak dikkat çekmektedir.
+- Mandalina (Takoz), en stabil fiyat seyrine sahip ürün olarak dikkat çekmektedir.
 Bu ürünün fiyat aralığının 0.50 TL ile 1.00 TL arasında sınırlı kalması, tüketiciler için öngörülebilir bir fiyatlandırma sunduğunu göstermektedir. Bu istikrarın temel sebepleri arasında, mandalinanın belirli bir hasat dönemine sahip olması ve piyasada düzenli bir arz-talep dengesi bulunması sayılabilir.
 
-🔹 Yeşillik Grubu Ürünleri (Tere, Dereotu, Roka, Maydanoz), benzer fiyat dalgalanmaları sergilemiştir.
+- Yeşillik Grubu Ürünleri (Tere, Dereotu, Roka, Maydanoz), benzer fiyat dalgalanmaları sergilemiştir.
 Bu ürünlerin fiyatlarının 3.25 TL ile 4.00 TL arasında değişmesi, aralarındaki fiyat rekabetinin ve piyasa koşullarının birbirine çok yakın olduğunu göstermektedir. Mevsimsel etkiler, özellikle yeşillik grubu ürünlerinde fiyat değişimlerini sınırlamıştır. Yıl boyunca düzenli olarak üretilip tüketilebildikleri için keskin fiyat artışları yaşanmamıştır. Fiyat istikrarını sağlayan olası faktörler şunlardır
 Bu ürünlerin benzer tedarik zincirlerine sahip olması,Aynı veya yakın üretim bölgelerinden temin edilmeleri,
 Mevsimsel değişimlerden benzer şekilde etkilenmeleri,Piyasada birbirine bağlı fiyatlandırma stratejilerinin uygulanması.
@@ -583,3 +583,14 @@ Elma ( Gsmith) %25,Kivi %21.7,Elma Starking %20 ve Zencefil %17.9 ile en düşü
 
 İthal ürünlerin tamamında %17.9 ile %50 arasında değişen oranlarda fiyat artışı görülmüş
 2024 yılı içerisinde ithal olan ürünlerde ani fiyat değişimleri olsada bu değişimler bir önceki güne oranla %50 oranından daha fazla olduğu görülmemektedir. bu nedenle 2022-2023 yıllarında daha ani fiyat değişimleri karşımıza çıkıyor.Bbu grafikte ve Bir önceki grafikte de incelediğimiz üzere 2024 yılında %50 oranında sadece pitahaya ürününde bir artış olmuş diğer ürünlerde artış yaşanmasına rağmen önceki yıllardakilere göre daha düşük oranlarda artışlar görülüyor. Bu verilere göre 2024 yılı içerisinde İthalat politikalarında iyileştirmeler yapılmış,Stok yönetimi ve tedarik planlaması daha etkin hale gelmiş,2022-2023'te görülen yüksek oranlı (%50'nin üzerinde) ani artışlar yerine 2024'te daha düşük oranlı (%10-15-20 gibi) fakat daha sık artışlar yapılmıştır.Bu strateji değişimi, tüketici tepkisini azaltmak için bilinçli bir tercih olabilir. Örneğin: Bir ürüne 3 ayda %20'şer artış yapıldığında, kümülatif artış %72.8'e ulaşabilir. Bu artış modeli, tek seferde %50'nin üzerinde yapılan artışlardan daha az dikkat çekici olabilmektedir. Ancak yıllık bazda toplam artış oranı benzer veya daha yüksek olabilir.İthalatçılar, yüksek oranlı artışların yarattığı olumsuz algıyı yönetmek için daha küçük ve sık artışları tercih ediyor olabilir.Bu yaklaşım, fiyat artışlarının piyasada daha kolay absorbe edilmesini sağlayabiliyor.
+
+
+---------------------------------------------------------------------------------------------------
+
+![2025_fiyat_tahminleri_top10.png](outputs/2025_fiyat_tahminleri_top10.png)
+
+
+
+-------------------------------------------------------------------------------------------------
+
+![2025_fiyat_tahminleri_tur_ortalama.png](outputs/2025_fiyat_tahminleri_tur_ortalama.png)
