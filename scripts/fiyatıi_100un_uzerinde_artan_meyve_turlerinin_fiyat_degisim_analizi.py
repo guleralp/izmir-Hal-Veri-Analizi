@@ -4,7 +4,7 @@ import seaborn as sns
 import pymysqldbconnet  
 # Veritabanı bağlantısını sağlama
 connection = pymysqldbconnet.get_db_connection()
-with open("queries/Fiyatı %100'ün Üzerinde Artan Meyve Türlerinin Fiyat Değişim Analizi.sql", 'r') as file:
+with open("queries/Fiyatı bir önceki satış gününden %100'den fazla Artan Meyve Türlerinin Fiyat Değişim Analizi.sql", 'r') as file:
     sql_query = file.read()
 
 df = pd.read_sql(sql_query, connection)
@@ -31,7 +31,7 @@ for i, (product, product_data) in enumerate(df.groupby('product_name')):
                 f'{row["price_change (%)"]}%', ha='center', va='bottom', fontsize=6, color='black')
 
 # Başlık ve etiketler
-ax.set_title("Fiyatı %100'ün Üzerinde Artan Meyve Türlerinin Fiyat Değişim Analizi", fontsize=16)
+ax.set_title("Fiyatı bir önceki satış fiyatına göre %100'ün Üzerinde Artan Meyve Türlerinin Fiyat Değişim Analizi", fontsize=16)
 ax.set_xlabel('Date', fontsize=14)
 ax.set_ylabel('Price_change (%)', fontsize=14)
 plt.xticks(rotation=45, ha='right', fontsize=12)
@@ -42,7 +42,7 @@ ax.legend(title='Product_name', fontsize=7)
 plt.tight_layout()
 
 # Kaydetme yolunu belirleme
-output_path = "outputs/fiyatı_100un_uzerinde_artan_meyve_turlerinin_fiyat_degisim_analizi.png"
+output_path = "outputs/fiyatı_bir_önceki_satış_fiyatına_göre_100un_uzerinde_artan_meyve_turlerinin_fiyat_degisim_analizi.png"
 plt.tight_layout()  
 plt.savefig(output_path, format='png', dpi=300) 
 

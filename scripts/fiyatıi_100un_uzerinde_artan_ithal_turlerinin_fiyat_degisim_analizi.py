@@ -1,10 +1,11 @@
 import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
-import pymysqldbconnet 
+import pymysqldbconnet  
+
 # Veritabanı bağlantısını sağlama
 connection = pymysqldbconnet.get_db_connection()
-with open("queries/Fiyatı bir önceki satış gününden %100'den fazla Artan Sebze Türlerinin Fiyat Değişim Analizi.sql", 'r') as file:
+with open("queries/Fiyatı bir önceki satış gününden %50'den fazla Artan İthal Türlerinin Fiyat Değişim Analizi.sql", 'r', encoding='utf-8') as file:
     sql_query = file.read()
 
 df = pd.read_sql(sql_query, connection)
@@ -24,29 +25,25 @@ for i, (product, product_data) in enumerate(df.groupby('product_name')):
 
     # Çubuklar üzerine metin ekleyelim
     for bar, (_, row) in zip(bars, product_data.iterrows()):
-        ax.text(bar.get_x() + bar.get_width() / 2, bar.get_height() / 2, 
-                f'Cur: {row["current_price"]}\nNex: {row["next_price"]}', 
-                ha='center', va='center', fontsize=6, color='black')
-        ax.text(bar.get_x() + bar.get_width() / 2, bar.get_height() + 2, 
-                f'{row["price_change (%)"]}%', ha='center', va='bottom', fontsize=6, color='black')
+        ax.text(bar.get_x() + bar.get_width() / 2, bar.get_height()-8,
+                f'{row["price_change (%)"]}%\n\nCur: {row["current_price"]}\nNex: {row["next_price"]}',
+                ha='center', va='bottom', fontsize=6, color='black')
 
 # Başlık ve etiketler
-ax.set_title("Fiyatı bir önceki satış fiyatına göre %100'ün Üzerinde Artan Sebze Türlerinin Fiyat Değişim Analizi", fontsize=16)
-ax.set_xlabel('Date', fontsize=14)
-ax.set_ylabel('Price_change (%)', fontsize=14)
+ax.set_title("Fiyatı bir önceki satış fiyatına göre %50'nın Üzerinde Artan İthal Ürünlerin Fiyat Değişim Analizi", fontsize=16)
+ax.set_xlabel('(Date)', fontsize=14)
+ax.set_ylabel('(Price_change) (%))', fontsize=14)
 plt.xticks(rotation=45, ha='right', fontsize=12)
-plt.ylim(0, 300)
-ax.legend(title='Product_name', fontsize=7)
+plt.ylim(0, 120)
+ax.legend(title='Ürün Adı', fontsize=7)
+
 
 # Grafik düzenlemesi
 plt.tight_layout()
 
 # Kaydetme yolunu belirleme
-output_path = "outputs/fiyatı_bir_önceki_satış_fiyatına_göre_100un_uzerinde_artan_sebze_turlerinin_fiyat_degisim_analizi.png"
-plt.tight_layout()  
+output_path = "outputs/fiyatı_bir_önceki_satış_fiyatına_göre_50_nın_uzerinde_artan_İthal_turlerinin_fiyat_degisim_analizi.png"
 plt.savefig(output_path, format='png', dpi=300)  
-
-
 
 # Gösterim
 plt.show()
