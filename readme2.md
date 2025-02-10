@@ -445,14 +445,16 @@ Belirli mevsimlerde üretim ve talep dengesine bağlı olarak ciddi dalgalanmala
 
 
 2024 yılı yerli ve ithal elma fiyatlarını gösteren grafiği incelediğimizde, Amasya elması (yerli) ve Starking elması (ithal) arasındaki fiyat değişimlerini net bir şekilde görebiliyoruz. Yılın başında her iki elma çeşidi de birbirine yakın fiyatlarla başlıyor; Amasya elması 22 TL, Starking elması 23 TL civarında seyrediyor. İlkbahar aylarına gelindiğinde (3-4-5. aylar) Amasya elması 25-27 TL bandında dalgalanırken, Starking elması 22-24 TL aralığında daha düşük bir seyir izliyor. Yaz ortasına doğru (6-7. aylar) ilginç bir kesişme noktası görülüyor ve her iki elma çeşidi de 29 TL civarında buluşuyor. Ancak yaz sonundan itibaren fiyat ayrışması belirginleşiyor; Amasya elmasının fiyatı sürekli yükseliş trendine girerek sonbaharda (9-10-11. aylar) 34 TL'den 42 TL'ye kadar çıkıyor. Starking elması ise daha stabil bir seyir izleyerek 22-31 TL bandında kalıyor. Yılın son ayında Amasya elması 40 TL civarında seyrederken, Starking elması 30 TL seviyesinde kalıyor. Bu veriler ışığında, yerli Amasya elmasının özellikle sonbahar ve kış aylarında daha yüksek fiyatlara ulaştığını, ithal Starking elmasının ise yıl boyunca daha istikrarlı ve genellikle daha uygun fiyatlarla satıldığını söyleyebiliriz. Tüketiciler için en ekonomik alım dönemi her iki elma çeşidi için de yılın ilk yarısı olarak öne çıkıyor.
----------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------
 
 ![2024_yerli_ithal_kivi_fiyat_karsilastirma.png](outputs/2024_yerli_ithal_kivi_fiyat_karsilastirma.png)
 
 
 2024 yılı yerli ve ithal kivi fiyatlarını gösteren grafiği incelediğimizde, oldukça dikkat çekici fiyat farklılıkları ve değişimleri gözlemliyoruz. Yılın başında yerli kivi 32 TL civarında seyrederken, ithal kivi 45 TL seviyesinden başlıyor. İlkbahar aylarına doğru (3-4-5. aylar) her iki üründe de kademeli bir artış görülüyor; yerli kivi 45-50 TL bandında ilerlerken, ithal kivi 50-65 TL aralığında seyrediyor. Yaz aylarına gelindiğinde (6-7-8. aylar) fiyatlarda dramatik bir yükseliş dikkat çekiyor; özellikle ithal kivinin fiyatı keskin bir artışla 70 TL'den 120 TL'ye kadar yükseliyor. Aynı dönemde yerli kivi de artış gösteriyor ancak bu artış daha makul seviyelerde kalıyor ve 50 TL'den 85 TL'ye çıkıyor. Sonbahar ve kış aylarına doğru (9-12. aylar) ilginç bir trend değişimi yaşanıyor. Ağustos ayından sonra ithal kivi bulunmazken, yerli kivi fiyatları 85 TL'den kademeli olarak düşüşe geçerek yıl sonunda 70 TL seviyesine geriliyor. Bu veriler ışığında, tüketiciler için en ekonomik alım döneminin yılın ilk ayları olduğunu, özellikle yaz aylarında her iki kivi çeşidinin de önemli fiyat artışları gösterdiğini söyleyebiliriz. Yerli kivinin genel olarak daha ekonomik bir seçenek olduğu ve fiyat istikrarının ithal kiviye göre daha dengeli seyrettiği açıkça görülüyor.
 
---------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------
+
+
 ![2024_yerli_ithal_muz_fiyat_karsilastirma.png](outputs/2024_yerli_ithal_muz_fiyat_karsilastirma.png)
 
 
@@ -460,18 +462,19 @@ Belirli mevsimlerde üretim ve talep dengesine bağlı olarak ciddi dalgalanmala
 
 Yaz aylarına gelindiğinde (6-7-8. aylar) her iki üründe de yükseliş trendi başlıyor. İthal muz fiyatları 61 TL'den başlayarak kademeli bir artışla 64 TL seviyesine ulaşıyor ve bu seviyede bir süre sabit kalıyor. Yerli muz ise 38 TL'den başlayarak yükselişe geçiyor ve 47 TL seviyelerine kadar çıkıyor.Sonbahar döneminde (9-10-11. aylar) fiyat hareketleri daha da ilginçleşiyor. İthal muz fiyatları hafif bir düşüş trendine girerken, yerli muz fiyatları dalgalı bir seyir izliyor; önce 45 TL'ye düşüyor, sonra tekrar 48 TL'ye yükseliyor ve ardından 43 TL'ye geriliyor.Yılın son ayında her iki ürün de düşüş gösteriyor; yerli muz 40 TL, ithal muz ise 60 TL seviyesine iniyor. Yerli muz için en ekonomik dönemler, yılın başı ve mayıs ayı civarı olarak öne çıkmaktadır. Ayrıca, yerli muz fiyatları mevsimsel değişimlerden daha fazla etkilenmektedir.Tüketiciler için, yerli muzun her zaman daha ekonomik bir seçenek olduğu ve özellikle ilkbahar aylarında fiyat avantajının en yüksek seviyeye ulaştığı açıkça görülüyor.
 
-----------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------
 
-[2024_yili_yerli_ithal_sarimsak_fiyatlarinin_karsilastirilmasi.png](outputs/2024_yili_yerli_ithal_sarimsak_fiyatlarinin_karsilastirilmasi.png)
+![2024_yili_yerli_ithal_sarimsak_fiyatlarinin_karsilastirilmasi.png](outputs/2024_yili_yerli_ithal_sarimsak_fiyatlarinin_karsilastirilmasi.png)
 
 
 2024 yılı yerli ve ithal sarımsak fiyatlarını grafiği incelediğimizde, Yılın başında yerli sarımsak 65 TL, ithal sarımsak ise 82 TL seviyesinden başlıyor. Şubat ayında her iki üründe de keskin bir yükseliş yaşanıyor; yerli sarımsak 85 TL'ye, ithal sarımsak ise 108 TL'ye çıkıyor.İlkbahar aylarında (3-4-5. aylar) farklı trendler gözlemleniyor. İthal sarımsak fiyatı hızlı bir yükselişle 126 TL seviyesine çıkıyor ve bu seviyede uzun süre sabit kalıyor. Yerli sarımsak ise 97-99 TL bandında dalgalanarak daha sonra mayıs ayında 87 TL 'lere geriliyor. Yaz aylarına gelindiğinde (6-7-8. aylar) ithal sarımsak fiyatları çok hafif bir düşüş eğilimine giriyor. Yerli sarımsak kademeli bir yükselişle 100 TL seviyesine ulaşıyor.
+
 Sonbahar ve kış döneminde (9-10-11-12. aylar) çok ilginç bir tablo ortaya çıkıyor. İthal sarımsak bu dönemlerde bulunmuyor. (muhtemelen sezon dışı veya stok yetersizliği) Yerli sarımsak fiyatları ise dramatik bir yükseliş gösteriyor. Eylül'de 94 TL, Ekim'de 103 TL, Kasım'da 112 TL, Aralık'ta 133 TL'ye kadar yükseliyor.İthal ve yerli sarımsak arasında ortalama 30-40 TL'lik bir fiyat farkı bulunuyor. Yerli sarımsak fiyatları özellikle kış aylarında ciddi artış gösteriyor. Yerli sarımsak için mayıs-haziran ayları en uygun fiyatların görüldüğü dönem olak karşımıza çıkıyor. İlkbahar ve yaz başlangıcında yerli sarımsak almak daha ekonomik, kış aylarında fiyatlar çok yükseleceği için, uygun dönemde alıp uygun koşullarda saklamak avantajlı olabilir.İthal sarımsak genellikle yerli ürüne göre daha pahalı bir seçenek olarak öne çıkıyor.
 
 --------------------------------------------------------------------------------------------
 
 
-[fiyatı_bir_önceki_satış_fiyatına_göre_100un_uzerinde_artan_meyve_turlerinin_fiyat_degisim_analizi.png](outputs/fiyatı_bir_önceki_satış_fiyatına_göre_100un_uzerinde_artan_meyve_turlerinin_fiyat_degisim_analizi.png)
+![fiyatı_bir_önceki_satış_fiyatına_göre_100un_uzerinde_artan_meyve_turlerinin_fiyat_degisim_analizi.png](outputs/fiyatı_bir_önceki_satış_fiyatına_göre_100un_uzerinde_artan_meyve_turlerinin_fiyat_degisim_analizi.png)
 
  2023-01-16 tarihinde Elma Fuji'nin fiyatı 4 TL iken, 2023-01-16'da 10 TL'ye yükselmiş ve %150'lik bir artış göstermiş. Yine elma türü olan Elma Muhtelif 2022-05-28'de 3 TL'den 7.5 TL'ye yükselerek %150'lik bir artış göstermiş. iki elma türününde elma fuji ve elma muhtelif'in olması da dikkat çekici kısımlar arasında yer almaktadır.Bahar sonu yaz başı döneminde gerçekleşen bu artış, stokların azalması ve yeni sezon ürünlerinin henüz piyasaya girmemesiyle ilişkili olabilir. Elma gibi ürünlerde, üretim fazlası olmadığı zaman fiyatlar hızla artabilir ve bu da ekonomik faktörlerin yanı sıra üretim maliyetlerindeki artışa da bağlı olabilir.Erik Çeşitlerine baktığımızda 2022-12-19 tarihinde Erik'in fiyatı 6 TL'den 12.5 TL'ye yükselerek %108.33'lük bir artış göstermiş. Kış mevsiminde görülen bu artış, erik mevsiminin çoktan geçmiş olması ve arz kısıtlılığından kaynaklanmış olabilir. Ayrıca, Erik Murdum'daki artış (3.5 TL'den 7.5 TL'ye, %114.29) yine aynı dönemde gerçekleşmiş ve bu da aynı sebeplerle açıklanabilir.iki erik çeşidinin olması da dikkat çekici kısımlar arasında yer almaktadır.
  Greyfurt 2024-04-04'te 8 TL'den 19 TL'ye çıkarak %137.5'lik bir artış göstermiş.lkbahar döneminde görülen bu artış, narenciye sezonunun sonuna yaklaşılmasıyla ilişkili olabilir.  Ayrıca, 2024-08-10 tarihindeki ikinci artışta 22.5 TL'den 47.5 TL'ye yükselerek %111.11'lik bir artış yaşanmış. Bu ikinci artış, özellikle sezon sonu stok azalması ve fiyatların hızla tırmanmasıyla ilişkilendirilebilir.
@@ -489,7 +492,7 @@ Genel olarak, bu fiyat artışlarının çoğu mevsimsel değişimler, üretim m
 
 -------------------------------------------------------------------------------------------
 
-[fiyatı_bir_önceki_satış_fiyatına_göre_100un_uzerinde_artan_sebze_turlerinin_fiyat_degisim_analizi.png](outputs/fiyatı_bir_önceki_satış_fiyatına_göre_100un_uzerinde_artan_sebze_turlerinin_fiyat_degisim_analizi.png)
+![fiyatı_bir_önceki_satış_fiyatına_göre_100un_uzerinde_artan_sebze_turlerinin_fiyat_degisim_analizi.png](outputs/fiyatı_bir_önceki_satış_fiyatına_göre_100un_uzerinde_artan_sebze_turlerinin_fiyat_degisim_analizi.png)
 
 Grafik, 2022-2023 yılları arasında sebze türlerinin bir önceki satış fiyatına göre %100'ün üzerinde artış gösteren ürünlerin fiyat değişim analizini göstermektedir.
 
@@ -556,7 +559,7 @@ Düşük fiyatlı ürünlerde daha yüksek oranlı artışlar görülürken, bro
 
 ---------------------------------------------------------------------------------------------
 
-[fiyatı_bir_önceki_satış_fiyatına_göre_50_nın_uzerinde_artan_İthal_turlerinin_fiyat_degisim_analizi.png](outputs/fiyatı_bir_önceki_satış_fiyatına_göre_50_nın_uzerinde_artan_İthal_turlerinin_fiyat_degisim_analizi.png)
+![fiyatı_bir_önceki_satış_fiyatına_göre_50_nın_uzerinde_artan_İthal_turlerinin_fiyat_degisim_analizi.png](outputs/fiyatı_bir_önceki_satış_fiyatına_göre_50_nın_uzerinde_artan_İthal_turlerinin_fiyat_degisim_analizi.png)
 
 
 
@@ -573,7 +576,7 @@ Dönemsel olarak bakıldığında, 2022'nin ikinci yarısında özellikle avakad
 2022-2023'te görülen ani ve yüksek artışların 2024'te olmaması, ithal ürün piyasasında göreceli bir istikrara işaret etmektedir. 
 
 
-[fiyatı_bir_önceki_satış_fiyatına_göre_2024_ithal_turlerinin_fiyat_degisim_analizi.png](outputs/fiyatı_bir_önceki_satış_fiyatına_göre_2024_ithal_turlerinin_fiyat_degisim_analizi.png)
+![fiyatı_bir_önceki_satış_fiyatına_göre_2024_ithal_turlerinin_fiyat_degisim_analizi.png](outputs/fiyatı_bir_önceki_satış_fiyatına_göre_2024_ithal_turlerinin_fiyat_degisim_analizi.png)
 
 Bu grafik 2024 yılı ithal ürünlerin bir önceki güne göre En yüksek fiyat değişimlerini göstermektedir.Pıtahaya meyvesi %50 ile en yüksek fiyat artışını göstermiş,Hindistan cevizi %36.8 ile ikinci sırada,Sarımsak %35.3 ile üçüncü sırada,Avokado, Biber (Kaliforniya) ve Mango %33-34 aralığında artış göstermiş,Ananas %30 civarında bir artış sergilemiş,Muz %26.9
 Elma ( Gsmith) %25,Kivi %21.7,Elma Starking %20 ve Zencefil %17.9 ile en düşük artışı göstermiştir.veriler 2024 yılı içerisindeki ithal ürünlerin en yüksek değişimleri olup  ortalama fiyatlar arasında, minimum ve maksimum fiyatlar arasında değişmeler meydana gelmiştir fakat bu değişmeler fazla fiyat farkları olarak görülmemiştir.düzenli fiyat artışları yaşanmıştır.
