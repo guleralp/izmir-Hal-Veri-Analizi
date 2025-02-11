@@ -1,3 +1,21 @@
+## İçindekiler
+
+*   [2022-2024 Yılları En Düşük Fiyatlı Sebze: Maydanoz Fiyat Analizi](outputs/2022_2023_2024_en_dusuk_fiyatli_sebze.png)
+*   [2022-2024 Yılları En Yüksek Fiyatlı Sebze: Kuru Sarımsak Fiyat Analizi](outputs/2022_2023_2024_en_yuksek_fiyatli_sebze.png)
+*   [2022-2024 Yılları En Yüksek Fiyatlı Meyve: Erik Can Fiyat Analizi](outputs/2022_2023_2024_yillarinda_en_yuksek_fiyata_sahip_meyve.png)
+*   [2022 Yılı En Az Fiyat Değişimi Gösteren 5 Ürün](outputs/2022_en_az_fiyat_degisimi_top5.png)
+*   [2022 İlkbahar En Yüksek Fiyat Değişimi Gösteren 5 Ürün](outputs/2022_ilkbahar_en_yuksek_fiyat_degisimi_top5.png)
+*   [2022 Kış En Yüksek Fiyat Değişimi Gösteren 5 Ürün](outputs/2022_kis_en_yuksek_fiyat_degisimi_top5.png)
+*   [2022 Sonbahar En Yüksek Fiyat Değişimi Gösteren 5 Ürün](outputs/2022_sonbahar_en_yuksek_fiyat_degisimi_top5.png)
+*   [2022 Yaz En Yüksek Fiyat Değişimi Gösteren 5 Ürün](outputs/2022_yaz_en_yuksek_fiyat_degisimi_top5.png)
+*   [2022 Yılı En Düşük Fiyatlı Ürün ve Fiyat Değişimi: Karpuz](outputs/2022_yili_en_dusuk_fiyatli_urun_ve_fiyat_degisimi.png)
+*   [2022 Yılı En Yüksek Fiyatlı Ürün ve Fiyat Değişimi: Can Eriği](outputs/2022_yili_en_yuksek_fiyatli_urun_ve_fiyat_degisimi.png)
+*   [2022 Yılı En Yüksek Fiyat Değişimi Gösteren 5 Ürün](outputs/2022_yili_en_yuksek_fiyat_degisimi_top5.png)
+*   [2022 Yılı Meyve Kategorisindeki En Yüksek Fiyat Değişimi: Can Eriği](outputs/2022_yilina_ait_meyve_kategorisindeki_en_yuksek_can_erigi_fiyat_degisimi.png)
+*   [2022 Yılı Sebze Kategorisindeki En Yüksek Fiyat: Mantar (İstiridye)](outputs/2022_yilina_ait_sebze_kategorisindeki_en_yuksek_fiyat.png)
+
+
+
 
 ![2022_2023_2024_en_dusuk_fiyatli_sebze.png](outputs/2022_2023_2024_en_dusuk_fiyatli_sebze.png)
 
