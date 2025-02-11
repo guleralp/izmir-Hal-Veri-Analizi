@@ -2,6 +2,7 @@
 ![2022_2023_2024_en_dusuk_fiyatli_sebze.png](outputs/2022_2023_2024_en_dusuk_fiyatli_sebze.png)
 
 
+
 Bu grafik, 2022-2024 yılları arasında en düşük fiyatlı sebze olan maydanozun fiyat değişimlerini göstermektedir. Grafikte üç farklı fiyat göstergesi bulunmaktadır. 2022 Yılı Minimum Fiyat: 0.5 TL, Maksimum Fiyat: 4.00 TL, Ortalama Fiyat: 2.25 TL olarak görülüyor.En yüksek fiyat dalgalanması Ocak-Mart,Ağustos-Eylül dönemlerinde görülmüş.2023 Yılı Minimum Fiyat: 1.25 TL, Maksimum Fiyat: 7.00 TL, Ortalama Fiyat: 4.00 TL olarak görülüyor. Mayıs ayından itibaren fiyatlar yükseliş trendine girmiş,2022'ye göre ortalama fiyatta %60 artış (2.25 TL → 4 TL) göstermiştir. 2024 Yılı
  Minimum Fiyatı 1.25 TL- 3.00 TL (Tüm yıl boyunca sabit), Maksimum Fiyatı 10.00 TL, Ortalama Fiyatı 5.63 TL olmuş ve Şubat ayında keskin bir fiyat artışı yaşanmıştır. Yıllık Artış 2023'e göre ortalama fiyatta %41 artış (4 TL → 5.63 TL),Kümülatif Artış olarak da 2022'den 2024'e ortalama fiyatta toplam %150 artış (2.25 TL → 5.63 TL) göstermiştir.
 
@@ -16,9 +17,12 @@ Genel Fiyat Artış Trendi 2022'den 2024'e kadar fiyatlarda belirgin bir yüksel
 Sonuç ve Değerlendirme
 Bu grafik, en temel sebzelerden biri olan maydanozun bile son üç yılda önemli fiyat artışları yaşadığını ortaya koymaktadır. Özellikle 2024 yılı başında gözlemlenen sert fiyat artışı, temel gıda maddelerine erişimde zorlukların arttığını göstermektedir.Fiyat istikrarı açısından minimum fiyatların 2024 yılında daha sabit seyretmesi, piyasada bir dengeleme çabasının olduğunu düşündürmektedir. Ancak, maksimum fiyatlardaki devam eden dalgalanmalar, piyasada belirsizliğin sürdüğüne işaret etmektedir.Bununla birlikte, mevsimsel etkiler, özellikle ilkbahar ve kış aylarında fiyat dalgalanmalarının belirginleştiğini ortaya koymaktadır. Kış aylarında fiyatların genel olarak yükselmesi, üretim maliyetlerindeki artış ve arz-talep dengesizlikleriyle ilişkilendirilebilir. Yaz aylarında görece daha istikrarlı fiyat hareketleri ise, üretimin artması ve arzın daha güçlü olmasından kaynaklanıyor olabilir.Genel olarak, 2022 yılında daha stabil seyreden fiyatların, 2023 ortalarından itibaren kademeli bir yükseliş trendine girdiği ve 2024'te zirve noktalarına ulaştığı görülmektedir. Bu durum, enflasyon, tarım politikaları, iklim koşulları ve tedarik zinciri gibi faktörlerin fiyatlar üzerindeki baskısının arttığını göstermektedir.Özetle, maydanoz gibi temel bir sebzenin fiyatındaki bu keskin artışlar, genel tarımsal ürünler piyasasında yaşanan değişimlerin bir yansımasıdır. Önümüzdeki dönemlerde, fiyat dalgalanmalarının hangi seviyelerde dengeleneceği ve piyasa koşullarının nasıl şekilleneceği önemli bir soru olarak karşımıza çıkmaktadır.
 
+
 ---------------------------------------------------------------------------------------------------
 
+
 ![2022_2023_2024_en_yuksek_fiyatli_sebze.png](outputs/2022_2023_2024_en_yuksek_fiyatli_sebze.png)
+
 
 
  Yıllara Göre Fiyat Analizi:
@@ -60,8 +64,10 @@ Bu grafik, en temel sebzelerden biri olan maydanozun bile son üç yılda öneml
 Bu grafik, temel bir gıda maddesi olan kuru sarımsağın son üç yılda çok ciddi fiyat artışları yaşadığını ortaya koymaktadır. Özellikle 2024 yılının son döneminde gözlemlenen sert fiyat artışı, ürüne erişimde önemli zorluklar yaşandığını göstermektedir. Fiyat istikrarı açısından 2022 yılında daha dengeli bir seyir izleyen fiyatlar, 2023'ün ikinci yarısından itibaren yükseliş trendine girmiş ve 2024'te bu trend hızlanarak devam etmiştir. Minimum ve maksimum fiyatlar arasındaki makasın giderek açılması, piyasadaki dengesizliğin ve belirsizliğin arttığına işaret etmektedir.
 
 Mevsimsel etkiler, özellikle hasat sonrası dönemlerde fiyat dalgalanmalarının belirginleştiğini ortaya koymaktadır. 2024 yılındaki rekor fiyat artışları, üretim maliyetlerindeki artış, arz-talep dengesizlikleri ve muhtemel spekülatif hareketlerle ilişkilendirilebilir. Genel olarak, 2022 yılında daha stabil seyreden fiyatların, 2023 ortalarından itibaren kademeli bir yükseliş trendine girdiği ve 2024'te zirve noktalarına ulaştığı görülmektedir. Bu durum, enflasyon, tarım politikaları, iklim koşulları ve tedarik zinciri gibi faktörlerin fiyatlar üzerindeki baskısının arttığını göstermektedir. Özetle, kuru sarımsak fiyatlarındaki bu dramatik artışlar, tarım ürünleri piyasasında yaşanan ciddi sorunların bir göstergesidir. Önümüzdeki dönemde fiyatların nasıl seyredeceği ve piyasa dengesinin nasıl sağlanacağı önemli bir soru işareti olarak karşımıza çıkmaktadır.
+
+
 ---------------------------------------------------------------------------
-2022-2023-2024 Yılları En Yüksek Fiyatlı Meyve Analizi: Erik Can 
+
 
 ![2022_2023_2024_yillarinda_en_yuksek_fiyata_sahip_meyve.png](outputs/2022_2023_2024_yillarinda_en_yuksek_fiyata_sahip_meyve.png)
 
@@ -108,6 +114,7 @@ Bu değişimler, can eriği piyasasının son yıllarda giderek daha dalgalı bi
 
 
 ![2022_en_az_fiyat_degisimi_top5.png](outputs/2022_en_az_fiyat_degisimi_top5.png)
+
 
 Bu analiz, 2022 yılında fiyat dalgalanması en az olan beş tarım ürününe odaklanmaktadır. Fiyat değişimleri incelendiğinde, özellikle Mandalina (Takoz) ve yeşillik grubu ürünlerinin piyasada oldukça stabil bir seyir izlediği görülmektedir.
 
