@@ -6,8 +6,8 @@
 - [2022-2023-2024 Yılları En Yüksek Fiyatlı Sebze](#2022-2023-2024-yillari-en-yuksek-fiyatli-sebze)
 - [2022-2023-2024 Yılları En Yüksek Fiyata Sahip Meyve](#2022-2023-2024-yılları-en-yüksek-fiyata-sahip-meyve)
 - [2022 Yilinda En Az Fiyat Degisimi Gösteren 5 Ürün:](#2022-yilinda-en-az-fiyat-degisimi-gösteren-5-ürün)
+ - [2022 Yılı İlkbahar Mevsiminde En Yüksek Fiyat Değişimi Gösteren 5 Ürün](#2022-yılı-ilkbahar-mevsiminde-en-yüksek-fiyat-değişimi-gösteren-5-ürün)
 
-- [2022 Yılı İlkbahar Mevsiminde En Yüksek Fiyat Değişimi Gösteren 5 Ürün](#2022-yılı-ilkbahar-mevsiminde-en-yüksek-fiyat-değişimi-gösteren-5-ürün)
 
 
 
@@ -230,6 +230,7 @@ Mevsimsel değişimlerden benzer şekilde etkilenmeleri,Piyasada birbirine bağl
 ---------------------------------------------------------------------------
 
 ## 2022 Yılı İlkbahar Mevsiminde En Yüksek Fiyat Değişimi Gösteren 5 Ürün
+
 
 
 
