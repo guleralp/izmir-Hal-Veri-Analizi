@@ -2,11 +2,13 @@
 
 # 📌 İçindekiler 
 
-- [2022-2023-2024 Yılları En Düşük Fiyatli Sebze:](#2022-2023-2024-yılları-en-düşük-fiyatli-sebze)
+- [2022-2023-2024 YILLARI EN DÜŞÜK FİYATLI SEBZE:](#2022-2023-2024-yılları-en-düşük-fiyatli-sebze)
 - [2022-2023-2024 Yılları En Yüksek Fiyatlı Sebze](#2022-2023-2024-yillari-en-yuksek-fiyatli-sebze)
 - [2022-2023-2024 Yılları En Yüksek Fiyata Sahip Meyve](#2022-2023-2024-yılları-en-yüksek-fiyata-sahip-meyve)
 - [2022 Yilinda En Az Fiyat Degisimi Gösteren 5 Ürün:](#2022-yilinda-en-az-fiyat-degisimi-gösteren-5-ürün)
 - [2022 Yılı İlkbahar Mevsiminde En Yüksek Fiyat Değişimi Gösteren 5 Ürün](#2022-yılı-i̇lkbahar-mevsiminde-en-yüksek-fiyat-değişimi-gösteren-5-ürün)
+
+
  
 
 
@@ -19,13 +21,7 @@
 
 
 
-
-
-
-
-
-
-## 2022-2023-2024 Yılları En Düşük Fiyatli Sebze:
+## 2022-2023-2024 YILLARI EN DÜŞÜK FİYATLI SEBZE:
 
 
 
@@ -426,22 +422,10 @@ Sonbahar mevsiminde olunmasına rağmen çileğin listede olması ve en yüksek 
 ![2023_yaz_en_yuksek_fiyat_degisimi_top5.png](outputs/2023_yaz_en_yuksek_fiyat_degisimi_top5.png)
 
 
-2023 yılı yaz mevsimindeki en yüksek fiyat değişimine sahip ilk 5 ürün şu şekilde sıralanmıştır.Kiraz salihli, üzüm siyah, Nar, Kiraz ve kivi olmuştur.
-
-Kiraz Salihli: 40 TL'lik fiyat değişimi ile listenin başında yer alıyor. Fiyatlar 15 TL ile 55 TL arasında dalgalanmış. Bu büyük fark, ürünün fiyat istikrarının düşük olduğunu ve talep arttıkça fiyatların hızla yükseldiğini gösteriyor. Kirazın sezon başlangıcında düşük fiyatlarla piyasaya sunulup, talep arttıkça fiyatların yükselmesi olasılığına işaret edebilir.
-
-Üzüm Siyah: 31,5 TL'lik fiyat değişimi ile ikinci sırada. Fiyatlar 8,5 TL ile 40 TL arasında değişmiş. Üzüm, yaz mevsiminin karakteristik meyvelerinden biri olup, hasat döneminin başlangıcı ve sonunda arz farklılıkları bu dalgalanmanın temel nedenidir. Üretim miktarındaki mevsimsel dalgalanmalar, fiyatlarda önemli değişimlere yol açmıştır.
-
-Nar: 29,5 TL'lik fiyat değişimi ile üçüncü sırada yer alıyor. Fiyat aralığı 25 TL ile 54,5 TL arasında dalgalanmış. Nar en yüksek başlangıç fiyatına sahip olmuştur.
-
-Kiraz: 29,5 TL'lik fiyat değişimi gösteren kiraz, yaz meyveleri arasında en yüksek fiyat dalgalanması gösteren ürünlerden biridir. Fiyatlar 10,5 TL ile 40 TL arasında değişmiş. 
-
-Kivi: 29 TL'lik fiyat değişimiyle listede yer bulan kivi, genellikle yaz mevsiminde depodan çıkarılarak piyasaya sunulur. Fiyatlar 11 TL ile 40 TL arasında değişmiş. Kivi fiyatlarındaki dalgalanma, stok durumu ve ithalat politikalarındaki değişikliklerden etkilenmiş olabilir.
-
-Grafikte her bir ürün için gösterilen minimum ve maksimum değerler, fiyat aralıklarının ne kadar geniş olduğunu net bir şekilde ortaya koyuyor. Bu, yaz mevsiminde meyve fiyatlarının dinamik bir yapıya sahip olduğunu gösteriyor. Özellikle Kiraz Salihli'nin diğer ürünlere göre belirgin şekilde yüksek fiyat değişimi göstermesi, bu ürünün fiyat istikrarı açısından en hassas ürün olduğunu vurguluyor.Nar, başlangıç fiyatı olarak 25 TL ile en yüksek fiyata sahipken, Üzüm Siyah ise 8.5 TL ile en düşük fiyata sahip. Bu durum, ürünlerin piyasaya giriş fiyatlarının oldukça farklı olduğunu gösteriyor. Diğer yandan, Nar, Kiraz ve Kivi'nin fiyat değişimleri birbirine oldukça yakın seviyelerde kalıyor, 29-29.5 TL arasında değişiyor. Bu da yaz meyvelerinin fiyatlarının zaman zaman paralel bir şekilde hareket ettiğini işaret ediyor. Fiyat istikrarı açısından ürünler arasında belirgin farklar olduğu da dikkat çekiyor. Ayrıca Kiraz, üzüm ve nar gibi yaz meyvelerinin fiyatlarındaki dalgalanma, meyvelerin olgunlaşma süreci ve hasat dönemiyle doğrudan bağlantılı olarak değişebilir. Bu meyvelerin fiyatları, mevsimsel döngüler ve olgunlaşma süreçlerine bağlı olarak dalgalanır. Kivi fiyatları ise daha çok ithalat ve stok durumları gibi faktörlerden etkilenir, çünkü kivi yerli üretim açısından yaz meyvelerine göre daha az yaygındır ve yıl boyunca ithalatla karşılanır. Bu meyvelerin fiyatları, genel olarak hasat dönemi boyunca değişiklik gösterir ve her birinin yetişme koşulları ve türlerine göre farklılıklar ortaya çıkar.
+2023 yılı yaz mevsiminde en yüksek fiyat değişimine sahip ilk 5 ürünü incelediğimizde, Erik Can'ın 75 TL'lik fiyat değişimi ile listenin başında yer aldığını görüyoruz. Erik Can'ın minimum fiyatı 25 TL, maksimum fiyatı ise 100 TL olarak kaydedilmiştir. İkinci sırada yer alan Zencefil 55 TL'lik bir fiyat değişimi göstermiş olup, fiyatları 80 TL ile 135 TL arasında dalgalanmıştır. Üçüncü sırada bulunan Fasulye Çalı 45.5 TL'lik bir değişim sergilemiş ve fiyatları 20 TL'den başlayıp 65.5 TL'ye kadar yükselmiştir. Dördüncü sırada bulunan İncir 45 TL'lik bir fiyat değişimi göstermiş, minimum 65 TL'den başlayıp maksimum 110 TL'ye ulaşmıştır. Son olarak Kivi 45 TL'lik bir fiyat değişimi ile beşinci sırada yer almış ve fiyatları 32.5 TL ile 77.5 TL arasında seyretmiştir.İncir'in minimum fiyatının (65 TL) diğer ürünlere göre oldukça yüksek olmasıdır. Ayrıca Zencefil'in hem minimum hem de maksimum fiyatlarının diğer ürünlere kıyasla daha yüksek bir bantta seyretmesi, bu ürünün genel olarak daha pahalı bir ürün olduğunu göstermektedir.Erik Can, 75 TL'lik değişimle en yüksek fiyat dalgalanmasını gösterirken, bunu 55 TL'lik değişimle Zencefil takip etmiştir. Fasulye Çalı, İncir ve Kivi ise 45-45.5 TL arasında birbirine yakın değişimler sergilemiştir. Fiyat seviyeleri açısından bakıldığında, Zencefil 80-135 TL bandıyla en yüksek fiyat aralığında seyrederken, İncir 65 TL'lik başlangıç fiyatıyla ikinci sırada yer almıştır. Erik Can ise 25-100 TL arasındaki fiyat hareketiyle en geniş fiyat aralığına sahip ürün olmuştur. Mevsimsellik açısından dikkat çekici noktalar da bulunmaktadır; Erik Can ve İncir gibi mevsimsel ürünlerde yüksek fiyat dalgalanmaları gözlemlenirken, normalde kış meyvesi olan Kivi'nin listede yer alması şaşırtıcı olmuştur. İthal bir ürün olan Zencefil'in fiyatlarının sürekli yüksek seviyelerde seyretmesi, yerli ve ithal ürünler arasındaki belirgin fiyat farklarını ortaya koymaktadır. Yaz mevsiminde bile ürün fiyatlarında ciddi dalgalanmaların yaşanması ve temel gıda ürünlerinde görülen yüksek fiyat oynaklığı, piyasadaki istikrarsızlığın önemli göstergeleri olarak karşımıza çıkmaktadır.
 
 
----------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------
 
 ## 2023 YILI MEYVE KATEGORISINDEKI EN YUKSEK FIYATA SAHIP URUN VE FIYAT DEGISTIMI:
 
