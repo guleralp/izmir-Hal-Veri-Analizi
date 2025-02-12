@@ -9,7 +9,8 @@
 - [2022 Yılı İlkbahar Mevsiminde En Yüksek Fiyat Değişimi Gösteren 5 Ürün](#2022-yılı-i̇lkbahar-mevsiminde-en-yüksek-fiyat-değişimi-gösteren-5-ürün)
 
 
- 
+ - [2022 Yılı Kış Mevsiminde En Yüksek Fiyat Değişimi Gösteren 5 Ürün](#2022-yılı-kış-mevsiminde-en-yüksek-fiyat-değişimi-gösteren-5-ürün)
+
 
 
 
@@ -187,7 +188,8 @@ Grafik, 2022 yılı ilkbahar mevsiminde en yüksek fiyat değişimine sahip ilk 
 ---------------------------------------------------------------------------
 
 
- ## 2022 YILI KIS MEVSIMINDE EN YUKSEK FIYAT DEGISIMI GÖSTEREN 5 ÜRÜN:
+ ## 2022 Yılı Kış Mevsiminde En Yüksek Fiyat Değişimi Gösteren 5 Ürün
+
 
 ![2022_kis_en_yuksek_fiyat_degisimi_top5.png](outputs/2022_kis_en_yuksek_fiyat_degisimi_top5.png)
 
