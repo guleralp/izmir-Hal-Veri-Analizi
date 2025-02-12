@@ -5,6 +5,11 @@
 - [2022-2023-2024 Yılları En Düşük Fiyatlı Sebze](#2022-2023-2024-yillari-en-dusuk-fiyatli-sebze)
 - [2022-2023-2024 Yılları En Yüksek Fiyatlı Sebze](#2022-2023-2024-yillari-en-yuksek-fiyatli-sebze)
 - [2022-2023-2024 Yılları En Yüksek Fiyata Sahip Meyve](#2022-2023-2024-yillari-en-yuksek-fiyata-sahip-meyve)
+
+-[2022-2023-2024 Yılları En Yüksek Fiyata Sahip Meyve](#2022-2023-2024-yillarinda-en-yuksek-fiyata-sahip-meyve)
+
+
+
 - [2022 Yılında En Az Fiyat Değişimi Gösteren 5 Ürün](#2022-yilinda-en-az-fiyat-degisimi-gosteren-5-urun)
 - [2022 Yılı İlkbahar Mevsiminde En Yüksek Fiyat Değişimi Gösteren 5 Ürün](#2022-yili-ilkbahar-mevsiminde-en-yuksek-fiyat-degisimi-gosteren-5-urun)
 - [2022 Yılı Kış Mevsiminde En Yüksek Fiyat Değişimi Gösteren 5 Ürün](#2022-yili-kis-mevsiminde-en-yuksek-fiyat-degisimi-gosteren-5-urun)
