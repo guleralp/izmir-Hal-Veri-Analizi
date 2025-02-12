@@ -3,9 +3,8 @@
 # 📌 İçindekiler  
 
 - [2022-2023-2024 Yılları En Düşük Fiyatlı Sebze](#2022-2023-2024-yillari-en-dusuk-fiyatli-sebze)
-  
+- [2022-2023-2024 Yılları En Yüksek Fiyatlı Sebze](
 
-- [2022-2023-2024 Yılları En Yüksek Fiyatlı Sebze](#2022-2023-2024-yillari-en-yuksek-fiyatli-sebze)  
 
 
 
@@ -41,7 +40,7 @@ Bu grafik, en temel sebzelerden biri olan maydanozun bile son üç yılda öneml
 ------------------------------------------------------------------------
 
 
-# 2022-2023-2024 Yılları En Yüksek Fiyatlı Sebze  
+## 2022-2023-2024 Yillari En Yuksek Fiyatli Sebze 
 
 
 
@@ -91,7 +90,7 @@ Mevsimsel etkiler, özellikle hasat sonrası dönemlerde fiyat dalgalanmaların�
 ---------------------------------------------------------------------------
 
 
-2022-2023-2024 Yılları En Yüksek Fiyata Sahip Meyve:
+## 2022-2023-2024 Yillari En Yuksek Fiyata Sahip Meyve:
 
 ![2022_2023_2024_yillarinda_en_yuksek_fiyata_sahip_meyve.png](outputs/2022_2023_2024_yillarinda_en_yuksek_fiyata_sahip_meyve.png)
 
@@ -137,7 +136,7 @@ Bu değişimler, can eriği piyasasının son yıllarda giderek daha dalgalı bi
 ---------------------------------------------------------------------------
 
 
-2022 Yılında En Az Fiyat Değişimi Gösteren 5 Ürün:
+## 2022 Yilinda En Az Fiyat Degisimi Gösteren 5 Ürün:
 
 ![2022_en_az_fiyat_degisimi_top5.png](outputs/2022_en_az_fiyat_degisimi_top5.png)
 
@@ -170,7 +169,7 @@ Mevsimsel değişimlerden benzer şekilde etkilenmeleri,Piyasada birbirine bağl
 ---------------------------------------------------------------------------
 
 
-2022 YILI İLKBAHAR MEVSİMİNDE EN YÜKSEK FİYAT DEĞİŞİMİ GÖSTEREN 5 ÜRÜN:
+## 2022 YILI ILKBAHAR MEVSIMINDE EN YUKSEK FIYAT DEGISIMI GÖSTEREN 5 ÜRÜN:
 
 ![2022_ilkbahar_en_yuksek_fiyat_degisimi_top5.png](outputs/2022_ilkbahar_en_yuksek_fiyat_degisimi_top5.png)
 
@@ -180,7 +179,7 @@ Grafik, 2022 yılı ilkbahar mevsiminde en yüksek fiyat değişimine sahip ilk 
 
 ---------------------------------------------------------------------------
 
-2022 YILI KIS MEVSİMİNDE EN YÜKSEK FİYAT DEĞİŞİMİ GÖSTEREN 5 ÜRÜN:
+ ## 2022 YILI KIS MEVSIMINDE EN YUKSEK FIYAT DEGISIMI GÖSTEREN 5 ÜRÜN:
 
 ![2022_kis_en_yuksek_fiyat_degisimi_top5.png](outputs/2022_kis_en_yuksek_fiyat_degisimi_top5.png)
 
@@ -196,7 +195,7 @@ Genel olarak bakıldığında, kış mevsiminde fiyat değişimi en yüksek olan
 
 -------------------------------------------------------------------------
 
-2022 YILI SONBAHAR MEVSİMİNDE EN YÜKSEK FİYAT DEĞİŞİMİ GÖSTEREN 5 ÜRÜN:
+## 2022 YILI SONBAHAR MEVSIMINDE EN YUKSEK FIYAT DEGISIMI GÖSTEREN 5 ÜRÜN:
 
 ![2022_sonbahar_en_yuksek_fiyat_degisimi_top5.png](outputs/2022_sonbahar_en_yuksek_fiyat_degisimi_top5.png)
 
@@ -216,7 +215,7 @@ Genel olarak bakıldığında, sonbahar mevsiminde fiyat değişimi en yüksek o
 
 --------------------------------------------------------------------------
 
-2022 YILINDA YAZ MEVSİMİNDE EN YÜKSEK FİYAT DEĞİŞİMİ GÖSTEREN 5 ÜRÜN:
+## 2022 YILINDA YAZ MEVSIMINDE EN YUKSEK FIYAT DEGISIMI GÖSTEREN 5 ÜRÜN:
 
 ![2022_yaz_en_yuksek_fiyat_degisimi_top5.png](outputs/2022_yaz_en_yuksek_fiyat_degisimi_top5.png)
 
@@ -238,7 +237,7 @@ Grafikte her bir ürün için gösterilen minimum ve maksimum değerler, fiyat a
 
 ---------------------------------------------------------------------------
 
-2022 YILI EN DÜŞÜK FİYATA SAHİP ÜRÜN VE FİYAT DEĞİŞİMİ:
+## 2022 YILI EN DÜŞÜK FIYATA SAHIP ÜRÜN VE FIYAT DEGISIMI:
 
 ![2022_yili_en_dusuk_fiyatli_urun_ve_fiyat_degisimi.png](outputs/2022_yili_en_dusuk_fiyatli_urun_ve_fiyat_degisimi.png)
 
@@ -249,7 +248,7 @@ Nisan ayında fiyatlarda ani bir yükseliş gözlemlenmiştir. Minimum fiyatlar 
 
 ----------------------------------------------------------------------------------
 
-2022 YILI EN YÜKSEK FİYATA SAHİP ÜRÜN VE FİYAT DEĞİŞİMİ:
+## 2022 YILI EN YUKSEK FIYATA SAHIP ÜRÜN VE FIYAT DEGISIMI:
 
 ![2022_yili_en_yuksek_fiyatli_urun_ve_fiyat_degisimi.png](outputs/2022_yili_en_yuksek_fiyatli_urun_ve_fiyat_degisimi.png)
 
@@ -259,7 +258,7 @@ Grafik 2022 Yılı İçindeki En Yüksek Fiyata Sahip Can Eriği fiyatlarının 
 
 -----------------------------------------------------------------------------------
 
-2022 YILI EN YÜKSEK FİYAT DEĞİŞİM GÖSTEREN 5 ÜRÜN:
+## 2022 YILI EN YUKSEK FIYAT DEGISIM GÖSTEREN 5 ÜRÜN:
 
 
 ![2022_yili_en_yuksek_fiyat_degisimi_top5.png](outputs/2022_yili_en_yuksek_fiyat_degisimi_top5.png)
@@ -304,7 +303,7 @@ Diğer dört ürün olan Nar, Üzüm Muht, Mantar (İstiridye) ve Kiraz ise fiya
 
 ------------------------------------------------------------------------
 
-2022 YILINA AİT MEYVE KATEGORİSİNDEKİ EN YÜKSEK FİYATA SAHİP ÜRÜN VE FİYAT DEĞİŞİMİ:
+## 2022 YILINA AIT MEYVE KATEGORISINDEKI EN YUKSEK FIYATA SAHIP ÜRÜN VE FIYAT DEGISIMI:
 
 ![2022_yilina_ait_meyve_kategorisindeki_en_yuksek_can_erigi_fiyat_degisimi.png](outputs/2022_yilina_ait_meyve_kategorisindeki_en_yuksek_can_erigi_fiyat_degisimi.png)
 
@@ -314,7 +313,7 @@ Diğer dört ürün olan Nar, Üzüm Muht, Mantar (İstiridye) ve Kiraz ise fiya
 
 ---------------------------------------------------------------------------------------------------
 
-2022 YILINA AİT SEBZE KATEGORİSİNDEKİ EN YÜKSEK FİYATA SAHİP ÜRÜN VE FİYAT DEĞİŞİMİ:
+## 2022 YILINA AIT SEBZE KATEGORISINDEKI EN YUKSEK FIYATA SAHIP ÜRÜN VE FIYAT DEGISIMI:
 
 ![2022_yilina_ait_sebze_kategorisindeki_en_yuksek_fiyat.png](outputs/2022_yilina_ait_sebze_kategorisindeki_en_yuksek_fiyat.png)
 
@@ -324,7 +323,7 @@ Diğer dört ürün olan Nar, Üzüm Muht, Mantar (İstiridye) ve Kiraz ise fiya
 
 ---------------------------------------------------------------------------------------------------
 
-2023 YILI EN AZ FİYAT DEĞİŞİMİ GÖSTEREN 5 ÜRÜN:
+## 2023 YILI EN AZ FIYAT DEGISIMI GÖSTEREN 5 ÜRÜN:
 
 ![2023_en_az_fiyat_degisimi_ilk_5_urun.png](outputs/2023_en_az_fiyat_degisimi_ilk_5_urun.png)
 
@@ -337,7 +336,7 @@ Bu veriler ışığında, 2023 yılında gıda ürünlerinin fiyat hareketlerind
  --------------------------------------------------------------------------------------------------
 
 
-2023 YILI EN YÜKSEK FİYAT DEĞİŞİMİ GÖSTEREN 5 ÜRÜN:
+## 2023 YILI EN YUKSEK FIYAT DEGISIMI GÖSTEREN 5 ÜRÜN:
 
 
  ![2023_en_yuksek_fiyat_degisimi_top5](outputs/2023_en_yuksek_fiyat_degisimi_top5.png)
@@ -349,7 +348,7 @@ Sonuç olarak,2023 yılında en yüksek fiyat değişimine sahip ürünler sıra
 
 --------------------------------------------------------------------------------------------------
 
-2023 YILINDA EN AZ FİYAT DEĞİŞİMİ GÖSTEREN ÜRÜN VE FİYAT DEĞİŞİMİ:
+## 2023 YILINDA EN AZ FIYAT DEGISIMI GÖSTEREN ÜRÜN VE FIYAT DEGISIMI:
 
 ![2023_en_dusuk_fiyatli_urun_degisimi.png](outputs/2023_en_dusuk_fiyatli_urun_degisimi.png)
 
@@ -359,7 +358,7 @@ Sonuç olarak,2023 yılında en yüksek fiyat değişimine sahip ürünler sıra
 
 --------------------------------------------------------------------------------------------------
 
-2023 YILINDA EN YÜKSEK FİYATLI ÜRÜN VE FİYAT DEĞİŞİMİ:
+## 2023 YILINDA EN YUKSEK FIYATLI ÜRÜN VE FIYAT DEGISIMI:
 
 ![2023_en_yuksek_fiyatli_urun_degisimi.png](outputs/2023_en_yuksek_fiyatli_urun_degisimi.png)
 
@@ -370,7 +369,7 @@ Bu istatistiksel göstergeler, piyasada Artan belirsizlik,Fiyat istikrarsızlı�
 
 --------------------------------------------------------------------------------------------------
 
-2023 YILI İLKBAHAR MEVSİMİNDE EN YÜKSEK FİYAT DEĞİŞİMİ GÖSTEREN 5 ÜRÜN:
+## 2023 YILI ILKBAHAR MEVSIMINDE EN YUKSEK FIYAT DEGISIMI GÖSTEREN 5 ÜRÜN:
 
 ![2023_ilkbahar_en_yuksek_fiyat_degisimi_top5.png](outputs/2023_ilkbahar_en_yuksek_fiyat_degisimi_top5.png)
 
@@ -383,7 +382,7 @@ En geniş fiyat aralığı Can eriğin de, En dar fiyat aralığı Cennet Elmas�
 
 --------------------------------------------------------------------------------------------------
 
-2023 YILI KIS MEVSİMİNDE EN YÜKSEK FİYAT DEĞİŞİMİ GÖSTEREN 5 ÜRÜN:
+## 2023 YILI KIS MEVSIMINDE EN YUKSEK FIYAT DEGISIMI GÖSTEREN 5 ÜRÜN:
 
 ![2023_kis_en_yuksek_fiyat_degisimi_top5.png](outputs/2023_kis_en_yuksek_fiyat_degisimi_top5.png)
 
@@ -394,7 +393,8 @@ Listede yer alan ürünlerin çoğu mevsimsel özellik gösteriyor, bu da kış 
 
 --------------------------------------------------------------------------------------------------
 
-2023 YILI SONBAHAR MEVSİMİNDE EN YÜKSEK FİYAT DEĞİŞİMİ GÖSTEREN 5 ÜRÜN:
+## 2023 YILI SONBAHAR MEVSIMINDE EN YUKSEK FIYAT DEGISTIMI GOSTEREN 5 URUN:
+
 
 ![2023_sonbahar_en_yuksek_fiyat_degisimi_top5.png](outputs/2023_sonbahar_en_yuksek_fiyat_degisimi_top5.png)
 
@@ -408,7 +408,8 @@ Sonbahar mevsiminde olunmasına rağmen çileğin listede olması ve en yüksek 
 ---------------------------------------------------------------------------------------------------
 
 
-2023 YILINDA YAZ MEVSİMİNDE EN YÜKSEK FİYAT DEĞİŞİMİ GÖSTEREN 5 ÜRÜN:
+## 2023 YILINDA YAZ MEVSIMINDE EN YUKSEK FIYAT DEGISTIMI GOSTEREN 5 URUN:
+
 
 ![2023_yaz_en_yuksek_fiyat_degisimi_top5.png](outputs/2023_yaz_en_yuksek_fiyat_degisimi_top5.png)
 
@@ -418,7 +419,7 @@ Sonbahar mevsiminde olunmasına rağmen çileğin listede olması ve en yüksek 
 
 --------------------------------------------------------------------------------------------------
 
-2023 YILI MEYVE KATEGORİSİNDEKİ EN YÜKSEK FİYATA SAHİP ÜRÜN VE FİYAT DEĞİŞİMİ:
+## 2023 YILI MEYVE KATEGORISINDEKI EN YUKSEK FIYATA SAHIP URUN VE FIYAT DEGISTIMI:
 
 ![2023_meyve_kategorisi_en_yuksek_fiyat_cilek_degisimi.png](outputs/2023_meyve_kategorisi_en_yuksek_fiyat_cilek_degisimi.png)
 
@@ -431,7 +432,7 @@ Maksimum fiyatta yaklaşık %300 artış (40 TL'den 160 TL'ye),Minimum fiyatta y
 
 ---------------------------------------------------------------------------------------------------
 
-2023 SEBZE KATEGORİSİNDE EN YÜKSEK FİYATA SAHİP ÜRÜN VE FİYAT DEĞİŞİMİ:
+## 2023 SEBZE KATEGORISINDE EN YUKSEK FIYATA SAHIP URUN VE FIYAT DEGISTIMI:
 
 ![2023_sebze_kategorisi_en_yuksek_fiyat_mantar_degisimi.png](outputs/2023_sebze_kategorisi_en_yuksek_fiyat_mantar_degisimi.png)
 
