@@ -66,7 +66,7 @@
 
 
 
-## 2022-2023-2024 YILLARI EN DÜŞÜK FİYATLI SEBZE:
+## 2022-2023-2024 YILLARI EN DÜŞÜK FİYATLI SEBZE
 
 
 ![2022_2023_2024_en_dusuk_fiyatli_sebze.png](outputs/2022_2023_2024_en_dusuk_fiyatli_sebze.png)
