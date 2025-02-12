@@ -7,7 +7,7 @@
 - [2022-2023-2024 Yılları En Yüksek Fiyata Sahip Meyve](#2022-2023-2024-yılları-en-yüksek-fiyata-sahip-meyve)
 - [2022 Yilinda En Az Fiyat Degisimi Gösteren 5 Ürün:](#2022-yilinda-en-az-fiyat-degisimi-gösteren-5-ürün)
 
-[2022 YILI ILKBAHAR MEVSİMİNDE EN YÜKSEK FİYAT DEĞİŞİMİ GÖSTEREN 5 ÜRÜN](#2022-yili-ilkbahar-mevsiminde-en-yuksek-fiyat-degisimi-gosteren-5-urun)
+-[2022 YILI ILKBAHAR MEVSİMİNDE EN YÜKSEK FİYAT DEĞİŞİMİ GÖSTEREN 5 ÜRÜN](#2022-yili-ilkbahar-mevsiminde-en-yuksek-fiyat-degisimi-gosteren-5-urun)
 
 
 
