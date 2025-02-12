@@ -1,6 +1,56 @@
-İçindekiler
 
-- [2022-2023-2024 YILLARI EN DÜŞÜK FİYATLI SEBZE:](2022_2023_2024_en_dusuk_fiyatli_sebze.png)
+
+# 📌 İçindekiler  
+
+- [2022-2023-2024 YILLARI EN DÜŞÜK FİYATLI SEBZE](#2022-2023-2024-yillari-en-dusuk-fiyatli-sebze)  
+- [2022-2023-2024 YILLARI EN YÜKSEK FİYATLI SEBZE](#2022-2023-2024-yillari-en-yuksek-fiyatli-sebze)
+- [2022-2023-2024 YILLARI EN YÜKSEK FİYATA SAHİP MEYVE](#2022-2023-2024-yillari-en-yuksek-fiyata-sahip-meyve)
+- [2022 YILINDA EN AZ FİYAT DEĞİŞİMİ GÖSTEREN 5 ÜRÜN](#2022-yilinda-en-az-fiyat-degisimi-gosteren-5-urun)
+- [2022 YILI İLKBAHAR MEVSİMİNDE EN YÜKSEK FİYAT DEĞİŞİMİ GÖSTEREN 5 ÜRÜN](#2022-yili-ilkbahar-mevsiminde-en-yuksek-fiyat-degisimi-gosteren-5-urun)
+- [2022 YILI KIŞ MEVSİMİNDE EN YÜKSEK FİYAT DEĞİŞİMİ GÖSTEREN 5 ÜRÜN](#2022-yili-kis-mevsiminde-en-yuksek-fiyat-degisimi-gosteren-5-urun)
+- [2022 YILI SONBAHAR MEVSİMİNDE EN YÜKSEK FİYAT DEĞİŞİMİ GÖSTEREN 5 ÜRÜN](#2022-yili-sonbahar-mevsiminde-en-yuksek-fiyat-degisimi-gosteren-5-urun)
+- [2022 YILINDA YAZ MEVSİMİNDE EN YÜKSEK FİYAT DEĞİŞİMİ GÖSTEREN 5 ÜRÜN](#2022-yilinda-yaz-mevsiminde-en-yuksek-fiyat-degisimi-gosteren-5-urun)
+- [2022 YILI EN DÜŞÜK FİYATA SAHİP ÜRÜN VE FİYAT DEĞİŞİMİ](#2022-yili-en-dusuk-fiyata-sahip-urun-ve-fiyat-degisimi)
+- [2022 YILI EN YÜKSEK FİYATA SAHİP ÜRÜN VE FİYAT DEĞİŞİMİ](#2022-yili-en-yuksek-fiyata-sahip-urun-ve-fiyat-degisimi)
+- [2022 YILI EN YÜKSEK FİYAT DEĞİŞİM GÖSTEREN 5 ÜRÜN](#2022-yili-en-yuksek-fiyat-degisim-gosteren-5-urun)
+- [2022 YILINA AİT MEYVE KATEGORİSİNDEKİ EN YÜKSEK FİYATA SAHİP ÜRÜN VE FİYAT DEĞİŞİMİ](#2022-yilina-ait-meyve-kategorisindeki-en-yuksek-fiyata-sahip-urun-ve-fiyat-degisimi)
+- [2022 YILINA AİT SEBZE KATEGORİSİNDEKİ EN YÜKSEK FİYATA SAHİP ÜRÜN VE FİYAT DEĞİŞİMİ](#2022-yilina-ait-sebze-kategorisindeki-en-yuksek-fiyata-sahip-urun-ve-fiyat-degisimi)
+- [2023 YILI EN AZ FİYAT DEĞİŞİMİ GÖSTEREN 5 ÜRÜN](#2023-yili-en-az-fiyat-degisimi-gosteren-5-urun)
+- [2023 YILI EN YÜKSEK FİYAT DEĞİŞİMİ GÖSTEREN 5 ÜRÜN](#2023-yili-en-yuksek-fiyat-degisimi-gosteren-5-urun)
+- [2023 YILINDA EN AZ FİYAT DEĞİŞİMİ GÖSTEREN ÜRÜN VE FİYAT DEĞİŞİMİ](#2023-yilinda-en-az-fiyat-degisimi-gosteren-urun-ve-fiyat-degisimi)
+- [2023 YILINDA EN YÜKSEK FİYATLI ÜRÜN VE FİYAT DEĞİŞİMİ](#2023-yilinda-en-yuksek-fiyatli-urun-ve-fiyat-degisimi)
+- [2023 YILI İLKBAHAR MEVSİMİNDE EN YÜKSEK FİYAT DEĞİŞİMİ GÖSTEREN 5 ÜRÜN](#2023-yili-ilkbahar-mevsiminde-en-yuksek-fiyat-degisimi-gosteren-5-urun)
+- [2023 YILI KIŞ MEVSİMİNDE EN YÜKSEK FİYAT DEĞİŞİMİ GÖSTEREN 5 ÜRÜN](#2023-yili-kis-mevsiminde-en-yuksek-fiyat-degisimi-gosteren-5-urun)
+- [2023 YILI SONBAHAR MEVSİMİNDE EN YÜKSEK FİYAT DEĞİŞİMİ GÖSTEREN 5 ÜRÜN](#2023-yili-sonbahar-mevsiminde-en-yuksek-fiyat-degisimi-gosteren-5-urun)
+- [2023 YILINDA YAZ MEVSİMİNDE EN YÜKSEK FİYAT DEĞİŞİMİ GÖSTEREN 5 ÜRÜN](#2023-yilinda-yaz-mevsiminde-en-yuksek-fiyat-degisimi-gosteren-5-urun)
+- [2023 YILI MEYVE KATEGORİSİNDEKİ EN YÜKSEK FİYATA SAHİP ÜRÜN VE FİYAT DEĞİŞİMİ](#2023-yili-meyve-kategorisindeki-en-yuksek-fiyata-sahip-urun-ve-fiyat-degisimi)
+- [2023 SEBZE KATEGORİSİNDE EN YÜKSEK FİYATA SAHİP ÜRÜN VE FİYAT DEĞİŞİMİ](#2023-sebze-kategorisinde-en-yuksek-fiyata-sahip-urun-ve-fiyat-degisimi)
+- [2024 YILI EN YÜKSEK FİYAT DEĞİŞİMİ GÖSTEREN 5 ÜRÜN](#2024-yili-en-yuksek-fiyat-degisimi-gosteren-5-urun)
+- [2024 YILI EN AZ FİYAT DEĞİŞİMİ GÖSTEREN 5 ÜRÜN](#2024-yili-en-az-fiyat-degisimi-gosteren-5-urun)
+- [2024 YILI EN AZ FİYATA SAHİP ÜRÜN VE FİYAT DEĞİŞİMİ](#2024-yili-en-az-fiyata-sahip-urun-ve-fiyat-degisimi)
+- [2024 YILI EN YÜKSEK FİYATA SAHİP ÜRÜN VE FİYAT DEĞİŞİMİ](#2024-yili-en-yuksek-fiyata-sahip-urun-ve-fiyat-degisimi)
+- [2024 YILI İLKBAHAR MEVSİMİ EN YÜKSEK FİYAT DEĞİŞİMİ GÖSTEREN 5 ÜRÜN](#2024-yili-ilkbahar-mevsimi-en-yuksek-fiyat-degisimi-gosteren-5-urun)
+- [2024 YILI KIŞ MEVSİMİ EN YÜKSEK FİYAT DEĞİŞİMİ GÖSTEREN 5 ÜRÜN](#2024-yili-kis-mevsimi-en-yuksek-fiyat-degisimi-gosteren-5-urun)
+- [2024 YILI SONBAHAR MEVSİMİ EN YÜKSEK FİYAT DEĞİŞİMİ GÖSTEREN 5 ÜRÜN](#2024-yili-sonbahar-mevsimi-en-yuksek-fiyat-degisimi-gosteren-5-urun)
+- [2024 YILI YAZ MEVSİMİ EN YÜKSEK FİYAT DEĞİŞİMİ GÖSTEREN 5 ÜRÜN](#2024-yili-yaz-mevsimi-en-yuksek-fiyat-degisimi-gosteren-5-urun)
+- [2024 YILI SEZONLUK MEYVE FİYATLARI](#2024-yili-sezonluk-meyve-fiyatlari)
+- [2024 YILI SEZONLUK SEBZE FİYATLARI](#2024-yili-sezonluk-sebze-fiyatlari)
+- [2024 YILI MEYVE KATEGORİSİ EN YÜKSEK FİYATA SAHİP ÜRÜN VE FİYAT DEĞİŞİMİ](#2024-yili-meyve-kategorisi-en-yuksek-fiyata-sahip-urun-ve-fiyat-degisimi)
+- [2024 YILI SEBZE KATEGORİSİ EN YÜKSEK FİYATA SAHİP ÜRÜN VE FİYAT DEĞİŞİMİ](#2024-yili-sebze-kategorisi-en-yuksek-fiyata-sahip-urun-ve-fiyat-degisimi)
+- [2024 YILI YERLİ VE İTHAL BİBER FİYAT KARŞILAŞTIRMASI](#2024-yili-yerli-ve-ithal-biber-fiyat-karsilastirmasi)
+- [2024 YILI YERLİ VE İTHAL ELMA FİYAT KARŞILAŞTIRMASI](#2024-yili-yerli-ve-ithal-elma-fiyat-karsilastirmasi)
+- [2024 YILI YERLİ VE İTHAL KİVİ FİYAT KARŞILAŞTIRMASI](#2024-yili-yerli-ve-ithal-kivi-fiyat-karsilastirmasi)
+- [2024 YILI YERLİ VE İTHAL MUZ FİYAT KARŞILAŞTIRMASI](#2024-yili-yerli-ve-ithal-muz-fiyat-karsilastirmasi)
+- [2024 YILI YERLİ VE İTHAL SARIMSAK FİYAT KARŞILAŞTIRMASI](#2024-yili-yerli-ve-ithal-sarimsak-fiyat-karsilastirmasi)
+- [FİYATI BİR ÖNCEKİ SATIŞ FİYATINA GÖRE %100 ÜZERİNDE ARTAN MEYVE TÜRLERİ VE FİYAT DEĞİŞİMLERİ](#fiyati-bir-onceki-satis-fiyatina-gore-100-uzerinde-artan-meyve-turleri-ve-fiyat-degisimleri)
+- [FİYATI BİR ÖNCEKİ SATIŞ FİYATINA GÖRE %100 ÜZERİNDE ARTAN SEBZE TÜRLERİ VE FİYAT DEĞİŞİMLERİ](#fiyati-bir-onceki-satis-fiyatina-gore-100-uzerinde-artan-sebze-turleri-ve-fiyat-degisimleri)
+- [FİYATI BİR ÖNCEKİ SATIŞ FİYATINA GÖRE %50 ÜZERİNDE ARTAN İTHAL ÜRÜNLER VE FİYAT DEĞİŞİMLERİ](#fiyati-bir-onceki-satis-fiyatina-gore-50-uzerinde-artan-ithal-urunler-ve-fiyat-degisimleri)
+- [2024 YILI İTHAL ÜRÜNLERİN EN YÜKSEK FİYAT ARTIŞLARI](#2024-yili-ithal-urunlerin-en-yuksek-fiyat-artislari)
+- [2025 YILI ÜRÜN TÜRLERİNE GÖRE FİYAT TAHMİNLERİ](#2025-yili-urun-turlerine-gore-fiyat-tahminleri)
+- [2025 YILI EN YÜKSEK FİYAT TAHMİNLERİ](#2025-yili-en-yuksek-fiyat-tahminleri)
+
+
+
 
 
 
@@ -581,6 +631,8 @@ Belirli mevsimlerde üretim ve talep dengesine bağlı olarak ciddi dalgalanmala
 ---------------------------------------------------------------------------------------------------
 
 2024 YILI YERLİ VE İTHAL BİBER FİYAT KARŞILAŞTIRMASI:
+
+
 ![2024_yerli_ithal_biber_fiyat_karsilastirma.png](outputs/2024_yerli_ithal_biber_fiyat_karsilastirma.png)
 
 
