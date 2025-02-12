@@ -62,7 +62,7 @@ Bu çalışma, İzmir Halinde satılan meyve ve sebze fiyatlarının 2022, 2023 
 
 ## Kullanılan Teknolojiler ve Araçlar
 - **Python**: Veri analizi ve görselleştirme için kullanıldı.
-- **SQL**: Veritabanı sorguları ve veri düzenleme işlemleri için kullanıldı. Tüm veri `db.sql` dosyasında saklanmıştır.
+- **SQL**: Veritabanı sorguları ve veri düzenleme işlemleri için kullanıldı. 
 - **Matplotlib & Seaborn**: Grafik oluşturma ve görselleştirme.
 - **Pandas**: Veri işleme ve analitik operasyonlar.
 - **NumPy**: Sayısal işlemler ve veri manipülasyonu.
