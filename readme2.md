@@ -4,54 +4,12 @@
 
 - [2022-2023-2024 Yılları En Düşük Fiyatlı Sebze](#2022-2023-2024-yillari-en-dusuk-fiyatli-sebze)
 - [2022-2023-2024 Yılları En Yüksek Fiyatlı Sebze](#2022-2023-2024-yillari-en-yuksek-fiyatli-sebze)
-- [2022-2023-2024 Yılları En Yüksek Fiyata Sahip Meyve](#2022-2023-2024-yillari-en-yuksek-fiyata-sahip-meyve)
-
-- [2022-2023-2024 Yılları En Yüksek Fiyata Sahip Meyve](#2022-2023-2024-yillarinda-en-yuksek-fiyata-sahip-meyve)
 
 
 
-- [2022 Yılında En Az Fiyat Değişimi Gösteren 5 Ürün](#2022-yilinda-en-az-fiyat-degisimi-gosteren-5-urun)
-- [2022 Yılı İlkbahar Mevsiminde En Yüksek Fiyat Değişimi Gösteren 5 Ürün](#2022-yili-ilkbahar-mevsiminde-en-yuksek-fiyat-degisimi-gosteren-5-urun)
-- [2022 Yılı Kış Mevsiminde En Yüksek Fiyat Değişimi Gösteren 5 Ürün](#2022-yili-kis-mevsiminde-en-yuksek-fiyat-degisimi-gosteren-5-urun)
-- [2022 Yılı Sonbahar Mevsiminde En Yüksek Fiyat Değişimi Gösteren 5 Ürün](#2022-yili-sonbahar-mevsiminde-en-yuksek-fiyat-degisimi-gosteren-5-urun)
-- [2022 Yılı Yaz Mevsiminde En Yüksek Fiyat Değişimi Gösteren 5 Ürün](#2022-yili-yaz-mevsiminde-en-yuksek-fiyat-degisimi-gosteren-5-urun)
-- [2022 Yılı En Düşük Fiyata Sahip Ürün ve Fiyat Değişimi](#2022-yili-en-dusuk-fiyata-sahip-urun-ve-fiyat-degisimi)
-- [2022 Yılı En Yüksek Fiyata Sahip Ürün ve Fiyat Değişimi](#2022-yili-en-yuksek-fiyata-sahip-urun-ve-fiyat-degisimi)
-- [2022 Yılı En Yüksek Fiyat Değişimi Gösteren 5 Ürün](#2022-yili-en-yuksek-fiyat-degisimi-gosteren-5-urun)
-- [2022 Yılı Meyve Kategorisindeki En Yüksek Fiyata Sahip Ürün ve Fiyat Değişimi](#2022-yili-meyve-kategorisindeki-en-yuksek-fiyata-sahip-urun-ve-fiyat-degisimi)
-- [2022 Yılı Sebze Kategorisindeki En Yüksek Fiyata Sahip Ürün ve Fiyat Değişimi](#2022-yili-sebze-kategorisindeki-en-yuksek-fiyata-sahip-urun-ve-fiyat-degisimi)
-- [2023 Yılı En Az Fiyat Değişimi Gösteren 5 Ürün](#2023-yili-en-az-fiyat-degisimi-gosteren-5-urun)
-- [2023 Yılı En Düşük Fiyatlı Ürün ve Fiyat Değişimi](#2023-yili-en-dusuk-fiyatli-urun-ve-fiyat-degisimi)
-- [2023 Yılı En Yüksek Fiyatlı Ürün ve Fiyat Değişimi](#2023-yili-en-yuksek-fiyatli-urun-ve-fiyat-degisimi)
-- [2023 Yılı En Yüksek Fiyat Değişimi Gösteren 5 Ürün](#2023-yili-en-yuksek-fiyat-degisimi-gosteren-5-urun)
-- [2023 Yılı İlkbahar Mevsiminde En Yüksek Fiyat Değişimi Gösteren 5 Ürün](#2023-yili-ilkbahar-mevsiminde-en-yuksek-fiyat-degisimi-gosteren-5-urun)
-- [2023 Yılı Kış Mevsiminde En Yüksek Fiyat Değişimi Gösteren 5 Ürün](#2023-yili-kis-mevsiminde-en-yuksek-fiyat-degisimi-gosteren-5-urun)
-- [2023 Yılı Sonbahar Mevsiminde En Yüksek Fiyat Değişimi Gösteren 5 Ürün](#2023-yili-sonbahar-mevsiminde-en-yuksek-fiyat-degisimi-gosteren-5-urun)
-- [2023 Yılı Yaz Mevsiminde En Yüksek Fiyat Değişimi Gösteren 5 Ürün](#2023-yili-yaz-mevsiminde-en-yuksek-fiyat-degisimi-gosteren-5-urun)
-- [2023 Yılı Meyve Kategorisindeki En Yüksek Fiyata Sahip Ürün (Çilek) Fiyat Değişimi](#2023-yili-meyve-kategorisindeki-en-yuksek-fiyata-sahip-urun-cilek-fiyat-degisimi)
-- [2023 Yılı Sebze Kategorisindeki En Yüksek Fiyata Sahip Ürün (Mantar) Fiyat Değişimi](#2023-yili-sebze-kategorisindeki-en-yuksek-fiyata-sahip-urun-mantar-fiyat-degisimi)
-- [2024 Yılı En Az Fiyat Değişimi Gösteren 5 Ürün](#2024-yili-en-az-fiyat-degisimi-gosteren-5-urun)
-- [2024 Yılı En Düşük Fiyatlı Ürün ve Fiyat Değişimi](#2024-yili-en-dusuk-fiyatli-urun-ve-fiyat-degisimi)
-- [2024 Yılı En Yüksek Fiyata Sahip Ürün ve Fiyat Değişimi](#2024-yili-en-yuksek-fiyata-sahip-urun-ve-fiyat-degisimi)
-- [2024 Yılı İlkbahar Mevsimi En Yüksek Fiyat Değişimi Gösteren 5 Ürün](#2024-yili-ilkbahar-mevsimi-en-yuksek-fiyat-degisimi-gosteren-5-urun)
-- [2024 Yılı Kış Mevsiminde En Yüksek Fiyat Değişimi Gösteren 5 Ürün](#2024-yili-kis-mevsiminde-en-yuksek-fiyat-degisimi-gosteren-5-urun)
-- [2024 Yılı Sonbahar Mevsiminde En Yüksek Fiyat Değişimi Gösteren 5 Ürün](#2024-yili-sonbahar-mevsiminde-en-yuksek-fiyat-degisimi-gosteren-5-urun)
-- [2024 Yılı Yaz Mevsiminde En Yüksek Fiyat Değişimi Gösteren 5 Ürün](#2024-yili-yaz-mevsiminde-en-yuksek-fiyat-degisimi-gosteren-5-urun)
-- [2024 Yılı Meyve Kategorisindeki En Yüksek Fiyata Sahip Ürün (Can Eriği) Fiyat Değişimi](#2024-yili-meyve-kategorisindeki-en-yuksek-fiyata-sahip-urun-can-erigi-fiyat-degisimi)
-- [2024 Yılı Sebze Kategorisindeki En Yüksek Fiyata Sahip Ürün (İstiridye Mantarı) Fiyat Değişimi](#2024-yili-sebze-kategorisindeki-en-yuksek-fiyata-sahip-urun-istiridye-mantari-fiyat-degisimi)
-- [2024 Yılı Sezonluk Sebze Fiyatları](#2024-yili-sezonluk-sebze-fiyatlari)
-- [2024 Yılı Sezonluk Meyve Fiyatları](#2024-yili-sezonluk-meyve-fiyatlari)
-- [2024 Yılı Yerli-İthal Sarımsak Fiyatlarının Karşılaştırılması](#2024-yili-yerli-ithal-sarimsak-fiyatlarinin-karsilastirilmasi)
-- [2024 Yılı Yerli-İthal Elma Fiyatlarının Karşılaştırılması](#2024-yili-yerli-ithal-elma-fiyatlarinin-karsilastirilmasi)
-- [2024 Yılı Yerli-İthal Biber Fiyatlarının Karşılaştırılması](#2024-yili-yerli-ithal-biber-fiyatlarinin-karsilastirilmasi)
-- [2024 Yılı Yerli-İthal Kivi Fiyatlarının Karşılaştırılması](#2024-yili-yerli-ithal-kivi-fiyatlarinin-karsilastirilmasi)
-- [2024 Yılı Yerli-İthal Muz Fiyatlarının Karşılaştırılması](#2024-yili-yerli-ithal-muz-fiyatlarinin-karsilastirilmasi)
-- [Fiyatı Bir Önceki Satış Fiyatına Göre %100 Üzerinde Artan Sebze Türleri ve Fiyat Değişimleri](#fiyati-bir-onceki-satis-fiyatina-gore-100-uzerinde-artan-sebze-turleri-ve-fiyat-degisimleri)
-- [Fiyatı Bir Önceki Satış Fiyatına Göre %100 Üzerinde Artan Meyve Türleri ve Fiyat Değişimleri](#fiyati-bir-onceki-satis-fiyatina-gore-100-uzerinde-artan-meyve-turleri-ve-fiyat-degisimleri)
-- [Fiyatı Bir Önceki Satış Fiyatına Göre %50 Üzerinde Artan İthal Ürünler ve Fiyat Değişimleri](#fiyati-bir-onceki-satis-fiyatina-gore-50-uzerinde-artan-ithal-urunler-ve-fiyat-degisimleri)
-- [2024 Yılı İthal Ürünlerin En Yüksek Fiyat Artışları](#2024-yili-ithal-urunlerin-en-yuksek-fiyat-artislari)
-- [2025 Yılı Ürün Türlerine Göre Fiyat Tahminleri](#2025-yili-urun-turlerine-gore-fiyat-tahminleri)
-- [2025 Yılı En Yüksek Fiyat Tahminleri](#2025-yili-en-yuksek-fiyat-tahminleri)
+[2022-2023-2024 Yılları En Yüksek Fiyata Sahip Meyve](#2022-2023-2024-yılları-en-yüksek-fiyata-sahip-meyve)
+
+
 
 
 
