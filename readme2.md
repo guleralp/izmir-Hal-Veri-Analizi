@@ -219,6 +219,9 @@ Bu proje MIT lisansı altında lisanslanmıştır. Detaylar için `LICENSE` dosy
 
 
 
+
+
+
 ## 2022-2023-2024 Yılları En Düşük Fiyatlı Sebze:
 
 
@@ -373,6 +376,54 @@ Mevsimsel değişimlerden benzer şekilde etkilenmeleri,Piyasada birbirine bağl
 
 ---------------------------------------------------------------------------
 
+## 2022 Yılı En Yüksek Fiyat Değişimi Gösteren 5 Ürün
+
+
+![2022_yili_en_yuksek_fiyat_degisimi_top5.png](outputs/2022_yili_en_yuksek_fiyat_degisimi_top5.png)
+
+
+Bu grafik, 2022 yılında fiyat dalgalanması en yüksek olan beş ürününe odaklanmaktadır. Fiyat değişimleri incelendiğinde,
+
+Erik Can:
+Fiyat değişimi: 146 TL
+Minimum fiyat: 4 TL
+Maksimum fiyat: 150 TL
+Ortalama fiyat: 47.65 TL
+
+Nar:
+Fiyat değişimi: 77 TL
+Minimum fiyat: 2 TL
+Maksimum fiyat: 79 TL
+Ortalama fiyat: 16.26 TL
+
+Üzüm Muht:
+Fiyat değişimi: 76.50 TL
+Minimum fiyat: 3.50 TL
+Maksimum fiyat: 80 TL
+Ortalama fiyat: 16.08 TL
+
+Mantar (İstiridye):
+Fiyat değişimi: 76 TL
+Minimum fiyat: 4 TL
+Maksimum fiyat: 80 TL
+Ortalama fiyat: 29.22 TL
+
+Kiraz:
+Fiyat değişimi: 75 TL
+Minimum fiyat: 5 TL
+Maksimum fiyat: 80 TL
+Ortalama fiyat: 17.63 TL
+
+
+2022 yılında en yüksek fiyat değişimine sahip 5 ürünün analizi incelendiğinde, Erik Can'ın diğer ürünlere göre çok daha yüksek bir fiyat değişimi gösterdiği dikkat çekmektedir. Minimum 4 TL'den maksimum 150 TL'ye ulaşan fiyat aralığına sahiptir. Ortalama fiyatı ise 47.65 TL olup, diğer ürünlerin ortalamalarının oldukça üzerindedir. 
+Diğer dört ürün olan Nar, Üzüm Muht, Mantar (İstiridye) ve Kiraz ise fiyat değişimleri açısından birbirine oldukça yakın seyretmekte ve 75-77 TL aralığında değişim göstermektedir. Maksimum fiyatları da 79-80 TL civarında olup, bu benzerlik söz konusu ürünlerin piyasa dinamiklerinin ve fiyatlandırma mekanizmalarının ortak faktörlerden etkilendiğine işaret etmektedir.Minimum fiyatlar açısından bakıldığında, tüm ürünlerin 2-5 TL aralığında olduğu görülmektedir. Maksimum fiyatlarda ise Erik Can 150 TL ile dikkat çekerken, diğer ürünler 79-80 TL bandında kalmaktadır.Ortalama fiyat değerlendirmesi yapıldığında, Erik Can 47.65 TL ile en yüksek ortalama fiyata sahipken, onu 29.22 TL ile Mantar (İstiridye) takip etmektedir. Diğer ürünlerin ortalama fiyatları ise 16-18 TL bandında seyretmektedir. Bu farklılık, ürünlerin yıl içindeki bulunabilirlik süreleri ve talep yoğunluklarıyla doğrudan ilişkili olabilir.Genel olarak bakıldığında, Erik Can dışındaki diğer ürünlerin daha dengeli bir fiyat değişim aralığında olması ise bu ürünlerin piyasalarının daha istikrarlı olduğunu düşündürmektedir. Bu veriler, 2022 yılında meyve ve sebze piyasasındaki fiyat dinamiklerinin hakkında net bir şekilde bilgi vermektedir.
+
+
+
+---------------------------------------------------------------------------
+
+
+
 
 ## 2022 Yılı İlkbahar Mevsiminde En Yüksek Fiyat Değişimi Gösteren 5 Ürün
 
@@ -464,52 +515,6 @@ Grafik 2022 Yılı İçindeki En Yüksek Fiyata Sahip Can Eriği fiyatlarının 
 
 
 -----------------------------------------------------------------------------------
-
-## 2022 Yılı En Yüksek Fiyat Değişimi Gösteren 5 Ürün
-
-
-![2022_yili_en_yuksek_fiyat_degisimi_top5.png](outputs/2022_yili_en_yuksek_fiyat_degisimi_top5.png)
-
-
-Bu grafik, 2022 yılında fiyat dalgalanması en yüksek olan beş ürününe odaklanmaktadır. Fiyat değişimleri incelendiğinde,
-
-Erik Can:
-Fiyat değişimi: 146 TL
-Minimum fiyat: 4 TL
-Maksimum fiyat: 150 TL
-Ortalama fiyat: 47.65 TL
-
-Nar:
-Fiyat değişimi: 77 TL
-Minimum fiyat: 2 TL
-Maksimum fiyat: 79 TL
-Ortalama fiyat: 16.26 TL
-
-Üzüm Muht:
-Fiyat değişimi: 76.50 TL
-Minimum fiyat: 3.50 TL
-Maksimum fiyat: 80 TL
-Ortalama fiyat: 16.08 TL
-
-Mantar (İstiridye):
-Fiyat değişimi: 76 TL
-Minimum fiyat: 4 TL
-Maksimum fiyat: 80 TL
-Ortalama fiyat: 29.22 TL
-
-Kiraz:
-Fiyat değişimi: 75 TL
-Minimum fiyat: 5 TL
-Maksimum fiyat: 80 TL
-Ortalama fiyat: 17.63 TL
-
-
-2022 yılında en yüksek fiyat değişimine sahip 5 ürünün analizi incelendiğinde, Erik Can'ın diğer ürünlere göre çok daha yüksek bir fiyat değişimi gösterdiği dikkat çekmektedir. Minimum 4 TL'den maksimum 150 TL'ye ulaşan fiyat aralığına sahiptir. Ortalama fiyatı ise 47.65 TL olup, diğer ürünlerin ortalamalarının oldukça üzerindedir. 
-Diğer dört ürün olan Nar, Üzüm Muht, Mantar (İstiridye) ve Kiraz ise fiyat değişimleri açısından birbirine oldukça yakın seyretmekte ve 75-77 TL aralığında değişim göstermektedir. Maksimum fiyatları da 79-80 TL civarında olup, bu benzerlik söz konusu ürünlerin piyasa dinamiklerinin ve fiyatlandırma mekanizmalarının ortak faktörlerden etkilendiğine işaret etmektedir.Minimum fiyatlar açısından bakıldığında, tüm ürünlerin 2-5 TL aralığında olduğu görülmektedir. Maksimum fiyatlarda ise Erik Can 150 TL ile dikkat çekerken, diğer ürünler 79-80 TL bandında kalmaktadır.Ortalama fiyat değerlendirmesi yapıldığında, Erik Can 47.65 TL ile en yüksek ortalama fiyata sahipken, onu 29.22 TL ile Mantar (İstiridye) takip etmektedir. Diğer ürünlerin ortalama fiyatları ise 16-18 TL bandında seyretmektedir. Bu farklılık, ürünlerin yıl içindeki bulunabilirlik süreleri ve talep yoğunluklarıyla doğrudan ilişkili olabilir.Genel olarak bakıldığında, Erik Can dışındaki diğer ürünlerin daha dengeli bir fiyat değişim aralığında olması ise bu ürünlerin piyasalarının daha istikrarlı olduğunu düşündürmektedir. Bu veriler, 2022 yılında meyve ve sebze piyasasındaki fiyat dinamiklerinin hakkında net bir şekilde bilgi vermektedir.
-
-
-------------------------------------------------------------------------
-
 
 ## 2022 Yılina Ait Meyve Kategorisindeki En Yüksek Fiyata Sahip Ürün ve Fiyat Değişimi
 
