@@ -8,7 +8,8 @@
 - [2022 Yilinda En Az Fiyat Degisimi Gösteren 5 Ürün:](#2022-yilinda-en-az-fiyat-degisimi-gösteren-5-ürün)
 
 
-- [2022 YILI ILKBAHAR MEVSİMİNDE EN YÜKSEK FİYAT DEĞİŞİMİ GÖSTEREN 5 ÜRÜN](#2022-yili-ilkbahar-mevsiminde-en-yuksek-fiyat-degisimi-gosteren-5-urun)
+[2022 YILI ILKBAHAR MEVSİMİNDE EN YÜKSEK FİYAT DEĞİŞİMİ GÖSTEREN 5 ÜRÜN](#2022-yili-ilkbahar-mevsiminde-en-yuksek-fiyat-degisimi-gosteren-5-urun)
+
 
 - [2022 YILI KIŞ MEVSİMİNDE EN YÜKSEK FİYAT DEĞİŞİMİ GÖSTEREN 5 ÜRÜN](#2022-yili-kis-mevsiminde-en-yuksek-fiyat-degisimi-gosteren-5-urun)
 - [2022 YILI SONBAHAR MEVSİMİNDE EN YÜKSEK FİYAT DEĞİŞİMİ GÖSTEREN 5 ÜRÜN](#2022-yili-sonbahar-mevsiminde-en-yuksek-fiyat-degisimi-gosteren-5-urun)
@@ -225,10 +226,7 @@ Mevsimsel değişimlerden benzer şekilde etkilenmeleri,Piyasada birbirine bağl
 2022 yılında en az fiyat değişimi gösteren bu beş ürün, piyasa dalgalanmalarına karşı daha dayanıklı bir fiyat seyri izlemiştir. Özellikle maksimum ve minimum fiyatlar arasındaki farkın dar olması, bu ürünlerin piyasada spekülatif fiyat artışlarından korunabildiğini göstermektedir. Bu durum, tarım politikalarının ve pazar düzenlemelerinin etkili bir şekilde uygulanmasının bir sonucu olabilir. Fiyat istikrarının korunması, hem üreticiler hem de tüketiciler için büyük bir avantaj sağlamaktadır. Üreticiler için öngörülebilir ve sürdürülebilir bir gelir modeli sunarken, tüketiciler için de ani fiyat artışlarından korunmuş bir alışveriş ortamı oluşturmaktadır.Genel olarak, bu veriler 2022 yılında belirli tarım ürünlerinde fiyat istikrarının sağlandığını göstermektedir.
 
 ---------------------------------------------------------------------------
-
-
 ## 2022 YILI ILKBAHAR MEVSİMİNDE EN YÜKSEK FİYAT DEĞİŞİMİ GÖSTEREN 5 ÜRÜN:
-
 
 
 ![2022_ilkbahar_en_yuksek_fiyat_degisimi_top5.png](outputs/2022_ilkbahar_en_yuksek_fiyat_degisimi_top5.png)
