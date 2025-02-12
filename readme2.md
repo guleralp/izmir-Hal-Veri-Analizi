@@ -12,6 +12,10 @@
  - [2022 Yılı Kış Mevsiminde En Yüksek Fiyat Değişimi Gösteren 5 Ürün](#2022-yılı-kış-mevsiminde-en-yüksek-fiyat-değişimi-gösteren-5-ürün)
 
 
+- [2022 Yılı Sonbahar Mevsiminde En Yüksek Fiyat Değişimi Gösteren 5 Ürün](#2022-yılı-sonbahar-mevsiminde-en-yüksek-fiyat-değişimi-gösteren-5-ürün)
+- [2022 Yılında Yaz Mevsiminde En Yüksek Fiyat Değişimi Gösteren 5 Ürün](#2022-yılında-yaz-mevsiminde-en-yüksek-fiyat-değişimi-gösteren-5-ürün)
+- [2022 Yılı En Düşük Fiyata Sahip Ürün ve Fiyat Değişimi](#2022-yılı-en-düşük-fiyata-sahip-ürün-ve-fiyat-değişimi)
+- [2022 Yılı En Yüksek Fiyata Sahip Ürün ve Fiyat Değişimi](#2022-yılı-en-yüksek-fiyata-sahip-ürün-ve-fiyat-değişimi)
 
 
 
@@ -205,7 +209,7 @@ Genel olarak bakıldığında, kış mevsiminde fiyat değişimi en yüksek olan
 
 -------------------------------------------------------------------------
 
-## 2022 YILI SONBAHAR MEVSIMINDE EN YUKSEK FIYAT DEGISIMI GÖSTEREN 5 ÜRÜN:
+## 2022 Yılı Sonbahar Mevsiminde En Yüksek Fiyat Değişimi Gösteren 5 Ürün
 
 ![2022_sonbahar_en_yuksek_fiyat_degisimi_top5.png](outputs/2022_sonbahar_en_yuksek_fiyat_degisimi_top5.png)
 
@@ -225,7 +229,7 @@ Genel olarak bakıldığında, sonbahar mevsiminde fiyat değişimi en yüksek o
 
 --------------------------------------------------------------------------
 
-## 2022 YILINDA YAZ MEVSIMINDE EN YUKSEK FIYAT DEGISIMI GÖSTEREN 5 ÜRÜN:
+## 2022 Yılında Yaz Mevsiminde En Yüksek Fiyat Değişimi Gösteren 5 Ürün
 
 ![2022_yaz_en_yuksek_fiyat_degisimi_top5.png](outputs/2022_yaz_en_yuksek_fiyat_degisimi_top5.png)
 
@@ -247,7 +251,7 @@ Grafikte her bir ürün için gösterilen minimum ve maksimum değerler, fiyat a
 
 ---------------------------------------------------------------------------
 
-## 2022 YILI EN DÜŞÜK FIYATA SAHIP ÜRÜN VE FIYAT DEGISIMI:
+## 2022 Yılı En Düşük Fiyata Sahip Ürün ve Fiyat Değişimi
 
 ![2022_yili_en_dusuk_fiyatli_urun_ve_fiyat_degisimi.png](outputs/2022_yili_en_dusuk_fiyatli_urun_ve_fiyat_degisimi.png)
 
@@ -258,7 +262,7 @@ Nisan ayında fiyatlarda ani bir yükseliş gözlemlenmiştir. Minimum fiyatlar 
 
 ----------------------------------------------------------------------------------
 
-## 2022 YILI EN YUKSEK FIYATA SAHIP ÜRÜN VE FIYAT DEGISIMI:
+## 2022 Yılı En Yüksek Fiyata Sahip Ürün ve Fiyat Değişimi
 
 ![2022_yili_en_yuksek_fiyatli_urun_ve_fiyat_degisimi.png](outputs/2022_yili_en_yuksek_fiyatli_urun_ve_fiyat_degisimi.png)
 
