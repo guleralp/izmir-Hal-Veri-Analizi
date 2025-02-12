@@ -12,6 +12,7 @@
 
 
 
+
 - [2022 YILI KIŞ MEVSİMİNDE EN YÜKSEK FİYAT DEĞİŞİMİ GÖSTEREN 5 ÜRÜN](#2022-yili-kis-mevsiminde-en-yuksek-fiyat-degisimi-gosteren-5-urun)
 - [2022 YILI SONBAHAR MEVSİMİNDE EN YÜKSEK FİYAT DEĞİŞİMİ GÖSTEREN 5 ÜRÜN](#2022-yili-sonbahar-mevsiminde-en-yuksek-fiyat-degisimi-gosteren-5-urun)
 - [2022 YILINDA YAZ MEVSİMİNDE EN YÜKSEK FİYAT DEĞİŞİMİ GÖSTEREN 5 ÜRÜN](#2022-yilinda-yaz-mevsiminde-en-yuksek-fiyat-degisimi-gosteren-5-urun)
