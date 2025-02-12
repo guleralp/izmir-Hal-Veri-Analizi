@@ -3,6 +3,7 @@
 # 📌 İçindekiler  
 
 - [2022-2023-2024 Yılları En Düşük Fiyatlı Sebze](#2022-2023-2024-yillari-en-dusuk-fiyatli-sebze)  
+
 - [2022-2023-2024 Yılları En Yüksek Fiyatlı Sebze](#2022-2023-2024-yillari-en-yuksek-fiyatli-sebze)  
 
 
@@ -12,7 +13,9 @@
 
 
 
-# 2022-2023-2024 Yılları En Düşük Fiyatlı Sebze
+
+# 2022-2023-2024 Yılları En Düşük Fiyatlı Sebze  
+
 
 
 ![2022_2023_2024_en_dusuk_fiyatli_sebze.png](outputs/2022_2023_2024_en_dusuk_fiyatli_sebze.png)
@@ -37,7 +40,8 @@ Bu grafik, en temel sebzelerden biri olan maydanozun bile son üç yılda öneml
 ------------------------------------------------------------------------
 
 
-2022-2023-2024 Yılları En Yüksek Fiyatlı Sebze:
+# 2022-2023-2024 Yılları En Yüksek Fiyatlı Sebze  
+
 
 
 ![2022_2023_2024_en_yuksek_fiyatli_sebze.png](outputs/2022_2023_2024_en_yuksek_fiyatli_sebze.png)
