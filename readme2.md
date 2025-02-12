@@ -6,7 +6,7 @@
 - [2022-2023-2024 Yılları En Yüksek Fiyatlı Sebze](#2022-2023-2024-yillari-en-yuksek-fiyatli-sebze)
 - [2022-2023-2024 Yılları En Yüksek Fiyata Sahip Meyve](#2022-2023-2024-yillari-en-yuksek-fiyata-sahip-meyve)
 
--[2022-2023-2024 Yılları En Yüksek Fiyata Sahip Meyve](#2022-2023-2024-yillarinda-en-yuksek-fiyata-sahip-meyve)
+- [2022-2023-2024 Yılları En Yüksek Fiyata Sahip Meyve](#2022-2023-2024-yillarinda-en-yuksek-fiyata-sahip-meyve)
 
 
 
