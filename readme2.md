@@ -3,9 +3,11 @@
 # İzmir Hal Fiyatları Araştırması ve Veri Analizi
 
 ## Proje Hakkında
-Bu çalışma, İzmir Halinde satılan meyve ve sebze fiyatlarının 2022, 2023 ve 2024 yıllarına ait günlük verilerini analiz etmeyi amaçlamaktadır. Araştırmada, yıllar boyunca fiyat değişimlerinin yanı sıra sezon bazında analizler yapılmıştır. Çalışmanın ana amacı, fiyat değişimlerini anlamak, trendleri belirlemek ve gelecekteki fiyat hareketlerini tahmin edebilecek bir temel oluşturmaktır.
+Bu çalışma, İzmir Halinde satılan meyve ve sebze fiyatlarının 2022, 2023 ve 2024 yıllarına ait günlük verilerini analiz etmeyi amaçlamaktadır. Araştırmada, 2022-2024 yılları arasında fiyat değişimlerinin yanı sıra sezon bazında analizler,en düşük ve en yüksek fiyatlı sebze/meyve analizleri,Mevsimsel fiyat değişim analizleri, Yerli ve ithal ürün fiyat karşılaştırmaları,Yıllık ve mevsimsel fiyat değişim trendleri,Fiyat artış oranı analizleri ve 2025 yılı fiyat tahminleri yapılmıştır. Çalışmanın ana amacı, fiyat değişimlerini anlamak, trendleri belirlemek ve gelecekteki fiyat hareketlerini tahmin edebilecek bir temel oluşturmaktır.
 
-# 📌 İçindekiler 
+
+
+## 📌 İçindekiler 
 
 - [2022-2023-2024 Yılları En Düşük Fiyatlı Sebze:](#2022-2023-2024-yılları-en-düşük-fiyatlı-sebze)
 - [2022-2023-2024 Yılları En Yüksek Fiyatlı Sebze](#2022-2023-2024-yillari-en-yuksek-fiyatli-sebze)
@@ -58,11 +60,7 @@ Bu çalışma, İzmir Halinde satılan meyve ve sebze fiyatlarının 2022, 2023 
 
 
 
-
-
-
-
-### Kullanılan Teknolojiler ve Araçlar
+## Kullanılan Teknolojiler ve Araçlar
 - **Python**: Veri analizi ve görselleştirme için kullanıldı.
 - **SQL**: Veritabanı sorguları ve veri düzenleme işlemleri için kullanıldı. Tüm veri `db.sql` dosyasında saklanmıştır.
 - **Matplotlib & Seaborn**: Grafik oluşturma ve görselleştirme.
@@ -80,121 +78,53 @@ Veriler, İzmir Büyükşehir Belediyesi'nin resmi web sitesinden günlük olara
 
 ## Analizler ve Grafikler
 
-### 1. Yıllık Analizler
+### 1. Yıllık Fiyat Analizleri (2022-2024)
+- En yüksek ve en düşük fiyatlı ürünlerin tespiti
+- Yıl içindeki fiyat değişimlerinin analizi
+- Yıllar arası karşılaştırmalı analizler
+- Fiyat artışı yapan ürünlerin analizi
 
-#### 2022 Yılı Analizleri
-- **En Düşük Fiyatlı Ürün Analizi**: 2022 yılı içindeki en düşük fiyata sahip ürünün fiyat değişim grafiği
-  - Günlük fiyat değişimleri
-  - Aylık ortalama fiyatlar
-  - En düşük ve en yüksek fiyat noktaları
+### 2. Özel Ürün Analizleri
+- Meyve Kategorisi:
+  - Can Eriği fiyat değişimleri (2022-2024)
+  - Çilek fiyat analizi (2023)
+  - Mandalina Takoz fiyat değişimleri
 
-- **En Yüksek Fiyatlı Ürün Analizi**: 2022 yılı içindeki en yüksek fiyata sahip ürünün fiyat değişim grafiği
-  - Fiyat zirve noktaları
-  - Fiyat düşüş dönemleri
-  - Trend analizi
+- Sebze Kategorisi:
+  - Mantar ve İstiridye Mantarı analizleri
+  - Sarımsak (kuru) fiyat değişimleri
+  - Yeşil Maydonoz fiyat analizi
 
-- **Fiyat Artışı Yapan Ürünler**: 2022 yılında fiyat artışı yapan ürünlerin analizi
-  - Artış oranlarına göre sıralama
-  - Kategorilere göre artış dağılımı
-  - Mevsimsel artış analizi
+### 3.Karşılaştırmalı Analizler
+- Meyve Karşılaştırması: 2022, 2023 ve 2024 yıllarında en yüksek fiyata sahip meyvelerin karşılaştırması
+- Sebze Minimum Fiyat: 2022, 2023 ve 2024 yıllarında en düşük fiyata sahip sebzelerin karşılaştırması
+- Sebze Maksimum Fiyat: 2022, 2023 ve 2024 yıllarında en yüksek fiyata sahip sebzelerin karşılaştırması
 
-- **Can Eriği Fiyat Analizi**: Meyve kategorisindeki en yüksek fiyatlı ürün olan can eriğinin fiyat değişimi
-  - Sezonluk fiyat değişimleri
-  - Piyasaya giriş-çıkış dönemleri
-  - Fiyat dalgalanmaları
 
-- **Mantar Fiyat Analizi**: Sebze kategorisindeki en yüksek fiyatlı ürün olan mantarın fiyat değişimi
-  - Günlük fiyat değişimleri
-  - Üretim dönemlerine göre analiz
-  - Fiyat istikrar analizi
+### 4. Mevsimsel Analizler
+- İlkbahar, yaz, sonbahar ve kış mevsimlerinde:
+  - En yüksek fiyat değişimi gösteren ilk 5 ürün
+  - Mevsimsel fiyat dalgalanmaları
+  - Meyve ve sebze kategorilerine göre analizler
+  
+### 5. Yerli-İthal Ürün Karşılaştırmaları
+- Sarımsak yerli-ithal karşılaştırması
+- Muz yerli-ithal karşılaştırması
+- Kivi yerli-ithal karşılaştırması
+- Elma yerli-ithal karşılaştırması
+- Biber yerli-ithal karşılaştırması
 
-#### 2023 Yılı Analizleri
-- **En Düşük/Yüksek Fiyat Analizleri**: 2023 yılındaki en düşük ve en yüksek fiyatlı ürünlerin analizi
-  - Ürün bazında karşılaştırmalar
-  - Fiyat aralıkları analizi
-  - Dönemsel değişimler
+### 6. Fiyat Artış Analizleri
+- %100'ün üzerinde fiyat artışı gösteren meyve türleri
+- %100'ün üzerinde fiyat artışı gösteren sebze türleri
+- %50'nin üzerinde fiyat artışı gösteren ithal ürünler
+- %100'den az fiyat artışı gösteren ithal ürünler
 
-- **Çilek Fiyat Analizi**: Meyve kategorisinde en yüksek fiyata sahip çileğin fiyat değişimi
-  - Sezon içi fiyat hareketleri
-  - Üretim bölgelerine göre fiyat farklılıkları
-  - İthal-yerli fiyat karşılaştırması
+### 7. 2025 Yılı Tahminleri
+- Ürün bazında fiyat tahminleri
+- Tür ortalamasına göre projeksiyon
+- En yüksek fiyat artışı beklenen ürünler
 
-- **Mantar Fiyat Analizi**: Sebze kategorisinde en yüksek fiyata sahip mantarın fiyat değişimi
-  - Yıl içi fiyat trendi
-  - Üretim maliyetleri etkisi
-  - Pazar dinamikleri analizi
-
-#### 2024 Yılı Analizleri
-- **Fiyat Değişimi En Yüksek 5 Ürün**: 2024 yılında en çok fiyat değişimi gösteren ürünlerin analizi
-  - Değişim oranları
-  - Değişim nedenleri
-  - Kategori bazlı değerlendirme
-
-- **En Az Fiyat Değişimi**: 2024 yılında en az fiyat değişimine sahip ilk 5 ürün
-  - Stabilite analizi
-  - Fiyat koruma nedenleri
-  - Pazar dinamikleri
-
-- **Yerli-İthal Karşılaştırmaları**: 
-  - **Sarımsak**: Yerli ve ithal sarımsak fiyatlarının karşılaştırmalı analizi
-  - **Biber**: Yerli ve ithal biber çeşitlerinin fiyat karşılaştırması
-  - **Elma**: Yerli ve ithal elma fiyatlarının karşılaştırmalı analizi
-  - **Kivi**: Yerli ve ithal kivi fiyatlarının dönemsel karşılaştırması
-  - **Muz**: Yerli ve ithal muz fiyatlarının detaylı karşılaştırması
-
-### 2. Mevsimsel Analizler
-
-#### 2022 Mevsimsel Analizler
-- **İlkbahar Analizi**: İlkbahar mevsiminde fiyat değişimi en yüksek olan ilk 5 ürün
-  - Mart-Nisan-Mayıs ayları fiyat değişimleri
-  - Sezon başlangıç etkisi
-  - Üretim döngüsü analizi
-
-- **Yaz Analizi**: Yaz mevsiminde fiyat değişimi en yüksek olan 5 ürün
-  - Haziran-Temmuz-Ağustos ayları değişimleri
-  - Sıcaklık etkisi analizi
-  - Turizm sezonu etkisi
-
-- **Sonbahar Analizi**: Sonbahar mevsiminde fiyat değişimi en yüksek olan ilk 5 ürün
-  - Eylül-Ekim-Kasım ayları değişimleri
-  - Hasat dönemi etkisi
-  - Depolama etkisi
-
-- **Kış Analizi**: Kış mevsiminde fiyat değişimi en yüksek olan ilk 5 ürün
-  - Aralık-Ocak-Şubat ayları değişimleri
-  - Soğuk hava etkisi
-  - Sera ürünleri analizi
-
-#### 2023 Mevsimsel Analizler
-[2022 yılı ile aynı başlıklar altında detaylı analizler]
-
-#### 2024 Mevsimsel Analizler
-[2022 yılı ile aynı başlıklar altında detaylı analizler]
-- **Sezon Bazında Meyve Fiyatları**: Tüm meyvelerin sezonluk fiyat değişimleri
-- **Sezon Bazında Sebze Fiyatları**: Tüm sebzelerin sezonluk fiyat değişimleri
-
-### 3. Özel Analizler
-
-#### Fiyat Artış Analizleri
-- **Meyve Türleri**: %100'ün üzerinde fiyat artışı gösteren meyve türlerinin analizi
-  - Artış nedenleri
-  - Artış dönemleri
-  - Etki analizi
-
-- **Sebze Türleri**: %100'ün üzerinde fiyat artışı gösteren sebze türlerinin analizi
-  - Kategorik artış analizi
-  - Dönemsel etkiler
-  - Maliyet analizi
-
-- **İthal Ürünler**: %100'ün üzerinde fiyat artışı gösteren ithal ürünlerin analizi
-  - Döviz kuru etkisi
-  - İthalat politikaları etkisi
-  - Küresel pazar analizi
-
-#### Karşılaştırmalı Analizler
-- **Meyve Karşılaştırması**: 2022, 2023 ve 2024 yıllarında en yüksek fiyata sahip meyvelerin karşılaştırması
-- **Sebze Minimum Fiyat**: 2022, 2023 ve 2024 yıllarında en düşük fiyata sahip sebzelerin karşılaştırması
-- **Sebze Maksimum Fiyat**: 2022, 2023 ve 2024 yıllarında en yüksek fiyata sahip sebzelerin karşılaştırması
 
 ## Veri Analiz Metodolojisi
 1. **Veri Toplama**
@@ -218,8 +148,8 @@ Tüm analizlerin grafikleri `outputs` klasöründe `.png` formatında saklanmakt
 ### Grafik Formatları
 - Çizgi grafikleri: Zaman serisi analizleri için
 - Sütun grafikleri: Karşılaştırmalı analizler için
-- Kutu grafikleri: Dağılım analizleri için
-- Isı haritaları: Korelasyon analizleri için
+
+
 
 ## Teknik Gereksinimler
 - Python 3.8 veya üzeri
