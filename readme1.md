@@ -2,7 +2,8 @@
 
 # 📌 İçindekiler  
 
-- [2022-2023-2024 Yılları En Düşük Fiyatlı Sebze](#2022-2023-2024-yillari-en-dusuk-fiyatli-sebze)  
+- [2022-2023-2024 Yılları En Düşük Fiyatlı Sebze](#2022-2023-2024-yillari-en-dusuk-fiyatli-sebze)
+  
 
 - [2022-2023-2024 Yılları En Yüksek Fiyatlı Sebze](#2022-2023-2024-yillari-en-yuksek-fiyatli-sebze)  
 
@@ -14,7 +15,7 @@
 
 
 
-# 2022-2023-2024 Yılları En Düşük Fiyatlı Sebze  
+## 2022-2023-2024 Yillari En Dusuk Fiyatli Sebze
 
 
 
