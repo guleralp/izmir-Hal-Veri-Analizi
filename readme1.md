@@ -1,72 +1,53 @@
-
-
 # 📌 İçindekiler  
 
-- [2022-2023-2024 YILLARI EN DÜŞÜK FİYATLI SEBZE](#2022-2023-2024-yillari-en-dusuk-fiyatli-sebze)  
-- [2022-2023-2024 YILLARI EN YÜKSEK FİYATLI SEBZE](#2022-2023-2024-yillari-en-yuksek-fiyatli-sebze)
-- [2022-2023-2024 YILLARI EN YÜKSEK FİYATA SAHİP MEYVE](#2022-2023-2024-yillari-en-yuksek-fiyata-sahip-meyve)
-- [2022 YILINDA EN AZ FİYAT DEĞİŞİMİ GÖSTEREN 5 ÜRÜN](#2022-yilinda-en-az-fiyat-degisimi-gosteren-5-urun)
-- [2022 YILI İLKBAHAR MEVSİMİNDE EN YÜKSEK FİYAT DEĞİŞİMİ GÖSTEREN 5 ÜRÜN](#2022-yili-ilkbahar-mevsiminde-en-yuksek-fiyat-degisimi-gosteren-5-urun)
-- [2022 YILI KIŞ MEVSİMİNDE EN YÜKSEK FİYAT DEĞİŞİMİ GÖSTEREN 5 ÜRÜN](#2022-yili-kis-mevsiminde-en-yuksek-fiyat-degisimi-gosteren-5-urun)
-- [2022 YILI SONBAHAR MEVSİMİNDE EN YÜKSEK FİYAT DEĞİŞİMİ GÖSTEREN 5 ÜRÜN](#2022-yili-sonbahar-mevsiminde-en-yuksek-fiyat-degisimi-gosteren-5-urun)
-- [2022 YILINDA YAZ MEVSİMİNDE EN YÜKSEK FİYAT DEĞİŞİMİ GÖSTEREN 5 ÜRÜN](#2022-yilinda-yaz-mevsiminde-en-yuksek-fiyat-degisimi-gosteren-5-urun)
-- [2022 YILI EN DÜŞÜK FİYATA SAHİP ÜRÜN VE FİYAT DEĞİŞİMİ](#2022-yili-en-dusuk-fiyata-sahip-urun-ve-fiyat-degisimi)
-- [2022 YILI EN YÜKSEK FİYATA SAHİP ÜRÜN VE FİYAT DEĞİŞİMİ](#2022-yili-en-yuksek-fiyata-sahip-urun-ve-fiyat-degisimi)
-- [2022 YILI EN YÜKSEK FİYAT DEĞİŞİM GÖSTEREN 5 ÜRÜN](#2022-yili-en-yuksek-fiyat-degisim-gosteren-5-urun)
-- [2022 YILINA AİT MEYVE KATEGORİSİNDEKİ EN YÜKSEK FİYATA SAHİP ÜRÜN VE FİYAT DEĞİŞİMİ](#2022-yilina-ait-meyve-kategorisindeki-en-yuksek-fiyata-sahip-urun-ve-fiyat-degisimi)
-- [2022 YILINA AİT SEBZE KATEGORİSİNDEKİ EN YÜKSEK FİYATA SAHİP ÜRÜN VE FİYAT DEĞİŞİMİ](#2022-yilina-ait-sebze-kategorisindeki-en-yuksek-fiyata-sahip-urun-ve-fiyat-degisimi)
-- [2023 YILI EN AZ FİYAT DEĞİŞİMİ GÖSTEREN 5 ÜRÜN](#2023-yili-en-az-fiyat-degisimi-gosteren-5-urun)
-- [2023 YILI EN YÜKSEK FİYAT DEĞİŞİMİ GÖSTEREN 5 ÜRÜN](#2023-yili-en-yuksek-fiyat-degisimi-gosteren-5-urun)
-- [2023 YILINDA EN AZ FİYAT DEĞİŞİMİ GÖSTEREN ÜRÜN VE FİYAT DEĞİŞİMİ](#2023-yilinda-en-az-fiyat-degisimi-gosteren-urun-ve-fiyat-degisimi)
-- [2023 YILINDA EN YÜKSEK FİYATLI ÜRÜN VE FİYAT DEĞİŞİMİ](#2023-yilinda-en-yuksek-fiyatli-urun-ve-fiyat-degisimi)
-- [2023 YILI İLKBAHAR MEVSİMİNDE EN YÜKSEK FİYAT DEĞİŞİMİ GÖSTEREN 5 ÜRÜN](#2023-yili-ilkbahar-mevsiminde-en-yuksek-fiyat-degisimi-gosteren-5-urun)
-- [2023 YILI KIŞ MEVSİMİNDE EN YÜKSEK FİYAT DEĞİŞİMİ GÖSTEREN 5 ÜRÜN](#2023-yili-kis-mevsiminde-en-yuksek-fiyat-degisimi-gosteren-5-urun)
-- [2023 YILI SONBAHAR MEVSİMİNDE EN YÜKSEK FİYAT DEĞİŞİMİ GÖSTEREN 5 ÜRÜN](#2023-yili-sonbahar-mevsiminde-en-yuksek-fiyat-degisimi-gosteren-5-urun)
-- [2023 YILINDA YAZ MEVSİMİNDE EN YÜKSEK FİYAT DEĞİŞİMİ GÖSTEREN 5 ÜRÜN](#2023-yilinda-yaz-mevsiminde-en-yuksek-fiyat-degisimi-gosteren-5-urun)
-- [2023 YILI MEYVE KATEGORİSİNDEKİ EN YÜKSEK FİYATA SAHİP ÜRÜN VE FİYAT DEĞİŞİMİ](#2023-yili-meyve-kategorisindeki-en-yuksek-fiyata-sahip-urun-ve-fiyat-degisimi)
-- [2023 SEBZE KATEGORİSİNDE EN YÜKSEK FİYATA SAHİP ÜRÜN VE FİYAT DEĞİŞİMİ](#2023-sebze-kategorisinde-en-yuksek-fiyata-sahip-urun-ve-fiyat-degisimi)
-- [2024 YILI EN YÜKSEK FİYAT DEĞİŞİMİ GÖSTEREN 5 ÜRÜN](#2024-yili-en-yuksek-fiyat-degisimi-gosteren-5-urun)
-- [2024 YILI EN AZ FİYAT DEĞİŞİMİ GÖSTEREN 5 ÜRÜN](#2024-yili-en-az-fiyat-degisimi-gosteren-5-urun)
-- [2024 YILI EN AZ FİYATA SAHİP ÜRÜN VE FİYAT DEĞİŞİMİ](#2024-yili-en-az-fiyata-sahip-urun-ve-fiyat-degisimi)
-- [2024 YILI EN YÜKSEK FİYATA SAHİP ÜRÜN VE FİYAT DEĞİŞİMİ](#2024-yili-en-yuksek-fiyata-sahip-urun-ve-fiyat-degisimi)
-- [2024 YILI İLKBAHAR MEVSİMİ EN YÜKSEK FİYAT DEĞİŞİMİ GÖSTEREN 5 ÜRÜN](#2024-yili-ilkbahar-mevsimi-en-yuksek-fiyat-degisimi-gosteren-5-urun)
-- [2024 YILI KIŞ MEVSİMİ EN YÜKSEK FİYAT DEĞİŞİMİ GÖSTEREN 5 ÜRÜN](#2024-yili-kis-mevsimi-en-yuksek-fiyat-degisimi-gosteren-5-urun)
-- [2024 YILI SONBAHAR MEVSİMİ EN YÜKSEK FİYAT DEĞİŞİMİ GÖSTEREN 5 ÜRÜN](#2024-yili-sonbahar-mevsimi-en-yuksek-fiyat-degisimi-gosteren-5-urun)
-- [2024 YILI YAZ MEVSİMİ EN YÜKSEK FİYAT DEĞİŞİMİ GÖSTEREN 5 ÜRÜN](#2024-yili-yaz-mevsimi-en-yuksek-fiyat-degisimi-gosteren-5-urun)
-- [2024 YILI SEZONLUK MEYVE FİYATLARI](#2024-yili-sezonluk-meyve-fiyatlari)
-- [2024 YILI SEZONLUK SEBZE FİYATLARI](#2024-yili-sezonluk-sebze-fiyatlari)
-- [2024 YILI MEYVE KATEGORİSİ EN YÜKSEK FİYATA SAHİP ÜRÜN VE FİYAT DEĞİŞİMİ](#2024-yili-meyve-kategorisi-en-yuksek-fiyata-sahip-urun-ve-fiyat-degisimi)
-- [2024 YILI SEBZE KATEGORİSİ EN YÜKSEK FİYATA SAHİP ÜRÜN VE FİYAT DEĞİŞİMİ](#2024-yili-sebze-kategorisi-en-yuksek-fiyata-sahip-urun-ve-fiyat-degisimi)
-- [2024 YILI YERLİ VE İTHAL BİBER FİYAT KARŞILAŞTIRMASI](#2024-yili-yerli-ve-ithal-biber-fiyat-karsilastirmasi)
-- [2024 YILI YERLİ VE İTHAL ELMA FİYAT KARŞILAŞTIRMASI](#2024-yili-yerli-ve-ithal-elma-fiyat-karsilastirmasi)
-- [2024 YILI YERLİ VE İTHAL KİVİ FİYAT KARŞILAŞTIRMASI](#2024-yili-yerli-ve-ithal-kivi-fiyat-karsilastirmasi)
-- [2024 YILI YERLİ VE İTHAL MUZ FİYAT KARŞILAŞTIRMASI](#2024-yili-yerli-ve-ithal-muz-fiyat-karsilastirmasi)
-- [2024 YILI YERLİ VE İTHAL SARIMSAK FİYAT KARŞILAŞTIRMASI](#2024-yili-yerli-ve-ithal-sarimsak-fiyat-karsilastirmasi)
-- [FİYATI BİR ÖNCEKİ SATIŞ FİYATINA GÖRE %100 ÜZERİNDE ARTAN MEYVE TÜRLERİ VE FİYAT DEĞİŞİMLERİ](#fiyati-bir-onceki-satis-fiyatina-gore-100-uzerinde-artan-meyve-turleri-ve-fiyat-degisimleri)
-- [FİYATI BİR ÖNCEKİ SATIŞ FİYATINA GÖRE %100 ÜZERİNDE ARTAN SEBZE TÜRLERİ VE FİYAT DEĞİŞİMLERİ](#fiyati-bir-onceki-satis-fiyatina-gore-100-uzerinde-artan-sebze-turleri-ve-fiyat-degisimleri)
-- [FİYATI BİR ÖNCEKİ SATIŞ FİYATINA GÖRE %50 ÜZERİNDE ARTAN İTHAL ÜRÜNLER VE FİYAT DEĞİŞİMLERİ](#fiyati-bir-onceki-satis-fiyatina-gore-50-uzerinde-artan-ithal-urunler-ve-fiyat-degisimleri)
-- [2024 YILI İTHAL ÜRÜNLERİN EN YÜKSEK FİYAT ARTIŞLARI](#2024-yili-ithal-urunlerin-en-yuksek-fiyat-artislari)
-- [2025 YILI ÜRÜN TÜRLERİNE GÖRE FİYAT TAHMİNLERİ](#2025-yili-urun-turlerine-gore-fiyat-tahminleri)
-- [2025 YILI EN YÜKSEK FİYAT TAHMİNLERİ](#2025-yili-en-yuksek-fiyat-tahminleri)
+- [2022-2023-2024 Yılları En Düşük Fiyatlı Sebze](#2022-2023-2024-yillari-en-dusuk-fiyatli-sebze)  
+- [2022-2023-2024 Yılları En Yüksek Fiyatlı Sebze](#2022-2023-2024-yillari-en-yuksek-fiyatli-sebze)
+- [2022-2023-2024 Yılları En Yüksek Fiyata Sahip Meyve](#2022-2023-2024-yillarinda-en-yuksek-fiyata-sahip-meyve)
+- [2022 Yılında En Az Fiyat Değişimi Gösteren 5 Ürün](#2022-yilinda-en-az-fiyat-degisimi-gosteren-5-urun)
+- [2022 Yılı İlkbahar Mevsiminde En Yüksek Fiyat Değişimi Gösteren 5 Ürün](#2022-yili-ilkbahar-mevsiminde-en-yuksek-fiyat-degisimi-gosteren-5-urun)
+- [2022 Yılı Kış Mevsiminde En Yüksek Fiyat Değişimi Gösteren 5 Ürün](#2022-yili-kis-mevsiminde-en-yuksek-fiyat-degisimi-gosteren-5-urun)
+- [2022 Yılı Sonbahar Mevsiminde En Yüksek Fiyat Değişimi Gösteren 5 Ürün](#2022-yili-sonbahar-mevsiminde-en-yuksek-fiyat-degisimi-gosteren-5-urun)
+- [2022 Yılında Yaz Mevsiminde En Yüksek Fiyat Değişimi Gösteren 5 Ürün](#2022-yilinda-yaz-mevsiminde-en-yuksek-fiyat-degisimi-gosteren-5-urun)
+- [2022 Yılı En Düşük Fiyata Sahip Ürün ve Fiyat Değişimi](#2022-yili-en-dusuk-fiyata-sahip-urun-ve-fiyat-degisimi)
+- [2022 Yılı En Yüksek Fiyata Sahip Ürün ve Fiyat Değişimi](#2022-yili-en-yuksek-fiyata-sahip-urun-ve-fiyat-degisimi)
+- [2022 Yılı En Yüksek Fiyat Değişim Gösteren 5 Ürün](#2022-yili-en-yuksek-fiyat-degisim-gosteren-5-urun)
+- [2022 Yılına Ait Meyve Kategorisindeki En Yüksek Fiyata Sahip Ürün ve Fiyat Değişimi](#2022-yilina-ait-meyve-kategorisindeki-en-yuksek-fiyata-sahip-urun-ve-fiyat-degisimi)
+- [2022 Yılına Ait Sebze Kategorisindeki En Yüksek Fiyata Sahip Ürün ve Fiyat Değişimi](#2022-yilina-ait-sebze-kategorisindeki-en-yuksek-fiyata-sahip-urun-ve-fiyat-degisimi)
+- [2023 Yılı En Az Fiyat Değişimi Gösteren 5 Ürün](#2023-yili-en-az-fiyat-degisimi-gosteren-5-urun)
+- [2023 Yılı En Yüksek Fiyat Değişimi Gösteren 5 Ürün](#2023-yili-en-yuksek-fiyat-degisimi-gosteren-5-urun)
+- [2023 Yılında En Az Fiyat Değişimi Gösteren Ürün ve Fiyat Değişimi](#2023-yilinda-en-az-fiyat-degisimi-gosteren-urun-ve-fiyat-degisimi)
+- [2023 Yılında En Yüksek Fiyatlı Ürün ve Fiyat Değişimi](#2023-yilinda-en-yuksek-fiyatli-urun-ve-fiyat-degisimi)
+- [2023 Yılı İlkbahar Mevsiminde En Yüksek Fiyat Değişimi Gösteren 5 Ürün](#2023-yili-ilkbahar-mevsiminde-en-yuksek-fiyat-degisimi-gosteren-5-urun)
+- [2023 Yılı Kış Mevsiminde En Yüksek Fiyat Değişimi Gösteren 5 Ürün](#2023-yili-kis-mevsiminde-en-yuksek-fiyat-degisimi-gosteren-5-urun)
+- [2023 Yılı Sonbahar Mevsiminde En Yüksek Fiyat Değişimi Gösteren 5 Ürün](#2023-yili-sonbahar-mevsiminde-en-yuksek-fiyat-degisimi-gosteren-5-urun)
+- [2023 Yılında Yaz Mevsiminde En Yüksek Fiyat Değişimi Gösteren 5 Ürün](#2023-yilinda-yaz-mevsiminde-en-yuksek-fiyat-degisimi-gosteren-5-urun)
+- [2023 Yılı Meyve Kategorisindeki En Yüksek Fiyata Sahip Ürün ve Fiyat Değişimi](#2023-yili-meyve-kategorisindeki-en-yuksek-fiyata-sahip-urun-ve-fiyat-degisimi)
+- [2023 Sebze Kategorisinde En Yüksek Fiyata Sahip Ürün ve Fiyat Değişimi](#2023-sebze-kategorisinde-en-yuksek-fiyata-sahip-urun-ve-fiyat-degisimi)
+- [2024 Yılı En Yüksek Fiyat Değişimi Gösteren 5 Ürün](#2024-yili-en-yuksek-fiyat-degisimi-gosteren-5-urun)
+- [2024 Yılı En Az Fiyat Değişimi Gösteren 5 Ürün](#2024-yili-en-az-fiyat-degisimi-gosteren-5-urun)
+- [2024 Yılı En Az Fiyata Sahip Ürün ve Fiyat Değişimi](#2024-yili-en-az-fiyata-sahip-urun-ve-fiyat-degisimi)
+- [2024 Yılı En Yüksek Fiyata Sahip Ürün ve Fiyat Değişimi](#2024-yili-en-yuksek-fiyata-sahip-urun-ve-fiyat-degisimi)
+- [2024 Yılı İlkbahar Mevsimi En Yüksek Fiyat Değişimi Gösteren 5 Ürün](#2024-yili-ilkbahar-mevsimi-en-yuksek-fiyat-degisimi-gosteren-5-urun)
+- [2024 Yılı Kış Mevsimi En Yüksek Fiyat Değişimi Gösteren 5 Ürün](#2024-yili-kis-mevsimi-en-yuksek-fiyat-degisimi-gosteren-5-urun)
+- [2024 Yılı Sonbahar Mevsimi En Yüksek Fiyat Değişimi Gösteren 5 Ürün](#2024-yili-sonbahar-mevsimi-en-yuksek-fiyat-degisimi-gosteren-5-urun)
+- [2024 Yılı Yaz Mevsimi En Yüksek Fiyat Değişimi Gösteren 5 Ürün](#2024-yili-yaz-mevsimi-en-yuksek-fiyat-degisimi-gosteren-5-urun)
+- [2024 Yılı Sezonluk Meyve Fiyatları](#2024-yili-sezonluk-meyve-fiyatlari)
+- [2024 Yılı Sezonluk Sebze Fiyatları](#2024-yili-sezonluk-sebze-fiyatlari)
+- [2024 Yılı Meyve Kategorisi En Yüksek Fiyata Sahip Ürün ve Fiyat Değişimi](#2024-yili-meyve-kategorisi-en-yuksek-fiyata-sahip-urun-ve-fiyat-degisimi)
+- [2024 Yılı Sebze Kategorisi En Yüksek Fiyata Sahip Ürün ve Fiyat Değişimi](#2024-yili-sebze-kategorisi-en-yuksek-fiyata-sahip-urun-ve-fiyat-degisimi)
+- [2024 Yılı Yerli ve İthal Biber Fiyat Karşılaştırması](#2024-yili-yerli-ve-ithal-biber-fiyat-karsilastirmasi)
+- [2024 Yılı Yerli ve İthal Elma Fiyat Karşılaştırması](#2024-yili-yerli-ve-ithal-elma-fiyat-karsilastirmasi)
+- [2024 Yılı Yerli ve İthal Kivi Fiyat Karşılaştırması](#2024-yili-yerli-ve-ithal-kivi-fiyat-karsilastirmasi)
+- [2024 Yılı Yerli ve İthal Muz Fiyat Karşılaştırması](#2024-yili-yerli-ve-ithal-muz-fiyat-karsilastirmasi)
+- [2024 Yılı Yerli ve İthal Sarımsak Fiyat Karşılaştırması](#2024-yili-yerli-ve-ithal-sarimsak-fiyat-karsilastirmasi)
+- [Fiyatı Bir Önceki Satış Fiyatına Göre %100 Üzerinde Artan Meyve Türleri ve Fiyat Değişimleri](#fiyati-bir-onceki-satis-fiyatina-gore-100-uzerinde-artan-meyve-turleri-ve-fiyat-degisimleri)
+- [Fiyatı Bir Önceki Satış Fiyatına Göre %100 Üzerinde Artan Sebze Türleri ve Fiyat Değişimleri](#fiyati-bir-onceki-satis-fiyatina-gore-100-uzerinde-artan-sebze-turleri-ve-fiyat-degisimleri)
+- [Fiyatı Bir Önceki Satış Fiyatına Göre %50 Üzerinde Artan İthal Ürünler ve Fiyat Değişimleri](#fiyati-bir-onceki-satis-fiyatina-gore-50-uzerinde-artan-ithal-urunler-ve-fiyat-degisimleri)
+- [2024 Yılı İthal Ürünlerin En Yüksek Fiyat Artışları](#2024-yili-ithal-urunlerin-en-yuksek-fiyat-artislari)
+- [2025 Yılı Ürün Türlerine Göre Fiyat Tahminleri](#2025-yili-urun-turlerine-gore-fiyat-tahminleri)
+- [2025 Yılı En Yüksek Fiyat Tahminleri](#2025-yili-en-yuksek-fiyat-tahminleri)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-## 2022-2023-2024 YILLARI EN DÜŞÜK FİYATLI SEBZE
+## 2022-2023-2024 Yılları En Düşük Fiyatlı Sebze
 
 
 ![2022_2023_2024_en_dusuk_fiyatli_sebze.png](outputs/2022_2023_2024_en_dusuk_fiyatli_sebze.png)
@@ -91,7 +72,7 @@ Bu grafik, en temel sebzelerden biri olan maydanozun bile son üç yılda öneml
 ------------------------------------------------------------------------
 
 
-2022-2023-2024 YILLARI EN YÜKSEK FİYATLI SEBZE:
+2022-2023-2024 Yılları En Yüksek Fiyatlı Sebze:
 
 
 ![2022_2023_2024_en_yuksek_fiyatli_sebze.png](outputs/2022_2023_2024_en_yuksek_fiyatli_sebze.png)
@@ -140,7 +121,7 @@ Mevsimsel etkiler, özellikle hasat sonrası dönemlerde fiyat dalgalanmaların�
 ---------------------------------------------------------------------------
 
 
-2022-2023-2024 YILLARI EN YÜKSEK FİYATA SAHİP MEYVE:
+2022-2023-2024 Yılları En Yüksek Fiyata Sahip Meyve:
 
 ![2022_2023_2024_yillarinda_en_yuksek_fiyata_sahip_meyve.png](outputs/2022_2023_2024_yillarinda_en_yuksek_fiyata_sahip_meyve.png)
 
@@ -186,7 +167,7 @@ Bu değişimler, can eriği piyasasının son yıllarda giderek daha dalgalı bi
 ---------------------------------------------------------------------------
 
 
-2022 YILINDA EN AZ FİYAT DEĞİŞİMİ GÖSTEREN 5 ÜRÜN:
+2022 Yılında En Az Fiyat Değişimi Gösteren 5 Ürün:
 
 ![2022_en_az_fiyat_degisimi_top5.png](outputs/2022_en_az_fiyat_degisimi_top5.png)
 
@@ -637,7 +618,7 @@ Belirli mevsimlerde üretim ve talep dengesine bağlı olarak ciddi dalgalanmala
 
 
 
-2024 yılı yerli ve ithal biber fiyatlarını gösteren grafiği incelediğimizde, Kaliforniya biberi (ithal) ile dolma biber (yerli) arasında önemli fiyat farklılıkları göze çarpıyor. Kaliforniya biberi yıl boyunca 43-110 TL aralığında seyrederken, dolma biber çok daha uygun bir fiyat aralığında, 18-45 TL bandında değişim gösteriyor. Mevsimsel değişimlere baktığımızda, ilkbahar aylarında (3-4-5. aylar) dolma biber fiyatları 35 TL'den 18 TL'ye düşerken, Kaliforniya biberi 60 TL civarında sabit kalıyor. Yaz döneminde (6-7-8. aylar) ise durum değişiyor; Kaliforniya biberi keskin bir yükselişle 60 TL'den 85 TL'ye çıkarken, dolma biber fiyatları da hafif bir artışla 20 TL'den 30 TL'ye yükseliyor,daha sonra da fiyatı 25 TL'ye geriliyor. Sonbahar aylarına (9-10-11. aylar) gelindiğinde, Kaliforniya biberinde önce bir düşüş, ardından tekrar yükseliş gözlenirken, dolma biber fiyatları kademeli olarak artış gösteriyor. Kış aylarında ise her iki ürün de en yüksek fiyatlarına ulaşıyor; Kaliforniya biberi 110 TL civarına çıkarken, dolma biber 45 TL seviyelerine yükseliyor. İki ürün arasındaki fiyat farkı özellikle yılın son aylarında en yüksek seviyeye ulaşıyor. Yerli dolma biberin fiyatları mevsimsellikten daha fazla etkileniyor ve tüketiciler için en uygun alım dönemi ilkbahar ayları olarak öne çıkıyor. Her iki ürün için de kış ayları en yüksek fiyatların görüldüğü dönem olarak dikkat çekiyor. Bu veriler ışığında, özellikle ekonomik alışveriş yapmak isteyen tüketiciler için yerli dolma biberin ilkbahar ve yaz başlangıcında daha uygun bir seçenek olduğunu söyleyebiliriz.
+2024 yılı yerli ve ithal biber fiyatlarını gösteren grafiği incelediğimizde, Kaliforniya biberi (ithal) ile dolma biber (yerli) arasında önemli fiyat farklılıkları göze çarpıyor. Kaliforniya biberi yıl boyunca 43-110 TL aralığında seyrederken, dolma biber çok daha uygun bir fiyat aralığında, 18-45 TL bandında değişim gösteriyor. Mevsimsel değişimlere baktığımızda, ilkbahar aylarında (3-4-5. aylar) dolma biber fiyatları 35 TL'den 18 TL'ye düşerken, Kaliforniya biberi 60 TL civarında sabit kalıyor. Yaz döneminde (6-7-8. aylar) ise durum değişiyor; Kaliforniya biberi keskin bir yükselişle 60 TL'den 85 TL'ye çıkarken, dolma biber fiyatları da hafif bir artışla 20 TL'den 30 TL'ye yükseliyor,daha sonra da fiyatı 25 TL'ye geriliyor. Sonbahar aylarına (9-10-11. aylar) gelindiğinde, Kaliforniya biberinde önce bir düşüş, ardından tekrar yükseliş gözlenirken, dolma biber fiyatları kademeli olarak artış gösteriyor. Kış aylarında ise her iki ürün de en yüksek fiyatlarına ulaşıyor; Kaliforniya biberi 110 TL civarına çıkarken, dolma biber 45 TL seviyelerine yükseliyor. İki ürün arasındaki fiyat farkı özellikle yılın son aylarında en yüksek seviyeye ulaşıyor. Yerli dolma biberin fiyatları mevsimsellikten daha fazla etkileniyor ve tüketiciler için en uygun alım dönemi ilkbahar ayları olarak öne çıkıyor. Her iki ürün için de kış ayları en yüksek fiyatların görüldüğü dönem olak karşımıza çıkıyor. Bu veriler ışığında, özellikle ekonomik alışveriş yapmak isteyen tüketiciler için yerli dolma biberin ilkbahar ve yaz başlangıcında daha uygun bir seçenek olduğunu söyleyebiliriz.
 
 
 ---------------------------------------------------------------------------------------------------
